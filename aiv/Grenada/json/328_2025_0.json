@@ -1,0 +1,1037 @@
+[
+    {
+        "type": "text",
+        "text": "Grenada: 2025 Article IV Consultation-Press Release; and Staff Report ",
+        "text_level": 1,
+        "bbox": [
+            32,
+            132,
+            861,
+            300
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "IMF Country Reports  26/009 ",
+        "bbox": [
+            271,
+            27,
+            962,
+            71
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "INTERNATIONAL MONETARY FUND",
+        "bbox": [
+            214,
+            901,
+            785,
+            929
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "GRENADA ",
+        "text_level": 1,
+        "bbox": [
+            194,
+            127,
+            405,
+            156
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2025 ARTICLE IV CONSULTATION—PRESS RELEASE AND STAFF REPORT ",
+        "text_level": 1,
+        "bbox": [
+            192,
+            167,
+            826,
+            209
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Under Article IV of the IMF’s Articles of Agreement, the IMF holds bilateral discussions with members, usually every year. In the context of the 2025 Article IV consultation with Grenada, the following documents have been released and are included in this package: ",
+        "bbox": [
+            192,
+            227,
+            864,
+            280
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "• A Press Release. ",
+            "• The Staff Report prepared by a staff team of the IMF for the Executive Board’s consideration on a lapse of time basis, following discussions that ended on October 29, 2025, with the officials of Grenada on economic developments and policies. Based on information available at the time of these discussions, the staff report was completed on December 17, 2025. ",
+            "• An Informational Annex prepared by the IMF staff. ",
+            "• A Debt Sustainability Analysis prepared by the staffs of the IMF and the World Bank. "
+        ],
+        "bbox": [
+            192,
+            299,
+            877,
+            476
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The IMF’s transparency policy allows for the deletion of market-sensitive information and premature disclosure of the authorities’ policy intentions in published staff reports and other documents. ",
+        "bbox": [
+            192,
+            489,
+            874,
+            541
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Copies of this report are available to the public from ",
+        "bbox": [
+            338,
+            595,
+            740,
+            612
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "International Monetary Fund • Publication Services ",
+        "bbox": [
+            344,
+            631,
+            733,
+            647
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PO Box 92780 • Washington, D.C. 20090 ",
+        "bbox": [
+            385,
+            648,
+            692,
+            665
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Telephone: (202) 623-7430 • Fax: (202) 623-7201 ",
+        "bbox": [
+            354,
+            666,
+            723,
+            681
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "E-mail: publications@imf.org Web: http://www.imf.org ",
+        "bbox": [
+            330,
+            684,
+            750,
+            700
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "International Monetary Fund Washington, D.C. ",
+        "bbox": [
+            392,
+            738,
+            687,
+            780
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            81,
+            18,
+            174,
+            95
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "INTERNATIONAL MONETARY FUND",
+        "bbox": [
+            230,
+            64,
+            807,
+            87
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "IMF Country Report No. 26/9 ",
+        "bbox": [
+            630,
+            109,
+            870,
+            125
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "aside_text",
+        "text": "January 2026 ",
+        "bbox": [
+            29,
+            191,
+            133,
+            209
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "footer",
+        "text": "© 2026 International Monetary Fund ",
+        "bbox": [
+            194,
+            936,
+            478,
+            954
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "footer",
+        "text": "©International Monetary Fund. Not for Redistribution ",
+        "bbox": [
+            253,
+            974,
+            720,
+            993
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "IMF Executive Board Concludes 2025 Article IV Consultation with Grenada ",
+        "text_level": 1,
+        "bbox": [
+            174,
+            138,
+            823,
+            184
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "FOR IMMEDIATE RELEASE ",
+        "bbox": [
+            395,
+            196,
+            601,
+            212
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Washington, DC – January 21, 2026: The Executive Board of the International Monetary Fund (IMF) concluded the Article IV Consultation with Grenada1 , and considered and endorsed the staff appraisal without a meeting.2 ",
+        "bbox": [
+            151,
+            229,
+            839,
+            280
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Grenada’s economy has proven resilient in the aftermath of Hurricane Beryl, despite elevated global uncertainties. Growth in 2025 is estimated to have accelerated to 4.4 percent, driven by strong investment and construction activity. Inflation has continued to moderate, reflecting easing global food and fuel prices. The fiscal position remains comfortable notwithstanding a temporary suspension of fiscal rules and an estimated 2025 primary deficit of 3.2 percent of GDP. Effectiveness of Grenada’s post-disaster financing framework and prudent savings of recent citizenship-by-investment (CBI) revenues have provided space for continued investment in key development priorities. The financial sector remains stable, with a modest posthurricane impact. ",
+        "bbox": [
+            151,
+            295,
+            841,
+            446
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Over the medium term, GDP growth is projected to gradually moderate to a more modest estimated potential rate of 2.7 percent by 2029 even as large public investment projects sustain high construction activity. Anticipated return to the 1.5 percent of GDP central government primary balance floor from 2027 would support keeping public debt on a sustainable trajectory, with the 60 percent of GDP target projected to be achieved by 2033. Key downside risks stem from Grenada’s high susceptibility to shocks associated with its tourism and import dependency as well as vulnerability to natural disasters. Faster-thanprojected tourism resort developments represent the main upside risk. ",
+        "bbox": [
+            151,
+            462,
+            812,
+            597
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Executive Board Assessment ",
+        "text_level": 1,
+        "bbox": [
+            153,
+            611,
+            377,
+            626
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In concluding the 2025 Article IV consultation with Grenada, Executive Directors endorsed staff’s appraisal, as follows: ",
+        "bbox": [
+            151,
+            643,
+            805,
+            676
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Grenada’s economy continues to navigate elevated global uncertainties effectively in the aftermath of Hurricane Beryl. Economic activity remains robust, with strong investment and construction more than offsetting a moderation in tourism inflows. Major public infrastructure projects will sustain buoyant construction over the medium-term, extending the gradual ",
+        "bbox": [
+            151,
+            691,
+            836,
+            760
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "★MC *0 ",
+        "bbox": [
+            45,
+            27,
+            145,
+            104
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "PRESS RELEASE ",
+        "bbox": [
+            764,
+            55,
+            942,
+            74
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "PR 26/011 ",
+        "bbox": [
+            841,
+            104,
+            937,
+            121
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "page_footnote",
+        "text": "1 Under Article IV of the IMF's Articles of Agreement, the IMF holds bilateral discussions with members, usually every year. A staff team visits the country, collects economic and financial information, and discusses with officials the country's economic developments and policies. On return to headquarters, the staff prepares a report, which forms the basis for discussion by the Executive Board. ",
+        "bbox": [
+            151,
+            797,
+            830,
+            857
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "page_footnote",
+        "text": "2 The Executive Board takes decisions under its lapse-of-time procedure when the Board agrees that a proposal can be considered without convening formal discussions. ",
+        "bbox": [
+            151,
+            864,
+            828,
+            897
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "footer",
+        "text": "700 19th Street NW ",
+        "bbox": [
+            44,
+            930,
+            151,
+            941
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "footer",
+        "text": "Washington, DC 20431 ",
+        "bbox": [
+            44,
+            941,
+            169,
+            955
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "footer",
+        "text": "USA ",
+        "bbox": [
+            44,
+            955,
+            73,
+            967
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "footer",
+        "text": "IMF.org ",
+        "bbox": [
+            906,
+            943,
+            952,
+            955
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "footer",
+        "text": "©International Monetary Fund. Not for Redistribution ",
+        "bbox": [
+            254,
+            974,
+            720,
+            993
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "moderation in overall growth toward its long-term potential. Current low inflation is expected to gradually normalize by 2028. Grenada’s external position in 2024 is assessed as weaker than the level implied by medium-term fundamentals and desirable policies and the large current account deficit will remain elevated over the medium-term until construction import pressures subside. Notwithstanding near-term fiscal deficits amid reconstruction and other priority spending, the underlying fiscal position remains sound. ",
+        "bbox": [
+            156,
+            90,
+            841,
+            193
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Downside risks to the outlook persist amid heightened global economic and geopolitical uncertainties. These stem from Grenada’s high vulnerability to natural disasters and reliance on tourism and imports, even as moderate shocks to key tourism source countries or global commodity and shipping prices are assessed to have only modest impact. Risks could be amplified by disruptions to CBI and FDI inflows, materialization of risks in the domestic nonbank financial system or delays, or cost overruns in large investment projects. Faster-thanexpected expansion in tourism capacity represents a key upside risk. A robust disaster resilience framework and government deposits provide important buffers against shocks. ",
+        "bbox": [
+            156,
+            207,
+            841,
+            342
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The temporary suspension of the primary balance rule provided fiscal space for post-disaster reconstruction without disrupting other priority spending. Returning to the fiscal rules in 2027 is important to safeguard fiscal discipline and keep debt on a sustainable path. Continued expenditure prudence alongside revenue-enhancing measures would help preserve budget space for development priority investments. ",
+        "bbox": [
+            156,
+            356,
+            834,
+            441
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The perimeter of the primary balance rule could be better aligned with the general government debt anchor. Capturing government off-budget and public on-lending-financed investments would help ensure the rule effectively restrains debt-creating spending. In the interim, such investments should be included in central government budget planning and adhere to equivalent reporting and auditing standards. Recent progress in strengthening SOE and statutory body oversight should continue with a view to eventually integrating these into the Medium-Term Fiscal Framework. ",
+        "bbox": [
+            156,
+            455,
+            831,
+            571
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "While the ambitious public investment projects address important development needs, the associated fiscal risks require careful management. This includes continuing recent strengthening of project management to minimize delays or cost overruns, and a careful assessment of future operating and maintenance costs to avoid unfunded liabilities. Plans to catalyze private investment, including around Project Polaris, underscore the need to operationalize the PPP framework. Strengthening management of CBI resources, continuing improvements to MTFF projections and clearing the backlog of audited government statements remain also important. ",
+        "bbox": [
+            156,
+            588,
+            823,
+            722
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Accelerating system-wide credit growth and non-bank vulnerabilities call for careful monitoring. Higher bank lending reflects a still-nascent reversal from long-subdued credit conditions, supported by ample liquidity and relatively strong asset quality in the region. While credit unions show some encouraging asset quality improvements, ensuring loan loss provisions are sufficient and stepping up forbearance monitoring remain critical to safeguard against risks. Enhancing monitoring of reinsurance conditions and local market pricing in the general insurance sector remains important. The authorities are encouraged to maintain recent momentum in strengthening the AML/CFT framework. ",
+        "bbox": [
+            156,
+            737,
+            841,
+            872
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "page_number",
+        "text": "2 ",
+        "bbox": [
+            491,
+            47,
+            504,
+            59
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "footer",
+        "text": "©International Monetary Fund. Not for Redistribution ",
+        "bbox": [
+            256,
+            974,
+            718,
+            992
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The limited potential growth impact from Grenada’s FDI-driven tourism expansion highlights the need to strengthen the domestic foundations of growth. This includes more closely coordinated efforts to facilitate local investment and business development, enhancing locally offered tourism services and intersectoral linkages, reducing goods trade frictions, and strengthening the economy’s human capital and productivity underpinnings. Infrastructure project decisions should continue to pay close attention to disaster resilience in alignment with the updated National Adaptation plan. ",
+        "bbox": [
+            155,
+            90,
+            833,
+            208
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Improving quality of economic data and institutional capacity is critical to support informed policymaking. Data deficiencies contribute to uncertainty in policy analysis and economic forecasts. These include common gaps in the region in balance of payments coverage, monitoring of large investment projects, outdated CPI weights, and missing GDP expenditure data. Capacity constraints from persistent staffing shortages and turnover warrant prioritized attention in alignment with the ongoing public sector functional review and staff regularization process. ",
+        "bbox": [
+            155,
+            223,
+            828,
+            340
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "page_number",
+        "text": "3 ",
+        "bbox": [
+            491,
+            47,
+            504,
+            59
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "footer",
+        "text": "©International Monetary Fund. Not for Redistribution ",
+        "bbox": [
+            254,
+            974,
+            718,
+            993
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/f8f5623c98483d4ebc72926765f2130498e781ab89e65f3a5026b57d57842825.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"13\">Grenada: Selected Economic and Financial Indicators, 2020-30 1/</td></tr><tr><td>Rank in UNDP Human Development Index</td><td>73</td><td></td><td></td><td></td><td></td><td>Infant mortality rate per &#x27;000 births (2021)</td><td></td><td></td><td></td><td></td><td></td><td>14.4</td></tr><tr><td>out of 189 countries (2023)</td><td></td><td></td><td></td><td></td><td></td><td>Adult illiteracy rate in percent (2014)</td><td></td><td></td><td></td><td></td><td></td><td>1</td></tr><tr><td>Life expectancy at birth in years (2021)</td><td>75</td><td></td><td></td><td></td><td></td><td>Poverty rate in percent of population (2019)</td><td></td><td></td><td></td><td></td><td></td><td>25</td></tr><tr><td>GDP per capita in US$ (2023)</td><td>10,449</td><td></td><td></td><td></td><td></td><td>Unemployment rate (2025 Q2)</td><td></td><td></td><td></td><td></td><td></td><td>10.8</td></tr><tr><td>Population in millions (2023)</td><td>0.13</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>2020</td><td>2021</td><td>2022</td><td>2023</td><td>2024</td><td>2025</td><td>2026</td><td>2027</td><td>2028</td><td>2029</td><td>2030</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>Est.</td><td></td><td></td><td>Proj.</td><td></td><td></td><td></td></tr><tr><td>Output and prices</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Real GDP</td><td>-13.8</td><td>4.7</td><td>7.3</td><td>4.5</td><td>3.3</td><td>4.4</td><td>3.2</td><td>3.0</td><td>2.9</td><td>2.7</td><td>2.7</td><td></td></tr><tr><td>Nominal GDP</td><td>-14.0</td><td>7.6</td><td>9.1</td><td>9.2</td><td>4.4</td><td>5.1</td><td>4.3</td><td>4.7</td><td>4.9</td><td>4.8</td><td>4.8</td><td></td></tr><tr><td>Consumer prices, end of period</td><td>-0.8</td><td>1.9</td><td>2.9</td><td>2.2</td><td>0.8</td><td>0.3</td><td>1.3</td><td>1.6</td><td>2.0</td><td>2.0</td><td>2.0</td><td></td></tr><tr><td>Consumer prices, period average</td><td>-0.7</td><td>1.2</td><td>2.6</td><td>2.7</td><td>1.1</td><td>0.7</td><td>1.1</td><td>1.6</td><td>2.0</td><td>2.0</td><td>2.0</td><td></td></tr><tr><td>Output gap (percent of potential GDP)</td><td>-9.6</td><td>-7.4</td><td>-3.1</td><td>-1.4</td><td>-1.4</td><td>0.0</td><td>-0.1</td><td>0.0</td><td>0.0</td><td>0.0</td><td>0.0</td><td></td></tr><tr><td>Real effective exchange rate (+: appreciation)</td><td>-0.6</td><td>-2.9</td><td>-1.2</td><td>-1.9</td><td>-2.1</td><td>...</td><td>...</td><td>...</td><td>...</td><td>...</td><td>...</td><td></td></tr><tr><td>Central government balances (accrual)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Revenue and Grants</td><td>28.1</td><td>31.6</td><td>32.9</td><td>36.6</td><td>43.8</td><td>32.1</td><td>30.9</td><td>30.5</td><td>30.6</td><td>30.4</td><td>30.4</td><td></td></tr><tr><td>Taxes</td><td>22.1</td><td>20.6</td><td>21.6</td><td>23.5</td><td>23.6</td><td>23.5</td><td>23.9</td><td>23.9</td><td>23.9</td><td>23.9</td><td>23.9</td><td></td></tr><tr><td>Non-tax revenue 1/</td><td>2.4</td><td>3.4</td><td>4.5</td><td>12.6</td><td>19.6</td><td>6.8</td><td>6.1</td><td>6.0</td><td>5.9</td><td>5.7</td><td>5.7</td><td></td></tr><tr><td>Grants 1/</td><td>3.7</td><td>7.6</td><td>6.8</td><td>0.5</td><td>0.5</td><td>1.8</td><td>0.9</td><td>0.5</td><td>0.7</td><td>0.7</td><td>0.7</td><td></td></tr><tr><td>Expenditure</td><td>32.7</td><td>31.3</td><td>32.0</td><td>28.7</td><td>37.1</td><td>39.2</td><td>36.2</td><td>30.5</td><td>30.5</td><td>30.4</td><td>30.1</td><td></td></tr><tr><td>Current primary expenditure</td><td>21.1</td><td>20.9</td><td>20.1</td><td>18.0</td><td>21.8</td><td>22.2</td><td>21.9</td><td>21.5</td><td>21.4</td><td>21.4</td><td>21.5</td><td></td></tr><tr><td>Interest payments</td><td>2.0</td><td>1.8</td><td>1.6</td><td>1.5</td><td>3.3</td><td>3.9</td><td>1.8</td><td>1.5</td><td>1.5</td><td>1.5</td><td>1.2</td><td></td></tr><tr><td>Capital expenditure</td><td>9.6</td><td>8.6</td><td>10.3</td><td>9.2</td><td>12.0</td><td>13.1</td><td>12.6</td><td>7.4</td><td>7.6</td><td>7.5</td><td>7.4</td><td></td></tr><tr><td>Primary balance</td><td>-2.6</td><td>2.1</td><td>2.6</td><td>9.4</td><td>10.0</td><td>-3.2</td><td>-3.5</td><td>1.5</td><td>1.5</td><td>1.5</td><td>1.5</td><td></td></tr><tr><td>Overall balance</td><td>-4.5</td><td>0.3</td><td>0.9</td><td>7.9</td><td>6.7</td><td>-7.1</td><td>-5.3</td><td>0.0</td><td>0.0</td><td>0.0</td><td>0.3</td><td></td></tr><tr><td>Central government debt (incl. guaranteed)</td><td>71.4</td><td>70.0</td><td>63.2</td><td>60.0</td><td>58.7</td><td>54.9</td><td>52.8</td><td>54.2</td><td>55.2</td><td>56.0</td><td>56.1</td><td></td></tr><tr><td>Domestic</td><td>16.2</td><td>15.3</td><td>12.8</td><td>11.2</td><td>10.3</td><td>9.9</td><td>9.5</td><td>9.3</td><td>9.1</td><td>9.0</td><td>8.4</td><td></td></tr><tr><td>External</td><td>55.2</td><td>54.7</td><td>50.3</td><td>48.8</td><td>48.4</td><td>45.0</td><td>43.3</td><td>44.9</td><td>46.1</td><td>47.0</td><td>47.7</td><td></td></tr><tr><td>Public debt (incl. debt of SOEs and SBs)</td><td>89.5</td><td>86.6</td><td>79.3</td><td>74.5</td><td>72.7</td><td>68.3</td><td>65.8</td><td>66.8</td><td>67.4</td><td>67.8</td><td>67.5</td><td></td></tr><tr><td>Money and credit, end of period (annual percent change)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Broad money (M2)</td><td>9.1</td><td>8.5</td><td>9.9</td><td>1.4</td><td>8.4</td><td>5.1</td><td>4.3</td><td>4.7</td><td>4.9</td><td>4.8</td><td>4.7</td><td></td></tr><tr><td>Credit to private sector</td><td>3.1</td><td>3.8</td><td>2.1</td><td>3.8</td><td>10.4</td><td>8.4</td><td>-5.3</td><td>5.4</td><td>5.4</td><td>5.2</td><td>5.1</td><td></td></tr><tr><td>Balance of payments</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Current account balance, o/w:</td><td>-16.1</td><td>-14.4</td><td>-12.1</td><td>-20.3</td><td>-21.1</td><td>-17.5</td><td>-16.3</td><td>-14.9</td><td>-14.4</td><td>-14.2</td><td>-14.0</td><td></td></tr><tr><td>Exports of goods and services</td><td>41.1</td><td>47.9</td><td>57.7</td><td>62.0</td><td>58.9</td><td>59.3</td><td>61.0</td><td>62.5</td><td>62.9</td><td>62.9</td><td>62.7</td><td></td></tr><tr><td>Imports of goods and services</td><td>52.2</td><td>55.4</td><td>64.1</td><td>69.2</td><td>70.1</td><td>67.2</td><td>67.2</td><td>67.4</td><td>67.4</td><td>67.3</td><td>66.9</td><td></td></tr><tr><td>Capital account balance</td><td>7.5</td><td>5.0</td><td>3.9</td><td>9.5</td><td>18.0</td><td>4.2</td><td>3.0</td><td>2.6</td><td>2.7</td><td>2.6</td><td>2.6</td><td></td></tr><tr><td>Financial account balance</td><td>-7.2</td><td>-10.4</td><td>-7.2</td><td>-14.1</td><td>-1.7</td><td>-13.2</td><td>-13.3</td><td>-12.3</td><td>-11.7</td><td>-11.6</td><td>-11.4</td><td></td></tr><tr><td>Errors and omissions</td><td>1.4</td><td>-1.0</td><td>1.0</td><td>-4.0</td><td>0.0</td><td>0.0</td><td>0.0</td><td>0.0</td><td>0.0</td><td>0.0</td><td>0.0</td><td></td></tr><tr><td>External debt (gross)</td><td>92.5</td><td>94.9</td><td>93.2</td><td>89.0</td><td>83.8</td><td>79.0</td><td>76.6</td><td>77.6</td><td>77.8</td><td>77.7</td><td>77.5</td><td></td></tr><tr><td>Savings-Investment balance</td><td>-16.1</td><td>-14.4</td><td>-12.1</td><td>-20.3</td><td>-20.8</td><td>-17.5</td><td>-16.3</td><td>-14.9</td><td>-14.4</td><td>-14.2</td><td>-14.0</td><td></td></tr><tr><td>Savings</td><td>16.3</td><td>15.7</td><td>17.8</td><td>12.6</td><td>10.4</td><td>15.6</td><td>16.2</td><td>12.3</td><td>12.4</td><td>12.3</td><td>12.2</td><td></td></tr><tr><td>Investment</td><td>32.4</td><td>30.1</td><td>29.9</td><td>32.8</td><td>31.2</td><td>33.0</td><td>32.5</td><td>27.2</td><td>26.8</td><td>26.5</td><td>26.2</td><td></td></tr><tr><td>Memorandum items:</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Nominal GDP (millions of EC$)</td><td>2,817</td><td>3,030</td><td>3,305</td><td>3,608</td><td>3,768</td><td>3,961</td><td>4,133</td><td>4,327</td><td>4,541</td><td>4,759</td><td>4,987</td><td></td></tr><tr><td>Citizenship-by-Investment (CBI) inflows (percent of GDP)</td><td>9.0</td><td>9.3</td><td>10.9</td><td>31.3</td><td>29.6</td><td>10.2</td><td>7.8</td><td>7.7</td><td>7.4</td><td>7.1</td><td>7.0</td><td></td></tr><tr><td>Government CBI revenue (Percent of GDP)</td><td>3.6</td><td>4.0</td><td>4.1</td><td>12.7</td><td>14.7</td><td>4.4</td><td>3.5</td><td>3.5</td><td>3.3</td><td>3.2</td><td>3.2</td><td></td></tr><tr><td>Government deposits (Percent of GDP)</td><td>9.8</td><td>12.7</td><td>9.4</td><td>17.1</td><td>24.6</td><td>15.4</td><td>8.6</td><td>8.2</td><td>7.8</td><td>7.5</td><td>7.1</td><td></td></tr><tr><td>Net imputed international reserves</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Months of imports of goods and services</td><td>5.6</td><td>5.0</td><td>4.6</td><td>4.8</td><td>5.0</td><td>4.6</td><td>4.2</td><td>4.1</td><td>4.0</td><td>4.0</td><td>3.9</td><td></td></tr><tr><td colspan=\"13\">Sources: Country authorities; ECCB; United Nations, Human Development Report; World Bank WDI; and IMF staff estimates and projections. 1/ Investor donations to the National Transformation Fund (NTF) under the Citizenship-by-Investment (CBI) program that were used to finance public investment projects are recorded under grants until 2022 and subsequently under non-tax revenue starting from 2023.</td></tr></table>",
+        "bbox": [
+            57,
+            108,
+            939,
+            829
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "page_number",
+        "text": "4 ",
+        "bbox": [
+            491,
+            47,
+            504,
+            59
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "footer",
+        "text": "©International Monetary Fund. Not for Redistribution ",
+        "bbox": [
+            254,
+            974,
+            720,
+            993
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "GRENADA ",
+        "text_level": 1,
+        "bbox": [
+            225,
+            122,
+            467,
+            156
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "STAFF REPORT FOR THE 2025 ARTICLE IV CONSULTATION ",
+        "text_level": 1,
+        "bbox": [
+            210,
+            180,
+            864,
+            200
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "KEY ISSUES ",
+        "text_level": 1,
+        "bbox": [
+            210,
+            222,
+            372,
+            244
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Context. Grenada’s economy continues to navigate elevated global uncertainties well in the aftermath of damages caused by the 2024 Hurricane Beryl. The resilience of the tourism sector, ongoing reconstruction and, increasingly, other development priority investments helped sustain robust GDP growth. Despite significant public expenditure outlays and the extended primary balance rule suspension, the Government’s fiscal position remains comfortable on the back of substantial savings from the nownormalized Citizenship-by-Investment (CBI) revenues and post-disaster contingent financing receipts. Inflation remains moderate while large FDI inflows continue to finance high current account deficits. The financial system remains stable with only a modest post-disaster impact. ",
+        "bbox": [
+            210,
+            257,
+            867,
+            445
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Outlook and risks. Continued reconstruction and planned public investments are projected to boost real GDP growth from 2025 before gradually reverting to historical potential over the medium term. The associated waning of import pressures is also projected to narrow the high current account deficit. Notwithstanding increasing Government investments and near-term fiscal deficits, public debt remains on track to meet the regional debt target by 2033. Downside risks to the outlook stem primarily from high tourism and import dependency, CBI inflow uncertainty and perpetual susceptibility to natural disasters, although the immediate spillovers from the currently elevated global uncertainties are assessed as modest. The authorities’ disaster resilience framework and large fiscal buffers provide policy space to manage the risk of more pronounced external shocks. ",
+        "bbox": [
+            210,
+            465,
+            880,
+            672
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Policy priorities. The planned large public investment outlays should be carefully managed in alignment with Grenada’s public debt reduction objectives. This can be supported by additional policy space from continued efforts to strengthen revenue and prioritize expenditure, as well as further steps to improve public investment and financial management. Risks in the non-bank financial system warrant enhanced data collection and supervisory scrutiny. The long-term growth impact of Grenada’s FDIdriven tourism expansion has been muted, highlighting the need to bolster the domestic foundations of growth. This includes facilitating domestic investment, fostering local tourism services and intersectoral linkages, reducing trade frictions and strengthening human capital, productivity and resilience. Improving economic statistics is critical to support evidence-based policymaking. ",
+        "bbox": [
+            210,
+            693,
+            877,
+            900
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "December 17, 2025 ",
+        "bbox": [
+            9,
+            204,
+            161,
+            220
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            0,
+            0,
+            205,
+            102
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "header",
+        "text": "INTERNATIONAL MONETARY FUND",
+        "bbox": [
+            230,
+            61,
+            815,
+            85
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "footer",
+        "text": "©International Monetary Fund. Not for Redistribution ",
+        "bbox": [
+            254,
+            974,
+            720,
+            993
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Approved By ",
+        "text_level": 1,
+        "bbox": [
+            151,
+            93,
+            287,
+            114
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Ashvin Ahuja (WHD) and Jarkko Turunen (SPR) ",
+        "bbox": [
+            151,
+            116,
+            321,
+            166
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Discussions took place in St. George during October 20-29, 2025. A follow-up written consultation was conducted on December 11-12, 2025, to align the near-term fiscal outlook with the authorities’ 2026 budget released after the mission. The team comprised of Janne Hukka (head), Jaebin Ahn, Peter Nagle, and Josefine Quast, supported by Yishun Cao and Brett Smith (all WHD). Ms. Wickham (OED) attended the concluding meetings. The mission held discussions with Prime Minister Mitchell, Minister of Finance Cornwall, and other senior public sector officials, as well as representatives from the private sector, labor unions and civil society. Zanna Barnard (Caribbean Development Bank), Leon Bullen (Eastern Caribbean Central Bank) and Vasilis Tsiropoulos (World Bank) joined the mission meetings. ",
+        "bbox": [
+            346,
+            90,
+            870,
+            320
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "CONTENTS ",
+        "text_level": 1,
+        "bbox": [
+            166,
+            345,
+            305,
+            364
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "CONTEXT_ 4 ",
+        "bbox": [
+            143,
+            388,
+            883,
+            404
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "RECENT DEVELOPMENTS 4 ",
+        "bbox": [
+            143,
+            426,
+            883,
+            441
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "OUTLOOK AND RISKS _ 9 ",
+        "bbox": [
+            143,
+            464,
+            883,
+            479
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "POLICY DISCUSSIONS 1 1 ",
+        "bbox": [
+            143,
+            502,
+            883,
+            517
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "A. Strengthening Public Finances and Fiscal Institutions _11 ",
+            "B. Addressing Non-Bank Vulnerabilities_ _14 ",
+            "C. Supporting Long-term Growth Potential and Resilience _15 ",
+            "D. Institutional Strengthening _ _18 "
+        ],
+        "bbox": [
+            143,
+            523,
+            883,
+            609
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "STAFF APPRAISAL 1 9 ",
+        "bbox": [
+            143,
+            631,
+            883,
+            646
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "BOXES ",
+        "text_level": 1,
+        "bbox": [
+            143,
+            671,
+            200,
+            685
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1. Financial Resilience Framework in the Context of Hurricane Beryl 7 ",
+            "2. Project Polaris 9 "
+        ],
+        "bbox": [
+            143,
+            689,
+            883,
+            726
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "FIGURES ",
+        "text_level": 1,
+        "bbox": [
+            143,
+            746,
+            217,
+            760
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1. Key Macroeconomic Indicators _21 ",
+            "2. Real Sector Developments _22 ",
+            "3. External Sector Developments _ _ 23 ",
+            "4. Fiscal Sector Developments _24 ",
+            "5. Monetary Sector Developments _25 "
+        ],
+        "bbox": [
+            143,
+            765,
+            877,
+            858
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "header",
+        "text": "GRENADA ",
+        "bbox": [
+            143,
+            47,
+            215,
+            61
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "page_number",
+        "text": "2 ",
+        "bbox": [
+            143,
+            936,
+            156,
+            950
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "footer",
+        "text": "INTERNATIONAL MONETARY FUND",
+        "bbox": [
+            179,
+            938,
+            416,
+            952
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "footer",
+        "text": "©International Monetary Fund. Not for Redistribution ",
+        "bbox": [
+            254,
+            974,
+            720,
+            993
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "TABLES ",
+        "text_level": 1,
+        "bbox": [
+            143,
+            92,
+            207,
+            106
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1. Selected Economic and Financial Indicators, 2020–30 _26 ",
+            "2. Balance of Payments Summary, 2020-30 _27 ",
+            "3a. Operations of the Central Government, 2020-30 (In millions of EC dollars) _28 ",
+            "3b. Operations of the Central Government, 2020-30 (In percent of GDP) _29 ",
+            "4. Summary Accounts of the Monetary Sector, 2020-30 _30 "
+        ],
+        "bbox": [
+            143,
+            111,
+            883,
+            204
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "ANNEXES ",
+        "text_level": 1,
+        "bbox": [
+            143,
+            224,
+            225,
+            239
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "I. Risk Assessment Matrix _31 ",
+            "II. External Sector Assessment _33 ",
+            "III. Sensitivity Analysis of External Shocks _37 ",
+            "IV. Tourism and FDI as Engines for Resilient Growth: Grenada's Experience to Date _42 ",
+            "V. Progress on 2024 Article IV Policy Recommendations _ _48 ",
+            "VI. Data Issues _50 ",
+            "VII. Small State Engagement and Capacity Development Strategies for Grenada _53 "
+        ],
+        "bbox": [
+            143,
+            244,
+            883,
+            375
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "header",
+        "text": "GRENADA ",
+        "bbox": [
+            812,
+            49,
+            883,
+            61
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "footer",
+        "text": "INTERNATIONAL MONETARY FUND",
+        "bbox": [
+            607,
+            938,
+            844,
+            952
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "page_number",
+        "text": "3 ",
+        "bbox": [
+            864,
+            938,
+            875,
+            950
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "footer",
+        "text": "©International Monetary Fund. Not for Redistribution ",
+        "bbox": [
+            254,
+            974,
+            720,
+            993
+        ],
+        "page_idx": 8
+    }
+]

@@ -1,0 +1,437 @@
+<!-- image -->
+
+April 17, 2020
+
+## ISLAMIC REPUBLIC OF MAURITANIA
+
+## REQUEST FOR DISBURSEMENT UNDER THE RAPID CREDIT FACILITY -DEBT SUSTAINABILITY ANALYSIS
+
+## Approved By
+
+Taline Koranchelian and Ashwin Ahuja (IMF) and Marcello Estevão (IDA)
+
+Prepared by the staffs of the International Monetary Fund and the International Development Association.
+
+
+Debt coverage is the same as in previous DSA: central government and public agencies, central bank, and SOE debt guaranteed by the government (including state-owned oil and gas company, excluding national mining company). The Composite Indicator score is 2.84 and the debt-carrying capacity is assessed to be medium.
+
+The risk of external debt distress and the overall risk of public debt distress remain high, as the NPV of public external debt to GDP continues to breach its threshold in 2020-22 under baseline projections, and the debt service-to-revenue ratio breaches its threshold in 202025. However, external and public debt are assessed to be sustainable as both indicators are projected to be on a steady downward trend and to fall below their respective thresholds by 2026. The risk rating remains high despite the rebasing of national accounts completed by the authorities, which estimated nominal GDP to be 35 percent higher than previously in 2018 due to upgrading to SNA 2008 and expanding the coverage of informal activities.
+
+The macroeconomic outlook is significantly less favorable than the previous Debt Sustainability Analysis (DSA) in November 2019 due to the external shock caused by the COVID-19 pandemic and a delay in the Grand Tortue/Ahmeyim gas project. Projected export, growth, fiscal and debt trajectories are highly uncertain and are vulnerable to a stronger impact of the pandemic, reversals in metal and oil prices, regional security developments, and climatic hazards. Prudent policies are needed, including avoiding nonconcessional borrowing and relying instead on grants and concessional financing taken up at a moderate pace consistent with absorptive capacity.
+
+Table 1. Mauritania: External Debt Sustainability Framework, Baseline Scenario 2017-40 (in percent of GDP, unless otherwise indicated)
+
+
+Sources: Country authorities; and staff estimates and projections.
+
+1/ Includes both public and private sector external debt.
+
+- 2/ Derived as [r - g - ρ(1+g) + Ɛα (1+r)]/(1+g+ρ+gρ) times previous period debt ratio, with r = nominal interest rate; g = real GDP growth rate, ρ = growth rate of GDP deflator in U.S. dollar terms, Ɛ=nominal appreciation of the local currency, and α= share of local currency-denominated external debt in total external debt.
+
+3/ Includes exceptional financing (i.e., changes in arrears and debt relief) such as the projected resolution in 2020 of the debt owed to the Kuwait Investment Authority; changes in gross foreign assets; and valuation adjustments. For projections also includes contribution from price and exchange rate changes.
+
+4/ Current-year interest payments divided by previous period debt stock.
+
+5/  Defined as grants, concessional loans, and debt relief.
+
+- 6/  Grant-equivalent financing includes grants provided directly to the government and through new borrowing (difference between the face value and the PV of new debt).
+
+7/ Assumes that PV of private sector debt is equivalent to its face value.
+
+- 8/ Historical averages are generally derived over the past 10 years, subject to data availability, whereas projections averages are over the first year of projection and the next 10 years.
+
+0
+
+
+<!-- image -->
+
+Debt Accumulation
+
+Grant-equivalent financing (% of GDP)
+
+Grant element of new borrowing (% right scale)
+
+<!-- image -->
+
+Figure 1. Mauritania: Indicators of Public and Publicly Guaranteed External Debt Under Alternative Scenarios, 2020-30
+
+<!-- image -->
+
+Debt service-to-exports ratio
+
+<!-- image -->
+
+Baseline
+
+<!-- image -->
+
+Debt service-to-revenue ratio
+
+<!-- image -->
+
+Historical scenario
+
+<!-- image -->
+
+Note: "Yes" indicates any change to the size or interactions of the default settings for the stress tests. "n.a." indicates that the stress test does not apply.
+
+Sources: Country authorities; and staff estimates and projections.
+
+1/ Does not include passive debt to the Kuwait Investment Authority.
+
+2/ The most extreme stress test is the test that yields the highest ratio in or before 2030. The stress test with a one-off breach is also presented (if any), while the one-off breach is deemed away for mechanical signals. When a stress test with a one-off breach happens to be the most exterme shock even after disregarding the one-off breach, only that stress test (with a one-off breach) would be presented.
+
+3/ The magnitude of the shock used for the combined contingent liability shock has been increased to factor in the full value of the Nouakchott harbor PPP.
+
+<!-- image -->
+
+* Note: All the additional financing needs generated by the shocks under the stress tests are assumed to be covered by PPG external MLT debt in the external DSA. Default terms of marginal debt are based on baseline 10-year projections.
+
+## Table 2. Mauritania: Sensitivity Analysis for Key Indicators of Public and Publicly External Debt, 2020-30
+
+(in percent)
+
+
+Sources: Country authorities; and staff estimates and projections.
+
+1/ A bold value indicates a breach of the threshold.
+
+2/ Variables include real GDP growth, GDP deflator (in U.S. dollar terms), non-interest current account in percent of GDP, and non-debt creating flows.
+
+3/ Includes official and private transfers and FDI.
+
+6
+
+Table 3. Mauritania: Public Sector Debt Sustainability Framework, Baseline Scenario, 2017-40
+
+(in percent of GDP, unless otherwise indicated)
+
+
+Sources: Country authorities; and staff estimates and projections.
+
+1/ Coverage of debt: The central government, central bank, government-guaranteed debt, non-guaranteed SOE debt . Definition of external debt is Residency-based.
+
+2/ Includes exceptional financing (i.e., changes in arrears and debt relief) such as the projected resolution in 2020 of the debt owed to the Kuwait Investment Authority; changes in gross foreign assets; and valuation adjustments. For projections also includes contribution from price and exchange rate changes.
+
+3/ The underlying PV of external debt-to-GDP ratio under the public DSA differs from the external DSA with the size of differences depending on exchange rates projections.
+
+4/ Debt service is defined as the sum of interest and amortization of medium and long-term, and short-term debt.
+
+5/ Gross financing need is defined as the primary deficit plus debt service plus the stock of short-term debt at the end of the last period and other debt creating/reducing flows.
+
+6/ Defined as a primary deficit minus a change in the public debt-to-GDP ratio ((-): a primary surplus), which would stabilizes the debt ratio only in the year in question.
+
+7/ Historical averages are generally derived over the past 10 years, subject to data availability, whereas projections averages are over the first year of projection and the next 10 years.
+
+<!-- image -->
+
+
+Public sector debt 1/
+
+of which: local-currency denominated of which: foreign-currency denominated
+
+<!-- image -->
+
+of which: held by residents
+
+<!-- image -->
+
+Figure 2. Mauritania: Indicators of Public Debt Under Alternative Scenarios, 2020-30
+
+PV of Debt-to-GDP  Ratio 1/
+
+<!-- image -->
+
+
+* Note: The public DSA allows for domestic financing to cover the additional financing needs generated by the shocks under the stress tests in the public DSA. Default terms of marginal debt are based on baseline 10-year projections.
+
+Sources: Country authorities; and staff estimates and projections.
+
+1/ Does not include passive debt to the Kuwait Investment Authority.
+
+2/ The most extreme stress test is the test that yields the highest ratio in or before 2030. The stress test with a one-off breach is also presented (if any), while the one-off breach is deemed away for mechanical signals. When a stress test with a one-off breach happens to be the most exterme shock even after disregarding the one-off breach, only that stress test (with a one-off breach) would be presented.
+
+Table 4. Mauritania: Sensitivity Analysis for Key Indicators of Public Debt, 2020-30
+
+
+Sources: Country authorities; and staff estimates and projections.
+
+1/ A bold value indicates a breach of the benchmark.
+
+2/ Variables include real GDP growth, GDP deflator and primary deficit in percent of GDP.
+
+3/ Includes official and private transfers and FDI.
+
+Figure 3. Mauritania: Drivers of Debt Dynamics - Baseline Scenario
+
+External debt
+
+<!-- image -->
+
+Public debt
+
+<!-- image -->
+
+1/ Difference betw een anticipated and actual contributions on debt ratios.
+
+2/ Distribution across LICs for w hich LIC DSAs w ere produced.
+
+3/ Given the relatively low  private external debt for average low -income countries, a ppt change in PPG external debt should be largely explained by the drivers of the external debt dynamics equation.
+
+Unexpected Changes in Debt 1/ (past 5 years, percent of GDP)
+
+<!-- image -->
+
+Unexpected Changes in Debt 1/ (past 5 years, percent of GDP)
+
+<!-- image -->
+
+Figure 4. Mauritania: Realism Tools
+
+## 3-Year Adjustment in Primary Balance
+
+3-Year Adjustment in Primary Balance
+
+(Percentage points of GDP)
+
+(Percentage points of GDP)
+
+3-Year Adjustment in Primary Balance
+
+(Percentage points of GDP)
+
+-3.5
+
+more
+
+-2.0
+
+-4.0
+
+-4.5
+
+-3.5
+
+-4.5
+
+-0.5
+
+-4.0
+
+-1.5
+
+-3.0
+
+-1.0
+
+-2.5
+
+7.0
+
+6.0
+
+4.5
+
+6.5
+
+2.0
+
+3.5
+
+1.5
+
+1.0
+
+4.0
+
+2.5
+
+5.0
+
+3.0
+
+8.0
+
+5.5
+
+0.5
+
+7.5
+
+0.0
+
+more
+
+<!-- image -->
+
+-3.0
+
+-2.5
+
+-2.0
+
+-1.5
+
+-1.0
+
+-0.5
+
+0.0
+
+0.5
+
+1.0
+
+1.5
+
+2.0
+
+2.5
+
+3.0
+
+3.5
+
+4.0
+
+4.5
+
+5.0
+
+5.5
+
+6.0
+
+6.5
+
+7.0
+
+7.5
+
+8.0
+
+more
+
+1/ Data cover Fund-supported programs for LICs (excluding emergency financing) approved since 1990. The size of 3-year adjustment from program inception is found on the horizontal axis; the percent of sample is found on the vertical axis. 1/ Data cover Fund-supported programs for LICs (excluding emergency financing) approved since 1990. The size of 3-year adjustment from program inception is found on the horizontal axis; the percent of sample is found on the vertical axis. 1/ Data cover Fund-supported programs for LICs (excluding emergency financing) approved since 1/ Data cover Fund-supported programs for LICs (excluding emergency financing) approved since
+
+1990. The size of 3-year adjustment from program inception is found on the horizontal axis; the
+
+1990. The size of 3-year adjustment from program inception is found on the horizontal axis; the percent of sample is found on the vertical axis.
+
+percent of sample is found on the vertical axis.
+
+## Public and Private Investment Rates 1/ Public and Private Investment Rates 1/ (percent of GDP) Public and Private Investment Rates 1/
+
+(Percent of GDP) Public and Private Investment Rates 1/
+
+(percent of GDP)
+
+Public and Private Investment Rates 1/
+
+(percent of GDP)
+
+<!-- image -->
+
+2025
+
+Gov. Invest. - Prev. DSA
+
+Gov. Invest. - Curr. DSA
+
+1/  The gap for either variable between the previous and the current DSA is due to the rebasing of
+
+1/  The gap for either variable between the previous and the current DSA is due to the rebasing of GDP,  and a reassessment of projections in light of new information. GDP,  and a reassessment of projections in light of new information. 1/  The gap for either variable between the previous and the current DSA is due to the rebasing of GDP,  and a reassessment of projections in light of new information. Priv. Invest. - Prev. DSA Priv. Invest. - Curr. DSA
+
+1/  The gap for either variable between the previous and the current DSA is due to the rebasing of
+
+GDP,  and a reassessment of projections in light of new information.
+
+## Fiscal Adjustment and Possible Growth Paths 1/
+
+Fiscal Adjustment and Possible Growth Paths 1/
+
+Fiscal Adjustment and Possible Growth Paths 1/
+
+<!-- image -->
+
+-4
+
+2014
+
+-4
+
+-6
+
+2021
+
+1/ Bars refer to annual projected fiscal adjustment (right-hand side scale) and lines show possible real GDP growth paths under different fiscal multipliers (left-hand side scale). 1/ Bars refer to annual projected fiscal adjustment (right-hand side scale) and lines show possible real GDP growth paths under different fiscal multipliers (left-hand side scale). 2014 2015 2016 2017 2018 2019 2020 2021
+
+2020
+
+2017
+
+2016
+
+2015
+
+2019
+
+2018
+
+1/ Bars refer to annual projected fiscal adjustment (right-hand side scale) and lines show possible real GDP growth paths under different fiscal multipliers (left-hand side scale).
+
+1/ Bars refer to annual projected fiscal adjustment (right-hand side scale) and lines show possible real GDP growth paths under different fiscal multipliers (left-hand side scale).
+
+## Contribution to Real GDP Growth Contribution to Real GDP growth Contribution to Real GDP growth (percent, 5-year average)
+
+(Percent, 5-year average) (percent, 5-year average) Contribution to Real GDP growth Contribution to Real GDP growth
+
+(percent, 5-year average)
+
+8
+
+8
+
+7
+
+7
+
+6
+
+6
+
+5
+
+5
+
+4
+
+4
+
+3
+
+3
+
+2
+
+2
+
+1
+
+1
+
+0
+
+0
+
+(percent, 5-year average)
+
+8
+
+<!-- image -->
+
+-6
+
+In percentage  points of GDP
+
+In percentage  points of GDP

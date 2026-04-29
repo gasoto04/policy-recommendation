@@ -1,0 +1,1860 @@
+[
+    {
+        "type": "text",
+        "text": "To: Members of the Executive Board ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "From: The Acting Secretary ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Subject: ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zambia—Staff Report for the 2009 Article IV Consultation, Third Review Under the Three-Year Arrangement Under the Poverty Reduction and Growth Facility, and Request for Modification of Performance Criteria ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Attached for consideration by the Executive Directors is the staff report for the 2009 Article IV consultation with Zambia, the third review under the three-year arrangement under the Poverty Reduction and Growth Facility, and Zambia’s request for a modification of performance criteria, which will be brought to the agenda for discussion on a date to be announced. A draft decision appears on pages 19 and 20. At the time of circulation of this paper to the Board, the Secretary’s Department has received a communication from the authorities of Zambia indicating that they consent to the Fund’s publication of this paper. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Questions may be referred to Mr. Tsibouris (ext. 35632) and Mr. Baldini (ext. 38794) in AFR. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Unless the Documents Section (ext. 36760) is otherwise notified, the document will be transmitted, in accordance with the procedures approved by the Executive Board and with the appropriate deletions, to the WTO Secretariat on Friday, December 11, 2009; and to the African Development Bank, the Common Market for Eastern and Southern Africa, and the European Commission, following its consideration by the Executive Board. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "This document, together with a supplement providing an informational annex, will shortly be posted on the extranet, a secure website for Executive Directors and member country authorities. The supplement, which is not being distributed in hard copy, will also be available in the Institutional Repository; a link can be found in the daily list (http://wwwint.imf.org/depts/sec/services/eb/dailydocumentsfull.htm) for the issuance date shown above. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Att: (1) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Other Distribution: Department Heads ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "INTERNATIONAL MONETARY FUND",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ZAMBIA ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Staff Report for the 2009 Article IV Consultation, Third Review Under the ThreeYear Arrangement Under the Poverty Reduction and Growth Facility, and Request for Modification of Performance Criteria ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Prepared by the African Department (In consultation with other departments) ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Approved by Seán Nolan and Dhaneshwar Ghura ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "December 3, 2009 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Discussions for the 2009 Article IV consultation and the third review under the PRGF arrangement were held in Lusaka during October 15–28, 2009. The staff team consisted of George Tsibouris (head), Alfredo Baldini, Mame Astou Diouf, Jean Noah Ndela (all AFR), Birgir Arnason (Resident Representative), Ding Ding (FAD), and Axel Palmason (SPR). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The mission met with the Minister of Finance and National Planning, Dr. Musokotwane; the Governor of the Bank of Zambia, Dr. Fundanga; other senior officials; and representatives of the business community, labor unions, civil society, and Zambia’s development partners. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fund relations — Zambia joined the Fund on September 23, 1965, and has accepted the obligations of Article VIII, Sections 2, 3, and 4. It maintains a floating exchange rate regime. The 2007 Article IV consultation with Zambia was concluded in December 2007. Zambia’s current three-year PRGF arrangement was approved in June 2008 with access of SDR 48.9 million (10 percent of quota). On the occasion of the first and second reviews of the arrangement in May 2009, access was increased to SDR 220.1 million (45 percent of quota). Zambia was allocated a total of SDR 400.8 million through the general and special allocations in August and September 2009. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In the attached letter of intent (LoI) and Memorandum of Economic and Financial Policies (MEFP), the authorities review program implementation and outline their policies for the remainder of 2009 and for 2010. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Contents ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Executive Summary . 4 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "I. Background ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "II. Recent Developments. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "III. Program Performance. 6 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "IV. Economic Program For 2010 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A. Fiscal Policy . 7   \nB. Monetary Policy . 8   \nC. Structural Policies... 9   \nD. Program Monitoring. 11 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "V. Sustaining Growth Through Diversification ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A. Medium-Term Macroeconomic Outlook . 11   \nB. Increasing Fiscal Space . 11   \nC. Reform of the Monetary Policy Framework 13   \nD. Debt Sustainability .. 13   \nE. Exchange Rate Assessment . 14   \nF. Other Issues.. 14 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "VI. Economic Statistics. 14 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "VII. Staff Appraisal 16 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Tables ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1. Selected Economic Indicators. 25   \n2. Fiscal Operations of the Central Government. . 26   \n3. Fiscal Operations of the Central Government (Percent). . 27   \n5. Balance of Payments.. 29   \n6. Financial Soundness Indicators.. . 30   \n7. Indicators of Capacity to Repay the Fund. . 31   \n8. Schedule of Disbursements Under the PRGF Arrangement . . 32   \n9. Millennium Development Goals, 1990–2007. . 33 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Figures ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1. Selected Economic Indicators. 21 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2. Cross Country Comparison, 2006–09. 22   \n3. Selected Financial Market Indicators, 2004–09 23   \n4. External Developments .. 24 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Boxes ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1. Exchange Rate Volatility in Zambia 8   \n2. Increasing Fiscal Space.. 12   \n3. Strengthening Monetary Policy Implementation 13   \n4. Exchange Rate Assessment.. 15   \nAppendixes   \nI. Letter of Intent 34   \nAttachment I. MEFP . 35   \nAttachment II. TMU.. . 47   \nII. Public Information Notice . 52 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "EXECUTIVE SUMMARY ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The Zambian economy has shown some resilience to the global economic crisis. ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Real GDP growth for 2009 is now projected at 5.3 percent, boosted by a significant increase in copper production and a bumper crop, while inflation is easing gradually from the food and fuel price-induced highs of 2008. The budget deficit is projected to widen somewhat in 2009 on weak revenue collections; the current account deficit has narrowed on lower imports; and international reserves have increased significantly, boosted by the SDR allocation. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The PRGF-supported program is on track; all of the quantitative performance criteria and indicative targets for end-June 2009 have been met. There were delays in implementing two of the structural benchmarks: (i) the establishment of a supervisory regime for the secondary market in government securities has required an extended consultation process and the benchmark has been reset for end-March 2010; (ii) the benchmark on introducing a standing overnight lending facility by the Bank of Zambia was met with a two-month delay. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fiscal policy in 2010 retains the focus on harnessing domestically-generated resources to support the diversification of the economy. The 2010 budget, which envisages some recovery in tax collections, seeks to preserve capital spending and to shift resources to the health sector to make up for an expected decline in donor support. The wage bill as a share of GDP is to be restrained. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The structural reform agenda for 2010 will focus on: (i) reviewing tax policy and administration so as to strengthen tax performance; (ii) improving public financial management; (iii) advancing civil service reform; (iv) reinforcing monetary operations and supervision; and (v) ensuring an adequate and reliable supply of electricity. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The Article IV consultation discussions elaborated on the macroeconomic environment and on policies for sustaining medium-term growth through diversification. Lessening the dependence on mining and diversifying the economy will require creating fiscal space, on both the revenue and expenditure sides, to increase investment in infrastructure and the social sectors. A large foreign exchange reserve cushion will help the economy better withstand shocks and buffer excessive exchange rate swings, which undermine the competitiveness of the non-mining sector. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Zambia continues to be at low risk of debt distress, and there is no clear evidence of misalignment of the exchange rate. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "I.   BACKGROUND ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1. Compared to the first three decades after independence, Zambia’s economic performance has improved markedly in recent years. Sustained per capita GDP growth began in the late 1990s as a belated response to the extensive structural reforms and liberalization of the economy in the 1990s. This trend was given further impetus by the boom in the copper sector that followed privatization, the subsequent rise in copper prices globally, and better management of macroeconomic policies, both fiscal and monetary. With fiscal dominance no longer an issue, the Bank of Zambia (BoZ) has been able to pursue its goal of bringing down inflation and creating scope for a solid expansion (though from a low base) of credit to the private sector. The external position of the economy has benefited from the debt cancellation under the Heavily Indebted Poor Countries (HIPC) Initiative and the Multilateral Debt Relief Initiative (MDRI). Zambia’s gross international reserves have risen to more than four months of import cover, a dramatic turnaround from only a few years earlier. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "II.   RECENT DEVELOPMENTS ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2. The Zambian economy has shown some resilience to the global economic crisis. ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Growth in 2009 is now projected to be in line with the average for recent years, with the slowdown in the tertiary sector compensated for by a significant increase in copper production and a bumper crop. Inflation has moderated steadily from the food and fuel price-induced highs of 2008. The current account deficit has narrowed, helped by a recovery of copper prices and import compression after a sharp depreciation of the Kwacha. Though still below the levels seen in other SADC countries, Zambia’s reserve position is now stronger than it has been in almost four decades at $4\\%$ months of import cover, thanks in part to the augmentation of PRGF access and the recent SDR allocation. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Real GDP growth in 2009 is now projected to be 5.3 percent, somewhat lower than the 5.7 percent growth recorded for 2008. With copper prices recovering quickly from ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "their plunge in late 2008 and the coming on-line of a large new mine, mining output has significantly increased. A bumper harvest has also pushed up agricultural output markedly, and construction has continued to expand rapidly. Tourism, manufacturing, and banking have, however, been adversely affected (Table 1 and Figure 1). ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "All_AIV_2008-2025/754_2009_0/images/909f6c3adb0e2ea78bd78e6f20c68194712ebecac5f471284b711b0ff6e04973.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Consumer price inflation eased to 12.3 percent through October 2009, down from 16.6 percent at the end of 2008. Due to some persistence in food price inflation, the year-end target was revised to 12 percent and is well within reach. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The external current account deficit (including grants) is projected to be 1.8 percent of GDP in 2009, down from 5.6 percent in 2008. The decline in export values is expected to be more than offset by a marked contraction in imports and by lower copper sector profit remittances. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The tax revenue shortfall relative to the program is estimated at 0.6 percentage points of GDP in 2009, due primarily to import-related taxes. There have also been some shortfalls in donor disbursements. The government has sought to preserve its domestically-financed capital spending targets by increasing domestic borrowing, including from the BoZ. As a result, domestic financing is projected at 2.2 percent of GDP at year-end (0.4 percentage points of GDP higher than programmed). Social sector spending (particularly on health), and foreign-financed capital spending (particularly on roads) have, however, suffered. Overall, spending is estimated to be 0.6 percentage points of GDP lower than programmed. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The kwacha has continued to be volatile. After coming under sustained pressure in late 2008 and early 2009, the exchange rate has recently strengthened and stabilized, supported by the recovery in copper prices. During the period of downward pressure, the BoZ intervened heavily to maintain orderly conditions in the foreign exchange market, drawing on the reserves it had built up. Foreign exchange sales also helped the BoZ meet its reserve money target for the first half of 2009. More recently, the BoZ has relied primarily on open market operations to manage liquidity. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "While there has been a significant increase in non-performing loans, the banking sector remains adequately capitalized and liquid (Table 6). The rise in non-performing loans has been most pronounced for households and commercial agriculture. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "• Zambia is making progress toward meeting the Millennium Development Goals (Table 9). Poverty indicators have improved over the past decade, though the issue of rural poverty and service delivery remains a challenge. Health indicators have been improving, and Zambia is on track to meet its goal of universal primary education. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "III.   PROGRAM PERFORMANCE ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3. Performance under the PRGF arrangement has been satisfactory. All quantitative performance criteria and indicative targets for end-June 2009 were met (MEFP, Table 1), as were two of three structural benchmarks (MEFP, Table 3). On the third benchmark, establishment of a supervisory regime for the secondary market in government securities, delays were encountered because the consultation process was broadened; nonetheless, considerable progress has been made and the benchmark has been reset for end-March 2010. Of the two structural benchmarks for end-September 2009, one was met on time; the other—the introduction by the BoZ of a standing overnight lending facility—was met on December 1, 2009. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "IV.   ECONOMIC PROGRAM FOR 2010 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4. As the world economy emerges from recession, prospects for the Zambian economy are improving. Economic growth is expected to pick up speed in 2010, to about $5\\%$ percent; the unwinding of the one-off factors in 2009 will be compensated for by a more broad-based recovery, particularly in the tertiary sector. Inflation is targeted to decline to 8 percent by the end of the year. The external position should be generally unchanged; increased export earnings will be offset by a recovery in imports and profit remittances. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "A.   Fiscal Policy ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5. The 2010 budget again focuses on harnessing domestically-generated resources to support diversification of the economy through investment in infrastructure and human capital (MEFP, ¶11, 12, 13, 14). The overall fiscal deficit is projected to narrow slightly to 2.4 percent of GDP, with domestic financing amounting to 2 percent of GDP.1 Revenue collections are projected to increase somewhat to 15.9 percent of GDP, mainly because administrative efforts are being intensified as an offset to a drawdown of income tax loss carryovers. On the expenditure side, the government’s ability to increase the share of capital spending in total government outlays was constrained by the size of the wage bill and ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "by constitutionally required spending on a national census and voter registration before the 2011 presidential and parliamentary elections. The authorities pointed to the political difficulty of resisting wage demands with elections looming on the horizon, but are nonetheless aiming to contain the wage bill as a share of GDP in 2010. The government is also committed to ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "All_AIV_2008-2025/754_2009_0/images/e8ac93b117e2d9901cdcaa10dc5747f05ba1b0de62bf458dc7634121adf438ec.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "pursuing civil service reform, including right-sizing and pay reform while at the same time protecting the social sectors, with a view to putting the wage bill on a sustainable path. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "A performance based pay system is expected to be approved by Cabinet in 2010 (structural benchmark). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "6. Monetary policy will be geared to bringing inflation firmly into the single-digit range by end-2010 (MEFP, ¶17). Reserve money growth is to be limited to 19 percent, which, with government borrowing plans as described above, would allow credit to the private sector to grow to about 20 percent, up from 14 percent in 2009, but below the rates seen in 2007 and 2008. The envisaged growth rate seems consistent with more conservative bank lending plans, since non-performing loans have risen. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "7. The authorities remain committed to a floating exchange rate regime (MEFP, ¶17). The flexible, yet orderly, response of the exchange rate to external shocks, whether positive or negative, has enabled the Zambian economy to adjust relatively smoothly to new circumstances. However, the exchange rate has at times been excessively volatile and staff expressed support for the BoZ’s intention to become more active in mitigating unwarranted exchange rate volatility by relying on its healthier reserve position, that has now been bolstered by the SDR allocation (see Box 1). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Box 1. Exchange Rate Volatility in Zambia ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Zambia’s exchange rate has suffered bouts of increased volatility in recent years, and particularly in the first half of 2009 (Text Figure 1). The kwacha has tended to be more volatile than the currencies of neighboring countries with free-floating exchange rates (Text Table 1). ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "All_AIV_2008-2025/754_2009_0/images/e96023674a16e4108bb0348cf33c9a23e196bc3b35df09c52d613b9c8a4cc0df.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Exogenous shocks, such as productivity shocks in the tradable and non-tradable goods sectors, government spending shocks, copper price shocks, and foreign interest rate shocks have been the primary cause of the volatility of Zambia’s exchange rate. The Zambian economy also features a high exchange rate pass-through, with exchange rate shocks transmitted very quickly to the inflation rate and fully ",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "All_AIV_2008-2025/754_2009_0/images/9c796fcddbdca23aa23a1d17cb5194872f0e76c16b4ddc8944cb6601bf352523.jpg",
+        "table_caption": [
+            "Text Table 1. Simple Standard deviations of the 12-month change exchange rate (national currency/US dollar) over the period 2002 Jan-2009 Sep "
+        ],
+        "table_footnote": [
+            "Source: IMF staff estimates "
+        ],
+        "table_body": "\n\n<html><body><table><tr><td>Currency</td><td>Standard deviation</td></tr><tr><td>Zambian kwacha</td><td>0.209</td></tr><tr><td>South African rand</td><td>0.205</td></tr><tr><td>Mozambican metical</td><td>0.121</td></tr><tr><td>Congolese franc</td><td>0.095</td></tr><tr><td>Tanzanian shilling</td><td>0.067</td></tr></table></body></html>\n\n",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "incorporated within three quarters. Inflationary shocks also feed into the exchange rate, which results in a feedback effect from the formulation of inflation expectations. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The government and the Bank of Zambia also plan to retire some domestic debt, as treasury securities mature, through a limited sale of foreign exchange from international reserves.2 The expectation is that the more limited supply of treasury bills will put downward pressure on interest rates, lessen the interest burden on the budget, and make Kwacha credit available to the private sector on more favorable terms. Staff supported this plan provided it would be pursued cautiously and held under constant review. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "C.   Structural Policies ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Public financial management ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "8. Zambia is making progress in the implementation of public financial management reforms (MEFP, ¶21, 22, 23). After protracted delays, for instance, the budget cycle has been aligned to the fiscal year through a constitutional amendment. This would ensure that the budget is approved before the start of the fiscal year, thus allowing more time for budget execution. In 2010, the government also intends to introduce a planning and budgeting act (structural benchmark) to reinforce budget planning and execution, and accountability to stakeholders. Long-awaited public procurement regulations have also been issued, and the government is close to finalizing its strategy for setting up a treasury single account (TSA) system, with milestones already set for 2010 (structural benchmark). Moreover, the launch of the integrated financial management information system (IFMIS) should gather significant steam in 2010. Staff welcomed these developments and underscored that effective PFM systems are essential for the efficient use of public resources. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Financial sector development ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "9. Financial sector development is also moving ahead (MEFP, ¶24, 25, 26). The first phase in the financial sector development plan (FSDP I) was recently completed and the second phase (FSDP II) has just been launched. The overriding goals of the FSDP are to enhance financial system stability and financial intermediation. Among welcome developments, the BoZ has set up a standing overnight lending facility that should reduce excess liquidity in the banking system and is drafting a plan for the secondary market in government securities that should be in place by early next year. The government is also committed to enacting a lender of last resort policy for the BoZ by the middle of 2010 (structural benchmark). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Debt and aid management ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "10. The government is adopting a comprehensive debt management strategy, based on technical assistance provided jointly by the IMF and the World Bank (MEFP, ¶29, 30). Adherence to this strategy is needed because it is likely that the government’s only option in the coming years will be to engage in external borrowing on commercial terms to fund its share of the cost of ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "high-priority infrastructure projects in the context of PPPs, particularly for electricity generation.3 Zambia continues to be a low risk of debt distress, even once such nonconcessional borrowing is taken into account (see paragraph 19). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "11. The government is committed to managing aid better. Closer coordination with donors will help enhance the consistency and timeliness of aid data. The alleged misappropriation of donor funds at the Ministry of Health, along with broader donor concerns about governance issues, could put at risk both direct budget support and sector support for health and roads, which could ultimately threaten the financing of the budget. The authorities expressed their intention to fully address donor concerns about governance. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Electricity sector development and the fuel situation ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "12. The government continues to implement its strategy of bolstering the electricity sector (MEFP, ¶27, 28). Zambia experienced serious power shortages in 2008, after years of neglected maintenance and lack of new investment in power generating capacity. At that time, the government adopted a strategy to tackle the power deficit that is centered on the following elements: (i) raise electricity tariffs over time to cost recovery levels to attract private investment, (ii) open the transmission network to power generators, other than the state-owned electricity utility ZESCO; and (iii) make ZESCO more operationally efficient, while not providing budgetary subsidies. A major first step towards cost recovery was taken in August 2009, when electricity tariffs were raised by 35 percent. A further tariff increase is envisaged by mid-2010 (structural benchmark), and the authorities reaffirmed their commitment to the objective of eliminating the remaining gap over time. The government also intends to approve a grid code to facilitate access to the transmission and distribution systems in 2010. Moreover, ZESCO has agreed with the Zambian Energy Regulation Board (ERD) on a set of key performance indicators to improve its financial and operational efficiency. However, initial performance relative to these targets has lagged. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "13.      The cost of fuels is high in Zambia and their supply is unreliable. From a regional perspective and even factoring in Zambia’s landlocked nature, the cost of fuels is relatively high, to the detriment of both businesses and consumers. There are also periodic shortages of fuel, usually because of unscheduled shutdowns of the Indeni refinery. Staff cautioned that pump prices (which have not changed since December 2008) need to reflect underlying kwacha-denominated costs, in order to avoid distortions and eventual subsidization by the budget. The authorities indicated that they wanted to avoid subsidizing fuels at all costs and were considering alternative fuel supply arrangements. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "D.   Program Monitoring ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "14. The program is being monitored semiannually. Quantitative performance criteria are proposed to be revised for end-December 2009 and set for end-June 2010. Indicative targets have been set for end-March 2010, end-September 2010, and end-December 2010. Structural benchmarks have been set for 2010. In the structural area, reviews will be based on an assessment of the authorities’ reform program, particularly in the areas of PFM, financial sector development, and electricity sector development, in order to achieve the macroeconomic objectives described in the MEFP. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "V.   SUSTAINING GROWTH THROUGH DIVERSIFICATION ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "A.   Medium-Term Macroeconomic Outlook ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "15.      The government’s main economic policy objective is to sustain robust and diversified growth over the medium term to create jobs and income opportunities, especially for the poor. The authorities recognize that attaining this objective will depend on the creation of a competitive environment for the private sector. They also recognize the variety of ingredients that are necessary: (i) skilled and healthy human resources; (ii) good transportation infrastructure; (iii) efficient and reliable utilities; (iv) well-functioning financial markets; (v) limited red-tape; and, last but not least, (vi) macroeconomic stability. To accomplish all of these, the government will need to invest significant resources in human capital and infrastructure, as well as make efforts to reduce bureaucracy, while keeping macroeconomic policies prudent. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "16. The government’s medium-term macroeconomic framework envisages that economic growth will gradually move to above 6 percent a year. Inflation will become firmly entrenched below 10 percent. The external current account deficit (including and excluding grants) will trend modestly upwards relative to GDP because of an upswing in investment related imports. International reserves will stay above four months of import cover and increase over the medium term. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "B.   Increasing Fiscal Space ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "17. Reaching Zambia’s development objectives will require increasing the resources for infrastructure and human capital spending. A sustained effort to open up fiscal space is needed both on the revenue and spending fronts. Reversing the trend decline in tax revenue relative to the size of the economy that has been experienced over the past few years will be a major challenge. The government is therefore committed to reviewing tax policy and administration during 2010 in order to boost its tax take (structural benchmark). Meanwhile, there has been upward pressure on current spending, particularly for salaries and benefits of government workers, that would need to be addressed. (see Box 2). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Box 2. Increasing Fiscal Space ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Increasing fiscal space is a central challenge for Zambia over the medium term. To attain its development objectives, it must devote increasing amounts of resources to capital and social sector spending. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "On the resource side, tax revenue will need to make the largest contribution to added fiscal space. Given the observed downward trend in donor aid and with prospects difficult to predict, and given the need for continued caution in foreign borrowing, the government will need to finance a large share of investment and social sector spending from domestically generated resources—tax revenue. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Restoring these revenue sources by broadening the tax base and reinforcing tax collection is essential to generate more resources for government. The mining tax regime should, over time, yield more revenue as carryover losses and investment allowances are exhausted, provided, of course, that copper prices stay reasonably high. The government is aware of the need to reform both tax policy and tax administration in order to reverse the revenue erosion. The government thus plans to undertake a comprehensive review of tax policy and administration before preparing the 2011 budget. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Lower current spending is another potential source of increased fiscal space. Here, the wage bill stands out in that it takes up more than one half of domestically generated resources. ",
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "All_AIV_2008-2025/754_2009_0/images/124ce811062773dc0ec3b6a31a9ba837cfd0e1c93bfcd5fd51715e26efe3ff1f.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Source: Zambian authorities, and IMF staff estimates ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "C.   Reform of the Monetary Policy Framework ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "18. The floating exchange rate regime has served Zambia well in recent years. The authorities are also weighing the pros and cons of moving away from the reserve money targeting regime to directly targeting inflation using a money market interest rate as the principal operating target. Staff encouraged the authorities to continue exploring this possibility and noted that inflation targeting needs to be built on a well-functioning money market and a thorough understanding of how monetary policy is transmitted. Therefore, further analysis would likely be necessary (see Box 3). ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Box 3.  Strengthening Monetary Policy Implementation ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "In the past few years, the BoZ has done well in adhering to its operating target, the reserve money path, within a floating exchange rate regime. This has helped to keep broad money close to the targeted reserve and M3 path and, together with fiscal restraint, has helped to steadily bring down inflation (see Figure 3). However, with the gradual deepening of the financial system and the economy’s vulnerability to large exogenous shocks, the authorities are considering a gradual shift from strict monetary targets to a framework that would use interest rates as the main instrument to anchor inflationary expectations, with the ultimate goal of implementing an explicit inflation targeting (IT) regime in the medium term. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Staff noted that monetary policy in Zambia is hampered by large and volatile foreign exchange inflows, exposure to copper-related terms-of-trade shocks, and a high degree of exchange rate pass-through to domestic prices. In addition, banks liquidity and government cash-flow are hard to predict due to thin money markets and public financial management constraints that make it difficult for the BOZ to sterilize the required amounts and stabilize the liquidity base. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The authorities concurred that a number of pre-conditions would need to be fulfilled before they move to an explicit IT framework, such as (i) improving information flows, especially on the real sector and CPI; (ii) understanding how monetary policy is transmitted: (iii) expanding the communication strategy by increasing transparency and accountability through media exposure (e.g. inflation reports); and (iv) formulating a core projection model for forecasting and policy analysis. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "D.   Debt Sustainability ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "19. The updated debt sustainability analysis (DSA) for Zambia shows that the country is still at low risk of debt distress and that there is some scope for external borrowing on commercial terms to finance high-priority infrastructure projects. The DSA is based on assumptions that are consistent with the authorities’ medium-term macroeconomic framework. The baseline scenario incorporates a substantial amount of external borrowing by the government to finance its share of the cost of major infrastructure projects, particularly for electricity generation. Even with extreme shocks, and taking into account the contingent statutory liabilities of central government, the debt sustainability indicators stay well below the relevant thresholds for the risk of debt distress. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "E.   Exchange Rate Assessment ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "20. There is no clear evidence of misalignment of the exchange rate (see Box 4). Its movements in recent years have closely mirrored movements in the terms of trade. While data limitations impede a robust assessment, indications are that the real exchange rate does not appear to be too far from its equilibrium level. Moreover, the balance of payments position does not point to any disruptive movements in the exchange rate. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "F.   Other Issues ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "21. The authorities have made efforts to settle arrears to external private creditors stemming from the past imposition of exchange controls. Settlement of the outstanding arrears to commercial creditors was offered on terms similar to those provided by the Paris Club. The authorities are continuing to verify claims outstanding to private individuals. The exchange restrictions evidenced by the accumulation of these external payments arrears are subject to Fund approval under Article VIII. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "VI.   ECONOMIC STATISTICS ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "22. Weaknesses in the quality and timeliness of economic statistics for Zambia represent a significant obstacle to effective economic analysis and policy making. The base years for both the national accounts and the CPI are in the early 1990s and are thus no longer representative of the structure and composition of the economy. Lags in presentation of reliable national accounts data and unresolved methodological issues also unduly complicate economic analysis. The authorities recognize that this situation makes them less effective and are committed to making available to the Central Statistical Office (CSO) sufficient financial and human resources to ensure that it can quickly re-base the national accounts and the CPI and publish reliable economic statistics regularly and promptly. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Box 4. Zambia: Exchange Rate Assessment ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "The real effective exchange rate (REER) has appreciated steadily since the early 2000s, mostly because the terms of trade have improved (Text Figure 1). High copper prices were a major driver of the terms of trade, and copper contributed about three-fourths of export earnings.  Sizable inflows of portfolio capital  also stimulated the appreciation. The subsequent depreciation in 2008–09 was driven ",
+        "page_idx": 16
+    },
+    {
+        "type": "image",
+        "img_path": "All_AIV_2008-2025/754_2009_0/images/c4f6f49537d093056b77bacc80d149b399f9f31b141529d24d93a47592c33b49.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "by a plunge in copper prices, and outflows of portfolio capital, during the global financial crisis. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Assessing the exchange rate with tools developed by the IMF’s Consultative Group on Exchange Rates (CGER), it appears that the real effective exchange rate is close to its estimated equilibrium level, with no clear evidence of misalignment (Text Table 1), which implies that the ",
+        "page_idx": 16
+    },
+    {
+        "type": "table",
+        "img_path": "All_AIV_2008-2025/754_2009_0/images/26953b9a84dbe65467f04b6ffb2b714487bb4eed3efd12ff74619d15da5ce764.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td colspan=\"3\">Text Table 1. Exchange Rate Assessment Results 1,2</td></tr><tr><td colspan=\"3\">Approach Current Account/GDP REER norm underlying gap -15.3</td></tr><tr><td colspan=\"3\">External Sustainability -6.7 -4.4 Macroeconomic Balance -3.1 -4.4</td></tr><tr><td colspan=\"3\">8.5 Equilibrium Real Exchange Rate 16.5 Based on IMF CGER methodology and extension</td></tr></table></body></html>\n\n",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "underlying current account deficit relative to GDP is broadly in line with its estimated norm. It is duly noted, however, that data limitations, model selection, and structural changes in the Zambian economy limit the scope for precise point estimates. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "The balance of payments position does not appear to give rise to disruptive exchange rate movements. Absent a boom in copper prices and FDI inflows, the REER is expected to hold at or near the current level over the mediumterm (Text Figure 2). The nominal exchange rate reflects market conditions, fiscal and monetary policies are consistent with domestic stability and internal ",
+        "page_idx": 16
+    },
+    {
+        "type": "image",
+        "img_path": "All_AIV_2008-2025/754_2009_0/images/d9d63ae19b40a46eec7bf0b28ddb8128df074daecd0d1d29fb279debe4330272.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "balances, and the current structure of the capital and financial accounts poses no apparent risk to external stability.  Finally, the appreciation of the real exchange rate in recent years does not appear to have hindered growth and development of non-metals exports, which have enjoyed double digit growth in recent years, even though copper still dominates exports in both absolute and relative terms. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "VII.   STAFF APPRAISAL ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "23. The Zambian economy has shown some resilience to the global economic crisis. Overall, growth in 2009 is expected to be in line with the average for recent years. Inflation is moderating, and is now expected to fall to below 10 percent by the second half of 2010. The current account deficit has narrowed, and international reserves have strengthened significantly, boosted by the SDR allocation from the IMF. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "24. The government responded appropriately to the revenue shortfall and delays in release of donor funds. The government has sought to sustain budgeted domesticallyfinanced capital spending, drawing on domestic financing from the BoZ and others. Social sector spending, particularly in health, has however been adversely affected. The way in which government has responded to the spending pressures in 2009 is to be commended. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "25. Despite revenue challenges and required constitutional spending, the 2010 budget is well balanced. In particular, it preserves capital spending and shifts some domestic resources to the health sector to make up for an expected decline in donor support. Economic objectives for 2010, including a modest pick-up in growth and a further easing of inflation, are prudent. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "26. The Bank of Zambia has been able to maintain orderly conditions in the foreign exchange market during a turbulent period. The value of maintaining large reserves was amply demonstrated in late 2008 and early 2009 when the kwacha came under sustained pressure. The sale of foreign exchange during this period also helped the BoZ in meeting the end-June 2009 reserve money target. Against this background, the BoZ envisages a modest further increase in international reserves during 2010. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "27. One of the government’s major challenges is to increase fiscal space for infrastructure and social sector spending. The government’s objective of sustaining high growth over the medium term by diversifying of the economy--which is premised on investment in infrastructure and human capital--will require substantial resources, most of which will have to come from domestic sources. A sustained effort is needed on both the resource and spending sides to create additional fiscal space. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "28. The government needs to reverse the erosion of tax revenue by reforming tax policy and administration. While the decline in the revenue ratio has been particularly marked in 2009, it is part of a multi-year declining trend. The trend is evident for all taxes, with the exception of the personal income tax. A thorough review of the tax system and administration is necessary to identify measures that can be taken to raise the tax take over the medium term. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "29. Public financial management reforms need to continue. The alignment of the budget cycle to the fiscal year is a welcome development that should strengthen budget execution. However, it is necessary to ensure closer conformity between the adopted and executed budget. A new budget act represents one step in that direction, as do the ongoing reforms related to the TSA and IFMIS. In general, PFM reforms should aim to ensure that government spending becomes more efficient. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "30. Reversing the upward trend in the wage bill will free up resources for other important government priorities. Salaries and benefits of civil servants have taken up a rather large and rising share of domestically-generated resources. Civil service and pay reform, and resistance to unaffordable wage demands are necessary. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "31. Zambia’s risk of debt distress is low and there is some scope for external borrowing on non-concessional terms. The updated DSA shows that, even with extreme shocks and allowing for substantial external borrowing on commercial terms, Zambia is unlikely to breach debt sustainability thresholds for the foreseeable future. Thus, there is some scope for non-concessional borrowing to finance government’s share in essential infrastructure projects, particularly in electricity generation. External borrowing for this purpose should be undertaken in the context of a robust debt management strategy. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "32. The floating exchange rate regime and reserve money targeting have served Zambia well. Developments over the last year demonstrate the important role the floating exchange rate plays for enabling the Zambian economy to adjust to external shocks. Adherence to a reserve money targeting regime has also brought greater price stability. Any decision to transition to an inflation targeting regime, centered on an interest rate-based monetary policy, should be premised on further analysis and on ensuring that the necessary preconditions are put in place. Meanwhile, the exchange rate and domestic, economic and financial policies are consistent with external stability. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "33. Continued financial sector reforms will serve towards enhancing financial intermediation. Although a large number of banks operate in Zambia, lending rates and interest rate spreads remain high, slowing the deepening of financial intermediation. Further financial sector reforms and changes in how the BoZ interacts with financial markets are needed. To test the interest rate response, the authorities are considering a limited redemption of government domestic debt through the sale of foreign exchange from international reserves. The implementation of the second phase of the financial sector development plan should be pursued assiduously. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "34.      An important step has been taken to raise electricity tariffs towards cost recovery levels. The August 2009 increase in electricity tariffs is the first move toward creating an attractive environment for private sector investment in electricity generation in Zambia, However, tariffs still remain well below cost recovery levels and it will be necessary to adhere to a multiyear program of tariff increases is needed. Moreover, progress in strengthening the financial and operational efficiency of ZESCO needs to be accelerated. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "35. Improvements in the compilation of economic statistics are needed. The rebasing of the national accounts and the consumer price index is a priority matter. The government needs to ensure that adequate human and financial resources are made available for this purpose. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "36. It is recommended that the third review of the PRGF arrangement be completed. All quantitative performance criteria for the review were met and satisfactory progress was made on structural reforms. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "37. It is proposed that the next Article IV consultation be held on the 24-month consultation cycle, subject to the provisions of the decision on consultation cycles approved on July 15, 2003. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Proposed Decision ",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "The following decision, which may be adopted by a majority of votes cast, is proposed for adoption by the Executive Board: ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "1. Zambia has consulted with the Fund in accordance with paragraphs 4(c) and 6 of the three-year arrangement for Zambia under the Poverty Reduction and Growth Facility (PRGF) (EBS/08/53, Corr. 1, 6/4/08) (the “Arrangement”) in order to review program implementation. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "2. The letter dated December 3, 2009 from the Minister of Finance and National Planning of Zambia (the “December 2009 Letter”), along with its attached Memorandum of Economic and Financial Policies (the “December 2009 Memorandum”) and the Technical Memorandum of Understanding (the “December 2009 TMU”), shall be attached to the Arrangement, and the letter dated May 7, 2008 from the Minister of Finance and National Planning of Zambia, and its attachments, as amended, shall be read as supplemented by the December 2009 Letter, and its attachments.. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "3. Accordingly, the Arrangement shall be amended as follows: ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "A new subparagraph 2(f) shall be added as follows: ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "2 (f) The sixth disbursement, in an amount equivalent to SDR 18.395 million, will be available on or after November 30, 2010, at the request of Zambia and subject to paragraphs 4 and 5 below” ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Paragraph 4 (aa) shall be amended, with respect to the fifth disbursement, by revising the references “table 3 of the April 2009 memorandum and as further specified in the April 2009 TMU” to read “table 1 of the December 2009 Memorandum and as further specified in the December 2009 TMU” ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "A new paragraph 4 (aaa) shall be added to read as follows: ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "“4 (aaa) Until the Managing Director of the Trustee finds that, with respect to the sixth disbursement, the data as of June 30, 2010 indicate that the ceilings and floors referred to in paragraphs 4(a) (i) through (iv) of this Arrangement, as specified in table 2 of the December 2009 Memorandum and as further specified in the December 2009 TMU, were not observed” ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "A new paragraph 4(ccc) shall be added as follows: ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "“4 (ccc) Until the Trustee has determined, with respect to the sixth disbursement, that the fifth review of Zambia’s program as specified in paragraph 33 of the December 2009 Memorandum has been completed”. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "The Fund decides that the third program review contemplated in paragraph 4(cc) of the Arrangement and that the financing assurances review as specified in paragraph 5(d) of the Arrangement are completed. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "With a strong rebound in the primary sector, economic growth in 2009 has been resilient to the global ",
+        "page_idx": 22
+    },
+    {
+        "type": "image",
+        "img_path": "All_AIV_2008-2025/754_2009_0/images/10bbd378ef368afd61902f825b1413a27bdf882227803ee601ca9f4ba03ffab4.jpg",
+        "img_caption": [
+            "Figure 1. Zambia: Selected Macroeconomic Indicators "
+        ],
+        "img_footnote": [],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "…while inflation has moderated from the food and fuel price shock in 2008. ",
+        "page_idx": 22
+    },
+    {
+        "type": "image",
+        "img_path": "",
+        "img_caption": [
+            "…which has allowed the current account to strenghten. "
+        ],
+        "img_footnote": [],
+        "page_idx": 22
+    },
+    {
+        "type": "image",
+        "img_path": "All_AIV_2008-2025/754_2009_0/images/f4f70d6dd036a6325ded76348909f2c750dbf4c82e0596f9e0ec4feb47c479f7.jpg",
+        "img_caption": [
+            "Copper prices have been recovering during 2009... "
+        ],
+        "img_footnote": [
+            "Sources: Zambian authorities, IMF staff, and World Economic Outlook (WEO). "
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "image",
+        "img_path": "All_AIV_2008-2025/754_2009_0/images/e11ee03d5255e5f6002e5bd0d58479542301ef06aae37fa73832bd40d8acd52a.jpg",
+        "img_caption": [
+            "Figure 2. Zambia: Cross Country Comparison, 2006–091,2 "
+        ],
+        "img_footnote": [
+            "Sources: IMF, African Department database, March 20, 2009; and World Economic Outlook (WEO) database,  June 15, 2009. 1African LICs are: Benin, Burkina Faso, Ethiopia, Ghana, Kenya, Madagascar, Malawi, Mali, Mozambique, Niger, Rwanda, Senegal, Tanzania, Uganda, and Zambia. 2 African non-oil resource-intensive countries are: Botswana,Côte d'Ivoire, Guinea, Namibia, São Tomé and Principe, Sierra Leone, and Zambia. "
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Monetary policy has remained sufficiently firm in order to keep inflation on a downward path... ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "...while providing enough room for growth-enhancing private sector credit expansion. ",
+        "page_idx": 24
+    },
+    {
+        "type": "image",
+        "img_path": "All_AIV_2008-2025/754_2009_0/images/519cb9382c548a47f71d9357b86b58b2727f5f2778f6c1dfef6c5fdfecc11981.jpg",
+        "img_caption": [
+            "Figure 3. Zambia: Selected Financial Market Indicators "
+        ],
+        "img_footnote": [],
+        "page_idx": 24
+    },
+    {
+        "type": "image",
+        "img_path": "All_AIV_2008-2025/754_2009_0/images/6638479a60049505cd8f02f039f20abdcbcc0a307479c423d49c8b5ee36cc222.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "However, interest rate spreads remain among the highest in the SSA region. ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "In the midst of the global economic crisis, foreign demand for government securities has declined. ",
+        "page_idx": 24
+    },
+    {
+        "type": "image",
+        "img_path": "All_AIV_2008-2025/754_2009_0/images/8a7cadae5717360f7a81aa30a60cf2e72a8de032a2bf884b3e9622489587bfca.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 24
+    },
+    {
+        "type": "image",
+        "img_path": "All_AIV_2008-2025/754_2009_0/images/899e704b8e3064154082866e1bc7be834ed559fef1f8e3aa07d492695451d620.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Fluctuations in the copper price have influenced the exchange rate... ",
+        "page_idx": 24
+    },
+    {
+        "type": "image",
+        "img_path": "All_AIV_2008-2025/754_2009_0/images/c09b15ab8f09b4c292934977c6d0acffd47789da88fc416b88106a3da5f1b030.jpg",
+        "img_caption": [
+            "…while the central bank has intervened in times of high volatility. "
+        ],
+        "img_footnote": [
+            "Source: Zambian authorities, IMF staff, and World Economic Outlook (WEO). "
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "image",
+        "img_path": "All_AIV_2008-2025/754_2009_0/images/2c0ace57d58da0796e830f6f1369bedfd0284ad2dc8f20565ee252edaa78cd3a.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "The current account has improved over time, ",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "Metals still dominate exports but nonmetals have also grown at a healthy pace. ",
+        "page_idx": 25
+    },
+    {
+        "type": "image",
+        "img_path": "All_AIV_2008-2025/754_2009_0/images/bd6da7243c5b066671f19565e4aa05fb1079f285d3aa19d4243efe5f430c63d9.jpg",
+        "img_caption": [
+            "Figure 4. Zambia: External Developments "
+        ],
+        "img_footnote": [
+            "Source:  Zambian authorities, IMF staff, and World Economic Outlook (WEO). "
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "table",
+        "img_path": "All_AIV_2008-2025/754_2009_0/images/9ebee2080748d99990356edb6c22b281d62366201d56079a261a734356376bed.jpg",
+        "table_caption": [
+            "Table 1. Zambia: Selected Economic Indicators "
+        ],
+        "table_footnote": [
+            "Sources: Zambian authorities; and IMF staff estimates and projections. 1Excludes Zimbabwe. 2The projected reduction in reserve money for December 2007 reflects the lowering of statutory reserve requirements from 14 to 8 percent on October 1, 2007. 3 Including discrepancy between the above-the-line balance and below-the-line financing. 4Imports in current year.  Includes the new SDR allocation of SDR 401 millions in 2009. "
+        ],
+        "table_body": "\n\n<html><body><table><tr><td></td><td>2008</td><td colspan=\"2\">2009</td><td>2010</td><td>2011</td><td>2012</td></tr><tr><td></td><td></td><td>Prog.</td><td>Rev. Prog.</td><td>Prog.</td><td>Proj.</td><td>Proj.</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>National account and prices</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>GDP at constant prices</td><td>5.7</td><td>4.0</td><td>5.3</td><td>5.5</td><td>6.0</td><td>6.2</td></tr><tr><td>GDP deflator</td><td>12.9</td><td>7.8</td><td>12.4</td><td>10.7</td><td>8.3</td><td>7.3 99,726</td></tr><tr><td>GDP at market prices (Billions of kwacha)</td><td>55,079</td><td>60,232</td><td>65,196</td><td>76,191</td><td>87,446</td><td></td></tr><tr><td>Consumer prices</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Consumer prices (average)</td><td>12.4</td><td>12.5</td><td>13.7</td><td>10.1</td><td>7.5</td><td>6.5</td></tr><tr><td>Consumer prices (end of period)</td><td>16.6</td><td>10.0</td><td>12.0</td><td>8.0</td><td>7.0</td><td>6.0</td></tr><tr><td>External sector</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Terms of trade (deterioration -)</td><td>-17.1</td><td>-34.0</td><td>-15.4</td><td>7.4</td><td>-2.0</td><td>-4.5</td></tr><tr><td>Average exchange rate (kwacha per U.S. dollar)</td><td>3,754</td><td></td><td></td><td>：</td><td></td><td></td></tr><tr><td>(percentage change; depreciation -)</td><td>6.2</td><td>…</td><td></td><td>：</td><td></td><td></td></tr><tr><td>Real effective exchange rate (depreciation -)1</td><td>-16.5</td><td></td><td></td><td></td><td>：</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Money and credit (end of period) Domestic credit to the private sector</td><td>50.2</td><td>16.2</td><td>14.3</td><td>20.1</td><td></td><td>：</td></tr><tr><td>Reserve money²</td><td>28.4</td><td>14.0</td><td>19.0</td><td>19.0</td><td></td><td></td></tr><tr><td>Broad Money (M3)</td><td>22.0</td><td>13.8</td><td>19.0</td><td>19.0</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>National accounts Gross investments</td><td></td><td>22.1</td><td>22.1</td><td>23.5</td><td></td><td>22.2</td></tr><tr><td>Government</td><td>19.4 3.6</td><td>5.2</td><td>4.2</td><td>5.0</td><td>22.3 5.0</td><td>5.1</td></tr><tr><td>Private</td><td>15.9</td><td>16.9</td><td>17.9</td><td>18.5</td><td>18.7</td><td>18.6</td></tr><tr><td>National savings</td><td>13.9</td><td>15.0</td><td>20.3</td><td>21.0</td><td>19.4</td><td>19.1</td></tr><tr><td>Gross foreign savings</td><td>5.6</td><td>7.1</td><td>1.8</td><td>2.5</td><td>2.9</td><td>3.1</td></tr><tr><td>Central government budget</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Overall balance3</td><td>-2.2</td><td>-2.4</td><td>-2.6</td><td>-2.4</td><td>-1.6</td><td>-1.5</td></tr><tr><td>(excluding grants)</td><td>-6.0</td><td>-7.1</td><td>-7.1</td><td>-5.3</td><td>-4.1</td><td>-3.7</td></tr><tr><td>Revenue</td><td>18.6</td><td>16.3</td><td>15.7</td><td>15.9</td><td>15.9</td><td>16.4</td></tr><tr><td>Tax</td><td>17.5</td><td>15.6</td><td>15.0</td><td>14.9</td><td>15.4</td><td>15.8</td></tr><tr><td>Nontax</td><td>1.0</td><td>0.7</td><td>0.7</td><td>0.9</td><td>0.5</td><td>0.5</td></tr><tr><td>Grants</td><td>3.8</td><td>4.7</td><td>4.5</td><td>2.9</td><td>2.5</td><td>2.2</td></tr><tr><td>Total expenditure</td><td>23.8</td><td>23.4</td><td>22.8</td><td>21.2</td><td>20.0</td><td>20.1</td></tr><tr><td>Current expenditures</td><td>19.1</td><td>18.3</td><td>18.0</td><td>16.9</td><td>15.6</td><td>14.2</td></tr><tr><td>Of which: Wages and salaries</td><td>8.1</td><td>7.8</td><td>8.2</td><td>7.9</td><td>7.5</td><td>7.2</td></tr><tr><td>Capital expenditure</td><td>3.6</td><td>4.5</td><td>4.2</td><td>4.0</td><td>4.1</td><td>5.6</td></tr><tr><td>Domestic arrears payments</td><td>1.1</td><td>0.5</td><td>0.5</td><td>0.4</td><td>0.2</td><td>0.2</td></tr><tr><td>External sector</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Current account balance (including current and capital grants)</td><td>-5.6</td><td>-7.1</td><td>-1.8</td><td>-2.5</td><td>-2.9</td><td>-3.1</td></tr><tr><td>(excluding grants)</td><td>-9.3</td><td>-12.1</td><td>-6.3</td><td>-5.5</td><td>-5.5</td><td>-5.4</td></tr><tr><td>Gross international reserves (months of imports)4</td><td>2.1</td><td>3.1</td><td>4.5</td><td>4.1</td><td>4.1</td><td>4.2</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Public debt Total central government debt (end-period)</td><td>26.7</td><td>22.3</td><td>26.4</td><td>27.6</td><td>28.0</td><td>27.9</td></tr><tr><td>External</td><td>11.2</td><td>10.1</td><td>11.9</td><td>14.2</td><td>15.3</td><td>15.9</td></tr><tr><td></td><td></td><td>12.3</td><td></td><td></td><td></td><td></td></tr><tr><td>Domestic</td><td>15.5</td><td></td><td>14.5</td><td>13.4</td><td>12.6</td><td>11.9</td></tr></table></body></html>\n\n",
+        "page_idx": 26
+    },
+    {
+        "type": "table",
+        "img_path": "All_AIV_2008-2025/754_2009_0/images/d695c7eaeb91eb3fb3c052d78327a8a1f187d0bda25fcda43560a65925648da3.jpg",
+        "table_caption": [
+            "Table 2. Zambia: Fiscal Operations of the Central Government (Billions of kwacha) "
+        ],
+        "table_footnote": [
+            "Sources: Zambian authorities; and IMF staff estimates and projections. $^1\\mathsf{I n}2006$ , this line includes MDRI debt reduction of kwacha 8410 billion. 2Discrepancy largely reflects changes in the carryover of budgetary releases. In 2008, this line also includes kwacha 416 billion in offsetting expenditure measures. "
+        ],
+        "table_body": "\n\n<html><body><table><tr><td></td><td></td><td colspan=\"7\"></td></tr><tr><td></td><td>2008</td><td colspan=\"2\">Jun 2009</td><td colspan=\"2\">2009</td><td>2010</td><td>2011</td><td>2012</td></tr><tr><td></td><td></td><td>Prog.</td><td>Prel.</td><td>Prog. Rev. Prog.</td><td></td><td>Prog.</td><td>Proj.</td><td>Proj.</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Revenue and grants</td><td>12,290</td><td>6,871</td><td>6,441</td><td>13,681</td><td>13,174</td><td>14,343</td><td>16,092</td><td>18,533</td></tr><tr><td>Revenue</td><td>10,221</td><td>5,009</td><td>4,660</td><td>10,649</td><td>10,226</td><td>12,107</td><td>13,876</td><td>16,306</td></tr><tr><td>Tax</td><td>9,653</td><td>4,824</td><td>4,470</td><td>10,195</td><td>9,757</td><td>11,385</td><td>13,429</td><td>15,794</td></tr><tr><td>Income taxes</td><td>4,678</td><td>2,258</td><td>2,362</td><td>4,657</td><td>5,024</td><td>5,730</td><td>6,842</td><td>8,221</td></tr><tr><td>Value-added tax</td><td>2,201</td><td>1,161</td><td>1,095</td><td>2,448</td><td>2,496</td><td>2,940</td><td>3,464</td><td>3,958</td></tr><tr><td>Excise taxes</td><td>1,424</td><td>742</td><td>486</td><td>1,657</td><td>1,082</td><td>1,397</td><td>1,616</td><td>1,893</td></tr><tr><td>Customs duties</td><td>1,351</td><td>661</td><td>527</td><td>1,432</td><td>1,155</td><td>1,318</td><td>1,506</td><td>1,722</td></tr><tr><td>Nontax</td><td>567</td><td>186</td><td>190</td><td>454</td><td>469</td><td>722</td><td>447</td><td>512</td></tr><tr><td>Grants1</td><td>2,069</td><td>1,861</td><td>1,781</td><td>3,032</td><td>2,948</td><td>2,236</td><td>2,216</td><td>2,227</td></tr><tr><td>Budget support Project grants</td><td>642 1,427</td><td>761 1,100</td><td>362 1,419</td><td>832 2,200</td><td>990 1,958</td><td>790 1,446</td><td>924 1,293</td><td>952</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>1,274</td></tr><tr><td>Expenditures</td><td>13,098</td><td>7,642</td><td>7,469</td><td>15,248</td><td>14,841</td><td>16,178</td><td>17,476</td><td>19,997</td></tr><tr><td>Current expenditures</td><td>10,539</td><td>6,120</td><td>6,054</td><td>11,943</td><td>11,760</td><td>12,874</td><td>13,663</td><td>14,202</td></tr><tr><td>Wages and salaries</td><td>4,465</td><td>2,484</td><td>2,441</td><td>5,100</td><td>5,317</td><td>6,019</td><td>6,575</td><td>7,157</td></tr><tr><td>Goods and services</td><td>2,808</td><td>1,607</td><td>1,828</td><td>3,491</td><td>3,147</td><td>3,793</td><td>3,184</td><td>3,106</td></tr><tr><td> Interest payments</td><td>950</td><td>545</td><td>515</td><td>1,068</td><td>1,017</td><td>1,246</td><td>1,281</td><td>1,292</td></tr><tr><td>Other</td><td>2,315</td><td>1,484</td><td>1,270</td><td>2,284</td><td>2,279</td><td>1,815</td><td>2.623</td><td>2,646</td></tr><tr><td>Capital expenditure</td><td>1,966</td><td>1,362</td><td>1,216</td><td>2,953</td><td>2,729</td><td>3,035</td><td>3,628</td><td>5,599</td></tr><tr><td>Of which: domestically financed</td><td>1,271</td><td>799</td><td>620</td><td>1,828</td><td>1,810</td><td>1,882</td><td>2,901</td><td>4,931</td></tr><tr><td>Domestic arrears payments</td><td>593</td><td>161</td><td>199</td><td>352</td><td>352</td><td>269</td><td>185</td><td>196</td></tr><tr><td>Discrepancy (-overfinancing)²</td><td>-427</td><td>0</td><td>892</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>Overall balance Including grants</td><td></td><td>-772</td><td>-135</td><td>-1,567</td><td>-1,667</td><td>-1,835</td><td>-1,384</td><td>-1,464</td></tr><tr><td>Excluding grants</td><td>-1,236 -3,304</td><td>-2,633</td><td>-1,916</td><td>-4,600</td><td>-4,615</td><td>-4,071</td><td>-3,600</td><td>-3,690</td></tr><tr><td>Financing</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>External financing (net)</td><td>1,236 257</td><td>772 325</td><td>135 100</td><td>1,567 397</td><td>1,667 224</td><td>1,835 348</td><td>1,384 281</td><td>1,464</td></tr><tr><td>Of which: budget support</td><td></td><td></td><td></td><td>209</td><td>108</td><td>156</td><td>167</td><td>123</td></tr><tr><td>Domestic financing (net)</td><td>113</td><td>209 447</td><td>108</td><td></td><td>1,443</td><td>1,487</td><td>1,103</td><td>173</td></tr><tr><td>Bank financing</td><td>979</td><td>347</td><td>35</td><td>1,170</td><td></td><td>1,187</td><td></td><td>1,341</td></tr><tr><td>Of which: BoZ onlending of IMF PRGF</td><td>1,189</td><td></td><td>86</td><td>970</td><td>1,393</td><td></td><td>803</td><td>791</td></tr><tr><td>Nonbank financing</td><td>0</td><td>0</td><td></td><td>0</td><td>423</td><td>0</td><td>0</td><td>0</td></tr><tr><td></td><td>-210</td><td>100</td><td>-51</td><td>200</td><td>50</td><td>300</td><td>300</td><td>550</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Overall balance, excl. budget grants and mining taxe Primary balance</td><td>-2,654</td><td>-1,728</td><td>-769</td><td>-2,726</td><td>-3,282</td><td>-3,173</td><td>-3,178</td><td>-3,756</td></tr><tr><td>Primary balance,excluding mining taxes</td><td>-285</td><td>-227</td><td>380</td><td>-499</td><td>-650</td><td>-588</td><td>-103</td><td>-171</td></tr><tr><td></td><td>-1,062</td><td>-422</td><td>108</td><td>-826</td><td>-1,275</td><td>-1,136</td><td>-974</td><td>-1,511</td></tr><tr><td>Mining taxes</td><td>776</td><td>195</td><td>271</td><td>327</td><td>625</td><td>548</td><td>871</td><td>1,340</td></tr><tr><td> External budget support </td><td>755</td><td>970</td><td>470</td><td>1,041</td><td>1,099</td><td>946</td><td>1,090</td><td>1,125</td></tr><tr><td>Stock of domestic arrears</td><td>249</td><td>88</td><td>50</td><td>0</td><td>269</td><td>185</td><td>196</td><td>0 11,915</td></tr><tr><td>Stock of domestic government securities</td><td>8,517</td><td>…</td><td>…</td><td>7,385</td><td>9,458</td><td>10,215</td><td>11,032</td><td></td></tr></table></body></html>\n\n",
+        "page_idx": 27
+    },
+    {
+        "type": "table",
+        "img_path": "All_AIV_2008-2025/754_2009_0/images/b2bc91ef1e505289e3757adb39359783800bbf23838ad327b61b0c1bf757b046.jpg",
+        "table_caption": [
+            "Table 3. Zambia: Fiscal Operations of the Central Government (Percent of GDP) "
+        ],
+        "table_footnote": [
+            "Sources: Zambian authorities; and IMF staff estimates and projections. 1In 2006, this line includes MDRI debt reduction of kwacha 8410 billion. 2Discrepancy largely reflects changes in the carryover of budgetary releases. In 2008, this line also includes kwacha 416 billion in offsetting expenditure measures. "
+        ],
+        "table_body": "\n\n<html><body><table><tr><td rowspan=\"3\"></td><td rowspan=\"3\">2008</td><td colspan=\"7\"></td></tr><tr><td colspan=\"2\">Jun 2009</td><td colspan=\"2\">2009</td><td colspan=\"2\">2010</td><td>2011 2012</td></tr><tr><td>Prog.</td><td>Prel.</td><td>Prog.</td><td>Rev. Prog.</td><td>Prog.</td><td>Proj.</td><td>Proj.</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Revenue and grants</td><td>22.3</td><td>10.5</td><td>9.9</td><td>21.0</td><td>20.2</td><td>18.8</td><td>18.4</td><td>18.6</td></tr><tr><td>Revenue</td><td>18.6</td><td>7.7</td><td>7.1</td><td>16.3</td><td>15.7</td><td>15.9</td><td>15.9</td><td>16.4</td></tr><tr><td>Tax</td><td>17.5</td><td>7.4</td><td>6.9</td><td>15.6</td><td>15.0</td><td>14.9</td><td>15.4</td><td>15.8</td></tr><tr><td>Income taxes</td><td>8.5</td><td>3.5</td><td>3.6</td><td>7.1</td><td>7.7</td><td>7.5</td><td>7.8</td><td>8.2</td></tr><tr><td>Value-added tax</td><td>4.0</td><td>1.8</td><td>1.7</td><td>3.8</td><td>3.8</td><td>3.9</td><td>4.0</td><td>4.0</td></tr><tr><td>Excise taxes</td><td>2.6</td><td>1.1</td><td>0.7</td><td>2.5</td><td>1.7</td><td>1.8</td><td>1.8</td><td>1.9</td></tr><tr><td>Customs duties</td><td>2.5</td><td>1.0</td><td>0.8</td><td>2.2</td><td>1.8</td><td>1.7</td><td>1.7</td><td>1.7</td></tr><tr><td>Other</td><td>0.0</td><td>0.0</td><td>0.0</td><td>0.0</td><td>0.0</td><td>0.0</td><td>0.0</td><td>0.0</td></tr><tr><td>Nontax</td><td>1.0</td><td>0.3</td><td>0.3</td><td>0.7</td><td>0.7</td><td>0.9</td><td>0.5</td><td>0.5</td></tr><tr><td>Grants1</td><td>3.8</td><td>2.9</td><td>2.7</td><td>4.7</td><td>4.5</td><td>2.9</td><td>2.5</td><td>2.2</td></tr><tr><td>Budget support Project grants</td><td>1.2</td><td>1.2</td><td>0.6</td><td>1.3</td><td>1.5</td><td>1.0</td><td>1.1</td><td>1.0</td></tr><tr><td></td><td>2.6</td><td>1.7</td><td>2.2</td><td>3.4</td><td>3.0</td><td>1.9</td><td>1.5</td><td>1.3</td></tr><tr><td>Expenditures</td><td>23.8</td><td>11.7</td><td>11.5</td><td>23.4</td><td>22.8</td><td>21.2</td><td>20.0</td><td>20.1</td></tr><tr><td>Current expenditures</td><td>19.1</td><td>9.4</td><td>9.3</td><td>18.3</td><td>18.0</td><td>16.9</td><td>15.6</td><td>14.2</td></tr><tr><td>Wages and salaries</td><td>8.1</td><td>3.8</td><td>3.7</td><td>7.8</td><td>8.2</td><td>7.9</td><td>7.5</td><td>7.2</td></tr><tr><td>Goods and services</td><td>5.1</td><td>2.5</td><td>2.8</td><td>5.4</td><td>4.8</td><td>5.0</td><td>3.6</td><td>3.1</td></tr><tr><td>Interest payments</td><td>1.7</td><td>0.8</td><td>0.8</td><td>1.6</td><td>1.6</td><td>1.6</td><td>1.5</td><td>1.3</td></tr><tr><td>Other</td><td>4.2</td><td>2.3</td><td>1.9</td><td>3.5</td><td>3.5</td><td>2.4</td><td>3.0</td><td>2.7</td></tr><tr><td>Capital expenditure</td><td>3.6</td><td>2.1</td><td>1.9</td><td>4.5</td><td>4.2</td><td>4.0</td><td>4.1</td><td>5.6</td></tr><tr><td>Of which: domestically financed</td><td>2.3</td><td>1.2</td><td>1.0</td><td>2.8</td><td>2.8</td><td>2.5</td><td>3.3</td><td>4.9</td></tr><tr><td>Domestic arrears payments</td><td>1.1</td><td>0.2</td><td>0.3</td><td>0.5</td><td>0.5</td><td>0.4</td><td>0.2</td><td>0.2</td></tr><tr><td>Discrepancy (-overfinancing)²</td><td>-0.8</td><td>0.0</td><td>1.4</td><td>0.0</td><td>0.0</td><td>0.0</td><td>0.0</td><td>0.0</td></tr><tr><td>Overall balance</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td> Including grants</td><td>-2.2</td><td>-1.2</td><td>-0.2</td><td>-2.4</td><td>-2.6</td><td>-2.4</td><td>-1.6</td><td>-1.5</td></tr><tr><td>Excluding grants</td><td>-6.0</td><td>-4.0</td><td>-2.9</td><td>-7.1</td><td>-7.1</td><td>-5.3</td><td>-4.1</td><td>-3.7</td></tr><tr><td>Financing</td><td>2.2</td><td>1.2</td><td>0.2</td><td>2.4</td><td>2.6</td><td>2.4</td><td>1.6</td><td>1.5</td></tr><tr><td>External financing (net)</td><td>0.5</td><td>0.5</td><td>0.2</td><td>0.6</td><td>0.3</td><td>0.5</td><td>0.3</td><td>0.1</td></tr><tr><td>Of which: budget support</td><td>0.2</td><td>0.3</td><td>0.2</td><td>0.3</td><td>0.2</td><td>0.2</td><td>0.2</td><td>0.2</td></tr><tr><td>Domestic financing (net)</td><td>1.8</td><td>0.7</td><td>0.1</td><td>1.8</td><td>2.2</td><td>2.0</td><td>1.3</td><td>1.3</td></tr><tr><td>Bank financing</td><td>2.2</td><td>0.5</td><td>0.1</td><td>1.5</td><td>2.1</td><td>1.6</td><td>0.9</td><td></td></tr><tr><td>Nonbank financing</td><td>-0.4</td><td>0.2</td><td>-0.1</td><td>0.3</td><td>0.1</td><td>0.4</td><td>0.3</td><td>0.8 0.6</td></tr><tr><td>Memorandum items:</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Overall balance,excl. budget grants and mining taxes</td><td>-4.8</td><td>-2.7</td><td>-1.2</td><td>-4.6</td><td>-5.0</td><td>-4.2</td><td>-3.6</td><td>-3.8</td></tr><tr><td>Primary balance</td><td>-0.5</td><td>-0.3</td><td>0.6</td><td>-0.8</td><td>-1.0</td><td>-0.8</td><td>-0.1</td><td>-0.2</td></tr><tr><td>Primary balance, excluding mining taxes</td><td>-1.9</td><td>-0.6</td><td>0.2</td><td>-1.7</td><td>-2.0</td><td>-1.5</td><td>-1.1</td><td>-1.5</td></tr><tr><td>Mining taxes</td><td>1.4</td><td>0.3</td><td>0.4</td><td>1.0</td><td>1.0</td><td>0.7</td><td>1.0</td><td>1.3</td></tr><tr><td> External budget support</td><td>1.4</td><td>1.5</td><td>0.7</td><td>1.6</td><td>1.7</td><td>1.2</td><td>1.2</td><td>1.1</td></tr><tr><td>Stock of domestic arrears</td><td>0.5</td><td>0.1</td><td>0.1</td><td>0.4</td><td>0.4</td><td>0.2</td><td>0.2</td><td>0.0</td></tr><tr><td> Stock of domestic government securities</td><td>15.5</td><td></td><td></td><td>14.5</td><td>14.5</td><td>13.4</td><td>12.6</td><td>11.9</td></tr><tr><td>Nominal GDP (in billions of kwacha)</td><td>55,079</td><td>65,196</td><td>65,196</td><td>65,196</td><td>65,196</td><td>76,191</td><td>87,446</td><td>99,726</td></tr></table></body></html>\n\n",
+        "page_idx": 28
+    },
+    {
+        "type": "table",
+        "img_path": "All_AIV_2008-2025/754_2009_0/images/0c36bb76e375874504dbb43c658c00147d222a07d82077ce757548d6e793c68a.jpg",
+        "table_caption": [
+            "Table 4. Zambia: Monetary Accounts1 (Billions of kwacha; unless otherwise indicated) "
+        ],
+        "table_footnote": [
+            "Sources: Zambian authorities; and IMF staff estimates and projections. 1End of period. 2Include valuation and HIPC Initiative Account (balances were K3,253 billion and K2,209 billion at end-2005 and end-2006, respectively). "
+        ],
+        "table_body": "\n\n<html><body><table><tr><td></td><td>2007</td><td>2008</td><td colspan=\"2\">2009</td><td>2010</td></tr><tr><td></td><td></td><td></td><td>Prog.</td><td>Rev Prog.</td><td>Prog.</td></tr><tr><td>Monetary Survey</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Net foreign assets</td><td>4,999</td><td>5,538</td><td>5,045</td><td>4,500</td><td>4,453</td></tr><tr><td>Asset</td><td>6,504</td><td>7,763</td><td>6,626</td><td>11,346</td><td>11,336</td></tr><tr><td>Liabilities</td><td>-1,505</td><td>-2,224</td><td>-1,582</td><td>-6,846</td><td>-6,883</td></tr><tr><td>Net domestic assets</td><td>5,708</td><td>7,524</td><td>9,826</td><td>11,045</td><td>14,045</td></tr><tr><td>Claims on central government (net)</td><td>1,894</td><td>2,358</td><td>3,315</td><td>3,751</td><td>4,938</td></tr><tr><td>Claims on private sector</td><td>5,377</td><td>8,077</td><td>9,382</td><td>9,232</td><td>11,088</td></tr><tr><td>Claims on public enterprises</td><td>379</td><td>148</td><td>160</td><td>160</td><td>160</td></tr><tr><td>Other items (net)²</td><td>-1,940</td><td>-3,058</td><td>-3,030</td><td>-2,098</td><td>-2,141</td></tr><tr><td>Broad Money (M3)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Quasi money (M2)</td><td>10,707 6,801</td><td>13,063 8,691</td><td>14,870 9,894</td><td>15,545 9,894</td><td>18,498 12,307</td></tr><tr><td>Foreign exchange deposits</td><td>3,906</td><td>4,372</td><td>4,977</td><td>5,651</td><td>6,191</td></tr><tr><td>Monetary Authorities</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Net foreign assets</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Asset</td><td>3,743 4,165</td><td>4,660 5,223</td><td>4,145</td><td>3,600 8,744</td><td>3,553 8,734</td></tr><tr><td>Liabilities</td><td>-422</td><td>-563</td><td>5,726 -1,582</td><td>-5,145</td><td>-5,181</td></tr><tr><td>Of which: IMF liabilities</td><td>-361</td><td>-503</td><td>-1,582</td><td>-5,145</td><td>-5,181</td></tr><tr><td>Net domestic assets</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Claims on central government (net)</td><td>-1,242 -13</td><td>-1,449</td><td>-484</td><td>221 995</td><td>994</td></tr><tr><td>Claims on nongovernment</td><td></td><td>572</td><td>165</td><td>202</td><td>1,351</td></tr><tr><td></td><td>235</td><td>187</td><td>265</td><td></td><td>202</td></tr><tr><td>Claims on private sector Claims on public enterprises</td><td>56</td><td>45</td><td>65</td><td>60 0</td><td>60 0</td></tr><tr><td>Claims on other depository corporations (net)</td><td>0</td><td>0 142</td><td>0 200</td><td>142</td><td>142</td></tr><tr><td> Other items (net)²</td><td>179 -1,464</td><td>-2,209</td><td>-914</td><td>-976</td><td>-559</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Reserve money</td><td>2,500</td><td>3,211</td><td>3,661</td><td>3,821</td><td>4,547</td></tr><tr><td>Currency outside banks and cash in vaults Other depository corporation reserves</td><td>1,513 987</td><td>1,932 1,279</td><td></td><td>2,299 1,522</td><td>2,736 1,812</td></tr><tr><td>Memorandum items:</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Reserve money Broad Money (M3)</td><td>1.6 26.3</td><td>28.4</td><td>14.0</td><td>19.0</td><td>19.0</td></tr><tr><td>Credit to the private sector</td><td>43.0</td><td>22.0</td><td>13.8</td><td>19.0</td><td>19.0</td></tr><tr><td>Velocity (M3/Nominal GDP)</td><td></td><td>50.2</td><td>16.2</td><td>14.3</td><td>20.1</td></tr><tr><td>Money multiplier (M3/reserve money)</td><td>4.3</td><td>4.2</td><td>4.4</td><td>4.2</td><td>4.1</td></tr><tr><td>Credit to the private sector (percent of GDP)</td><td>4.3</td><td>4.1</td><td>4.1</td><td>4.1</td><td>4.1</td></tr><tr><td>Gross foreign exchange reserves of the</td><td>11.6</td><td>14.7</td><td>14.4</td><td>14.2</td><td>14.6</td></tr><tr><td>Bank of Zambia (millions of U.S. dollars)</td><td>947</td><td>976</td><td>1,076</td><td>1,740</td><td>1,821</td></tr><tr><td>Exchange rate (kwacha per U.S. dollar, end period)</td><td>3,845</td><td>4,832</td><td></td><td></td><td></td></tr></table></body></html>\n\n",
+        "page_idx": 29
+    },
+    {
+        "type": "table",
+        "img_path": "All_AIV_2008-2025/754_2009_0/images/0a46e127ae80928a09dfb74437da10b5659eba218b57ab45abf568f71359ae0f.jpg",
+        "table_caption": [
+            "Table 5. Zambia: Balance of Payments1 (Millions of U.S. dollars, unless otherwise indicated) "
+        ],
+        "table_footnote": [
+            "Sources: Zambian authorities; and IMF staff estimates and projections. 1Disbursements and imports related to possible future hydropower projects are not included. 2SDR allocation, long term liability. 3Imports in current year. "
+        ],
+        "table_body": "\n\n<html><body><table><tr><td></td><td>2007</td><td>2008 Prel.</td><td>2009 Proj.</td><td>2010 Proj.</td><td>2011</td><td>2012 Proj.</td></tr><tr><td>Current account</td><td>-754</td><td>-1,049</td><td>-522</td><td>-597</td><td>Proj. -657</td><td>-728</td></tr><tr><td>Trade balance</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Exports, f.o.b.</td><td>899 4,510</td><td>404</td><td>245</td><td>481</td><td>580</td><td>575 5,429</td></tr><tr><td>Of which: copper</td><td>3,407</td><td>4,959 3,684</td><td>4,175 3,147</td><td>4,928 3,836</td><td>5,241</td><td>4,169</td></tr><tr><td>Imports, f.o.b</td><td>-3,611</td><td>-4,554</td><td>-3,931</td><td>-4,447</td><td>4,063 -4,661</td><td>-4,854</td></tr><tr><td>Of which:oil</td><td>-493</td><td>-816</td><td>-474</td><td>-622</td><td>-686</td><td>-742</td></tr><tr><td>Services (net)</td><td>-640</td><td>-615</td><td>-524</td><td></td><td></td><td>-719</td></tr><tr><td>Income (net)</td><td></td><td></td><td></td><td>-651</td><td>-688</td><td></td></tr><tr><td>Of which: interest on public debt</td><td>-1,545 -13</td><td>-1,399 -20</td><td>-641 -12</td><td>-834 -12</td><td>-1,015 -16</td><td>-1,040 -22</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Current transfers (net) Budget support grants</td><td>530</td><td>560</td><td>398</td><td>407</td><td>466</td><td>456</td></tr><tr><td>Sector-wide approach grants</td><td>147 156</td><td>171 150</td><td>191 79</td><td>162 92</td><td>176 83</td><td>175 84</td></tr><tr><td>Private transfers</td><td>228</td><td>239</td><td>128</td><td>152</td><td>207</td><td>197</td></tr><tr><td>Capital and financial account</td><td>1,065</td><td>1,046</td><td>1,049</td><td>622</td><td>763</td><td>871</td></tr><tr><td>Capital account</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Project grants</td><td>223 223</td><td>230 230</td><td>299 299</td><td>204 204</td><td>164 164</td><td>151 151</td></tr><tr><td>External debt cancellation</td><td></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>Financial account</td><td>843</td><td>816</td><td>751</td><td>418</td><td></td><td></td></tr><tr><td>Foreign direct and portfolio investments</td><td>1,366</td><td>933</td><td>688</td><td>723</td><td>599 671</td><td>720 610</td></tr><tr><td>Other investments</td><td>-523</td><td>-116</td><td>63</td><td>-305</td><td>-72</td><td>110</td></tr><tr><td>Medium and long-term</td><td>-523</td><td>-116</td><td>63</td><td>-305</td><td>-72</td><td>110</td></tr><tr><td>Public sector (net)</td><td>34</td><td>67</td><td>43</td><td>97</td><td>54</td><td>23</td></tr><tr><td>Disbursements</td><td>83</td><td>111</td><td>83</td><td>140</td><td>129</td><td>102</td></tr><tr><td>Of which: budget support</td><td>0</td><td>32</td><td>21</td><td>32</td><td>32</td><td>32</td></tr><tr><td></td><td>-49</td><td>-43</td><td>-40</td><td></td><td></td><td></td></tr><tr><td>Amortization due</td><td></td><td></td><td></td><td>-42</td><td>-76</td><td>-80</td></tr><tr><td>Monetary authority²</td><td>0</td><td>0</td><td>627</td><td>0</td><td>0</td><td></td></tr><tr><td>Commercial banks (net)</td><td>-67</td><td>143</td><td>-13</td><td>19</td><td>7</td><td>5</td></tr><tr><td>Other sectors</td><td>-490</td><td>-327 0</td><td>-595</td><td>-422</td><td>-133</td><td>82</td></tr><tr><td>Short-term</td><td>0</td><td></td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td> Errors and omissions</td><td>0</td><td>16</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>Overall balance</td><td>310</td><td>13</td><td>527</td><td>25</td><td>107</td><td>143</td></tr><tr><td>Financing Central bank net reserves (- increase)</td><td>-310</td><td>-13</td><td></td><td></td><td>-107</td><td></td></tr><tr><td>Of which: gross reserve change</td><td>-352</td><td>-29</td><td>-527 -764</td><td>-25 -80</td><td>-129</td><td>-143 -131</td></tr><tr><td>Of which: Use of Fund loans</td><td>42</td><td>16</td><td>237</td><td>56</td><td>22</td><td>-12</td></tr><tr><td>Exceptional financing</td><td>0</td><td>0</td><td>0</td><td></td><td>0</td><td>0</td></tr><tr><td>Financing gap</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>Memorandum items:</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Current account, including capital grants (percent of GDP)</td><td>-4.6</td><td></td><td></td><td></td><td></td><td>-3.1</td></tr><tr><td>Current account, excluding grants (percent of GDP)</td><td>-9.2</td><td>-5.6 -9.3</td><td>-1.8 -6.3</td><td>-2.5 -5.5</td><td>-2.9 -5.5</td><td>-5.4</td></tr><tr><td>Change in copper export volume (percent)</td><td>-0.2</td><td>2.0</td><td>16.9</td><td>5.6</td><td>5.9</td><td>7.1</td></tr><tr><td>Copper export price (U.S. dollars per tonne)</td><td>7,132</td><td>6,275</td><td>4,585</td><td>5,291</td><td>5,291</td><td>5,071</td></tr><tr><td>Total official grants (percent of GDP)</td><td>4.6</td><td>3.8</td><td>4.5</td><td>2.9</td><td>2.5</td><td>2.2</td></tr><tr><td>Gross international reserves</td><td>947</td><td>976</td><td>1,740</td><td>1,821</td><td>1,949</td><td>2,080</td></tr><tr><td> In months of imports3</td><td>2.5</td><td>2.1</td><td>4.5</td><td>4.1</td><td>4.1</td><td>4.2</td></tr><tr><td>GDP (millions of U.S. dollars)</td><td>11,542</td><td>14,671</td><td>12,581</td><td>15,630</td><td>16,697</td><td>18,364</td></tr></table></body></html>\n\n",
+        "page_idx": 30
+    },
+    {
+        "type": "table",
+        "img_path": "All_AIV_2008-2025/754_2009_0/images/f2c180eab606f9f114aac34d87cc31b6570b3c038e3b85e5273049b89b4ea01e.jpg",
+        "table_caption": [
+            "Table 6.  Zambia: Financial Soundness Indicators (Percent, unless otherwise indicated) "
+        ],
+        "table_footnote": [
+            "Source: Bank of Zambia. 1 Liquid assets were redefined to exclude one-year Treasury bills beginning in 2005. "
+        ],
+        "table_body": "\n\n<html><body><table><tr><td rowspan=\"2\"></td><td rowspan=\"2\">2006</td><td rowspan=\"2\">2007</td><td rowspan=\"2\">2008</td><td colspan=\"3\">2009</td></tr><tr><td>Mar</td><td>Jun</td><td>Sep</td></tr><tr><td>Capital adequacy</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Regulatory capital to risk-weighted assets</td><td>20.4</td><td>18.6</td><td>18.6</td><td>19.0</td><td>20.3</td><td>20.7</td></tr><tr><td>Tier 1 regulatory capital to risk-weighted assets</td><td>18.0</td><td>15.9</td><td>15.7</td><td>15.9</td><td>16.7</td><td>17.4</td></tr><tr><td>Capital to total assets</td><td>9.1</td><td>9.2</td><td>9.9</td><td>10.8</td><td>11.5</td><td>11.2</td></tr><tr><td>Asset quality</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Past due advances (NPL) to total advances</td><td>11.3</td><td>8.8</td><td>7.2</td><td>8.8</td><td>10.4</td><td>13.1</td></tr><tr><td>Loan loss provisions to nonperforming loans</td><td>83.3</td><td>73.2</td><td>104.6</td><td>78.5</td><td>80.6</td><td>86.6</td></tr><tr><td>Bad debt provisions to advances</td><td>6.8</td><td>6.4</td><td>6.1</td><td>6.9</td><td>8.4</td><td>11.3</td></tr><tr><td>Loan concentration</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Households</td><td>16.1</td><td>15.5</td><td>30.1</td><td>28.8</td><td>28.6</td><td>30.0</td></tr><tr><td>Government and parastatals</td><td>6.2</td><td>9.1</td><td>1.9</td><td>1.8</td><td>1.9</td><td>2.5</td></tr><tr><td>Agriculture</td><td>23.9</td><td>18.4</td><td>16.0</td><td>17.0</td><td>17.5</td><td>16.2</td></tr><tr><td>Mining</td><td>4.4</td><td>4.1</td><td>5.0</td><td>5.0</td><td>4.9</td><td>4.3</td></tr><tr><td>Manufacturing</td><td>14</td><td>11.0</td><td>11.0</td><td>11.0</td><td>11.1</td><td>10.9</td></tr><tr><td>Construction</td><td>2.4</td><td>3.7</td><td>4.0</td><td>3.0</td><td>2.9</td><td>3.1</td></tr><tr><td>Services</td><td>9.8</td><td>13.3</td><td>9.0</td><td>13.0</td><td>10.4</td><td>11.4</td></tr><tr><td>Others</td><td>23.2</td><td>25.0</td><td>23.0</td><td>20.4</td><td>22.7</td><td>21.6</td></tr><tr><td>Earnings and profitability</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Return on average assets</td><td>5.1</td><td>4.7</td><td>3.6</td><td>3.2</td><td>2.2</td><td>1.3</td></tr><tr><td>Return on equity</td><td>30.6</td><td>35.1</td><td>20.8</td><td>18.0</td><td>10.0</td><td>3.2</td></tr><tr><td>Gross interest income to total gross income</td><td>60.2</td><td>63.1</td><td>66.6</td><td>64.9</td><td>62.0</td><td>64.8</td></tr><tr><td>Gross noninterest income to total gross income</td><td>39.8</td><td>36.9</td><td>33.4</td><td>35.1</td><td>38.0</td><td>35.2</td></tr><tr><td>Net interest margin</td><td>12.8</td><td>11.5</td><td>10.4</td><td>10.5</td><td>10.6</td><td>10.8</td></tr><tr><td>Liquidity 1</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Liquid assets to total assets</td><td>41.3</td><td>37.6</td><td>35.5</td><td>33.2</td><td>34.0</td><td>35.6</td></tr><tr><td>Liquid assets to total deposits</td><td>49.6</td><td>46</td><td>49.9</td><td>47.3</td><td>47.9</td><td>59.5</td></tr><tr><td>Advances to deposits ratio</td><td>49</td><td>57.4</td><td>66.3</td><td>72.1</td><td>69.0</td><td>66.3</td></tr><tr><td>Exposure to foreign currency</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Foreign currency loans to total gross loans</td><td>34.0</td><td>32.5</td><td>42.1</td><td>51.7</td><td>38.6</td><td>34.3</td></tr><tr><td>Foreign currency liabilities to total liabilities</td><td>61.2</td><td>27.1</td><td>35.8</td><td>42.1</td><td>41.6</td><td>38.4</td></tr><tr><td>Net open position in foreign exchange to capital</td><td>9.4</td><td>7.1</td><td>6.9</td><td>4.8</td><td>5.8</td><td>5.8</td></tr><tr><td>Exposure to household debt</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Household debt to GDP</td><td>1.5</td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>\n\n",
+        "page_idx": 31
+    },
+    {
+        "type": "table",
+        "img_path": "All_AIV_2008-2025/754_2009_0/images/3aaa85c3bda8a5a1bc714ce9d91f4f35aecdda15e719761c78172828ae0a0d6a.jpg",
+        "table_caption": [
+            "Table 7. Zambia: Indicators of Capacity to Repay the Fund1 "
+        ],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td></td><td colspan=\"7\">Projection</td></tr><tr><td></td><td>2009</td><td>2010</td><td>2011</td><td>2012</td><td>2013</td><td>2014</td><td>2015</td></tr><tr><td>Fund obligations based on existing credit</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>(in millions of SDRs)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Principal Charges and interest</td><td>0.0 0.5</td><td>0.6 1.0</td><td>3.3 1.0</td><td>7.7 1.0</td><td>11.7 1.0</td><td>23.1 0.9</td><td>33.2 0.7</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Fund obligations based on existing and prospective credit (in millions of SDRs)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Principal</td><td>0.0</td><td>0.6</td><td>3.3</td><td>7.7</td><td>11.7</td><td>23.1</td><td>45.3</td></tr><tr><td>Charges and interest</td><td>0.6</td><td>1.4</td><td>1.5</td><td>1.5</td><td>1.5</td><td>1.4</td><td>1.3</td></tr><tr><td>Total obligations based on existing and prospective credit</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>In millions of SDRs</td><td>0.6</td><td>1.9</td><td>4.8</td><td>9.2</td><td>13.2</td><td>24.5</td><td>46.5</td></tr><tr><td>In millions of US$</td><td>0.9</td><td>3.0</td><td>7.5</td><td>14.3</td><td>20.5</td><td>38.0</td><td>72.1</td></tr><tr><td>In percent of exports of goods and services</td><td>0.0</td><td>0.1</td><td>0.1</td><td>0.2</td><td>0.3</td><td>0.6</td><td>1.0</td></tr><tr><td>In percent of debt service²</td><td>1.7</td><td>5.4</td><td>7.7</td><td>12.6</td><td>17.3</td><td>27.0</td><td>40.3</td></tr><tr><td>In percent of GDP</td><td>0.0</td><td>0.0</td><td>0.0</td><td>0.1</td><td>0.1</td><td>0.2</td><td>0.3</td></tr><tr><td>In percent of Gross International Reserves</td><td>0.0</td><td>0.2</td><td>0.4</td><td>0.7</td><td>0.9</td><td>1.5</td><td>2.9</td></tr><tr><td>In percent of quota</td><td>0.1</td><td>0.4</td><td>1.0</td><td>1.9</td><td>2.7</td><td>5.0</td><td>9.5</td></tr><tr><td>Outstanding Fund credit</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>In millions of SDRs</td><td>219.9</td><td>256.2</td><td>271.3</td><td>263.6</td><td>251.9</td><td>228.8</td><td>183.5</td></tr><tr><td> In millions of US$</td><td>337.0</td><td>398.7</td><td>421.5</td><td>409.2</td><td>390.7</td><td>354.3</td><td>284.1</td></tr><tr><td>In percent of exports of goods and services</td><td>7.6</td><td>7.6</td><td>7.6</td><td>7.1</td><td>6.3</td><td>5.3</td><td>3.9</td></tr><tr><td>In percent of debt service²</td><td>649.6</td><td>718.6</td><td>433.3</td><td>359.4</td><td>330.6</td><td>251.8</td><td>158.9</td></tr><tr><td> In percent of GDP</td><td>2.7</td><td>2.6</td><td>2.5</td><td>2.2</td><td>1.9</td><td>1.6</td><td>1.2</td></tr><tr><td>In percent of Gross International Reserves</td><td>19.4</td><td>21.9</td><td>21.6</td><td>19.7</td><td>17.3</td><td>14.5</td><td>11.3</td></tr><tr><td>In percent of quota</td><td>45.0</td><td>52.4</td><td>55.5</td><td>53.9</td><td>51.5</td><td>46.8</td><td>37.5</td></tr><tr><td>Net use of Fund credit (in millions of SDRs)</td><td>157.9</td><td>36.2</td><td>15.1</td><td>-7.7</td><td>-11.7</td><td>-23.1</td><td>-45.3</td></tr><tr><td>Disbursements</td><td>157.9</td><td>36.8</td><td>18.4</td><td>0.0</td><td>0.0</td><td>0.0</td><td>0.0</td></tr><tr><td>Repayments</td><td>0.0</td><td>-0.6</td><td>-3.3</td><td>-7.7</td><td>-11.7</td><td>-23.1</td><td>-45.3</td></tr><tr><td>Memorandum items:</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Exports of goods and services (in millions of US$)</td><td>4,413</td><td>5,224</td><td>5,557</td><td>5,777</td><td>6,186</td><td>6,648</td><td>7,302</td></tr><tr><td>Debt service (in millions of US$)²</td><td>52</td><td>55</td><td>97</td><td>114</td><td>118</td><td>141</td><td>179</td></tr><tr><td>Nominal GDP (in millions of US$)</td><td>12,581</td><td>15,630</td><td>16,697</td><td>18,364</td><td>20,166</td><td>22,195</td><td>24,366</td></tr><tr><td>Gross International Reserves (in millions of US$)</td><td>1,740</td><td>1,821</td><td>1,949</td><td>2,080</td><td>2,260</td><td>2,451</td><td>2,520</td></tr><tr><td>Quota (millions of SDRs)</td><td>489</td><td>489</td><td>489</td><td>489</td><td>489</td><td>489</td><td>489</td></tr></table></body></html>\n\n",
+        "page_idx": 32
+    },
+    {
+        "type": "table",
+        "img_path": "All_AIV_2008-2025/754_2009_0/images/1c1f3abffb2fac3d235fc0e41a91ca454eb749af060d8bbc350e3138aa8a6bd1.jpg",
+        "table_caption": [
+            "Table 8. Zambia: Schedule of Disbursements Under the PRGF Arrangement1 "
+        ],
+        "table_footnote": [
+            "Source: IMF staff estimates. 1Original PRGF disbursements of SDR 48.91 million (10 percent of quota) during 2008–11; and augmentation of SDR 171.2 million (35 percent of quota) during 2009–11; in total, SDR 220.1 million (45 percent of quota) during 2008–11. 2Disbursements made available upon completion of the first and second reviews on May 1, 2009. "
+        ],
+        "table_body": "\n\n<html><body><table><tr><td>Availability</td><td colspan=\"2\">Current</td><td>Conditions for Disbursement</td></tr><tr><td></td><td>Millions of SDRs</td><td>Percent of quota</td><td></td></tr><tr><td>June 4,2008</td><td>6.987</td><td>1.429</td><td>Board approval of the three-year PRGF arrangement</td></tr><tr><td>November 30,2008²</td><td>6.987</td><td>1.429</td><td>Board completion of the first review based on observance of performance criteria for June 30, 2008</td></tr><tr><td>May 1,2009²</td><td>99.923</td><td>20.430</td><td>Board completion of the first and second review based on observance of performance criteria for June 30 and December 31,2008</td></tr><tr><td>November 30,2009</td><td>51.013</td><td>10.430</td><td>Board completion of the third review based on observance of performance criteria for June 30, 2009</td></tr><tr><td>May 30,2010</td><td>18.395</td><td>3.761</td><td>Board completion of the fourth review based on observance of performance criteria for December 31, 2009</td></tr><tr><td>November 30,2010</td><td>18.395</td><td>3.761</td><td>Board completion of the fifth review based on observance of performance criteria for June 30, 2010</td></tr><tr><td>May 30,2011</td><td>18.395</td><td>3.761</td><td>Board completion of the sixth review based on observance of performance criteria for December 31,2010</td></tr><tr><td>Total disbursements</td><td>220.095</td><td>45.0</td><td></td></tr></table></body></html>\n\n",
+        "page_idx": 33
+    },
+    {
+        "type": "table",
+        "img_path": "All_AIV_2008-2025/754_2009_0/images/25015d6e5256fbd913e745a3a03b6ad7c161b3da54592353a93a384b648dd603.jpg",
+        "table_caption": [
+            "Table 9. Zambia: Millennium Development Goals "
+        ],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td></td><td>1997</td><td>2000</td><td>2003</td><td>2005</td><td>2007</td><td>2015 Target</td></tr><tr><td>Goal 1: Eradicate extreme poverty and hunger1</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Population below US$ 1 dollar a day (in percent)</td><td>66.0</td><td></td><td>76.0</td><td>64.0</td><td></td><td>29.0</td></tr><tr><td>Poverty gap ratio at Us$ 1 dollar a day (in percent)</td><td>34.0</td><td></td><td>36.0</td><td>33.0</td><td></td><td>31.0</td></tr><tr><td></td><td>3.3</td><td></td><td>6.0</td><td>4.0</td><td></td><td></td></tr><tr><td>Percentage share of income or consumption held by poorest 20 percent Poverty headcount, national (percent of population)</td><td>72.9</td><td></td><td></td><td>68.0</td><td></td><td></td></tr><tr><td></td><td></td><td>.</td><td></td><td></td><td>.</td><td></td></tr><tr><td>Prevalence of underweight children (percent of children under 5) Population below minimum level of dietary energy consumption (in percent)</td><td>23.5 48.0</td><td></td><td>23.0 47.0</td><td>46.0</td><td>19.3</td><td>11.0 29.0</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Goal 2: Achieve universal primary education?</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Net primary enrollment ratio (percent of relevant age group)</td><td>64.9</td><td>62.6</td><td>79.8</td><td>88.9</td><td>95.4</td><td>100.0</td></tr><tr><td>Primary completion rate, total (percent of relevant age group)</td><td>61.6</td><td>56.3</td><td>66.2</td><td>77.5</td><td>88.1</td><td></td></tr><tr><td>Percentage of pupils starting grade 1 who reach grade 5 (in percent) Youth literacy rate (percent ages 15-24)</td><td>78.2</td><td>98.5</td><td></td><td></td><td></td><td>100.0</td></tr><tr><td></td><td></td><td>69.4</td><td></td><td>69.5</td><td>75.1</td><td>100.0</td></tr><tr><td>Goal 3: Promote gender equality3</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Ratio of girls to boys in primary and secondary education (in percent)</td><td>89.7</td><td>90.4</td><td>92.3</td><td></td><td>93.0</td><td>100.0</td></tr><tr><td>Ratio of young literate females to males (percent ages 15-24) Share of women employed in the nonagricultural sector (in percent)</td><td>·</td><td></td><td></td><td>91.2</td><td></td><td>100.0</td></tr><tr><td>Proportion of seats held by women in national parliament (in percent)</td><td>10.0</td><td>10.0</td><td>12.0</td><td>15.0</td><td>14.6</td><td></td></tr><tr><td>Goal 4: Reduce child mortality4</td><td></td><td></td><td></td><td></td><td></td><td>30.0</td></tr><tr><td> Under 5 mortality rate (per 1,000)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Infant mortality rate (per 1,ooo live births)</td><td></td><td>182.0</td><td>182.0</td><td>182.0</td><td>170</td><td>56.0</td></tr><tr><td>Immunization, measles (percent of children under 12 months)</td><td></td><td>102.0</td><td>102.0</td><td>102.0</td><td>103</td><td>30.0</td></tr><tr><td></td><td>86.0</td><td>85.0</td><td>84.0</td><td>84.0</td><td>85</td><td></td></tr><tr><td>Goal 5: Improve maternal health?</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Maternal mortality ratio (modeled estimate, per 10o,ooo live births)</td><td></td><td>750.0</td><td></td><td>830.0</td><td></td><td>162.0</td></tr><tr><td>Births attended by skilled health staff (percent of total)</td><td>46.5</td><td>47.1</td><td>43.4</td><td></td><td>46.5</td><td></td></tr><tr><td>Goal 6: Combat HiV/AlDS, malaria, and other diseasesb</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Prevalence of HIV, total (percent of population ages 15-49)</td><td></td><td>16.7</td><td>16.9</td><td>17.0</td><td>15.2</td><td>16 or less</td></tr><tr><td>Contraceptive prevalence rate (percent of women ages 15-49)</td><td>25.9</td><td>53.5</td><td>34.0</td><td></td><td></td><td></td></tr><tr><td>Number of children orphaned by HIV/AIDS</td><td></td><td>570,000</td><td>630,000</td><td></td><td>600,000</td><td></td></tr><tr><td>Incidence of tuberculosis (per 100,oo0 people)</td><td>575.5</td><td>605.0</td><td>658.3</td><td>600.1</td><td>506.1</td><td></td></tr><tr><td>Tuberculosis cases detected under DOTS (in percent)</td><td></td><td></td><td>62.0</td><td>51.6</td><td>58.3</td><td></td></tr><tr><td>Goal 7: Ensure environmental sustainability?</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Forest area (percent of total land area) Nationally protected areas (percent of total land area)</td><td>...</td><td>60.1</td><td></td><td>57.1</td><td></td><td></td></tr><tr><td>GDP per unit of energy use (PPP US$ per kg oil equivalent)</td><td></td><td></td><td>42.0</td><td></td><td>41.1</td><td></td></tr><tr><td>CO2 emissions (metric tons per capita)</td><td>1.3</td><td>1.3</td><td>1.4</td><td>1.5</td><td></td><td></td></tr><tr><td>Access to an improved water source (percent of population)</td><td>0.24</td><td>0.17</td><td>0.19</td><td></td><td>0.21</td><td></td></tr><tr><td></td><td>·</td><td></td><td>58.0</td><td></td><td>58</td><td>75.5</td></tr><tr><td>Access to improved sanitation (percent of population)</td><td></td><td></td><td>55.0</td><td></td><td>52</td><td>87.0</td></tr><tr><td>Access to secure tenure (percent of population)</td><td></td><td></td><td></td><td></td><td>：</td><td></td></tr><tr><td>Goal 8: Develop a Global Partnership for Development?</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Youth unemployment rate (percent of total labor force ages 15-24)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Fixed line and mobile telephones (per 1,ooo people)</td><td>8.2 0.0</td><td>17.0</td><td>29.2</td><td>89.2</td><td></td><td></td></tr><tr><td>Internet users (per 1,000 people)</td><td></td><td>0.2</td><td>1.0</td><td>2.9</td><td>5.03</td><td></td></tr></table></body></html>\n\n",
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "APPENDIX I. LETTER OF INTENT ",
+        "text_level": 1,
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "December 3, 2009 ",
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "Mr. Dominique Strauss-Kahn Managing Director International Monetary Fund Washington, D.C. 20431, U.S.A. ",
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "Dear Mr. Strauss-Kahn, ",
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "The attached Memorandum of Economic and Financial Policies (MEFP) reviews recent economic developments and progress in implementing the Government of Zambia’s macroeconomic and structural program under the country’s three-year Poverty Reduction and Growth Facility (PRGF), approved by the IMF Executive Board on June 4, 2008. It also sets out macroeconomic policies and structural reforms that the government will pursue for the remainder of 2009, in 2010 and over the medium term. ",
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "All of the performance criteria for the third review under the PRGF were met. There was good progress overall in terms of structural reforms, though there were modest delays in the implementation of two of the structural benchmarks. The Government requests that the fourth disbursement be made available upon completion of the third review by the Executive Board of the IMF. ",
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "The Government believes that the policies and measures set forth in the attached MEFP are adequate to achieve the objectives of the program. Our economic program for the remainder of the year has been revised to take into account recent developments, and we request modifications to the end-December 2009 performance criteria on net domestic assets, net domestic financing, and gross international reserves. Given the Government’s commitment to these objectives, it will promptly take any additional measures necessary for their achievement. The Government will consult with the IMF—at its own initiative or whenever the Managing Director of the IMF requests such a consultation—on the adoption of these measures and in advance of revisions to policies contained in the MEFP, in accordance with the Fund’s policies on such consultation. ",
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "The Government will provide the Fund with such information as the Fund may request in connection with the progress made in implementing the economic and financial policies and achieving the objectives of the program. ",
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "The Government authorizes the IMF to publish this letter, the attached Memorandum of Economic and Financial Policies, and the related Staff Report, including placement of these documents on the IMF website subject to the removal of market-sensitive information, following the IMF Executive Board’s conclusion of the review. ",
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "Yours sincerely, ",
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "/s/ Dr. Situmbeko Musokotwane Minister of Finance and National Planning ",
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "Attachments (2) ",
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "ATTACHMENT I ",
+        "text_level": 1,
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "Memorandum of Economic and Financial Policies ",
+        "text_level": 1,
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "1. This memorandum reviews recent economic developments and outlines policies and targets that the Government of the Republic of Zambia will pursue for the remainder of 2009, in 2010, and in the medium-term under the Poverty Reduction and Growth Facility (PRGF) arrangement. ",
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "I: RECENT ECONOMIC DEVELOPMENTS ",
+        "text_level": 1,
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "2. The impact of the global financial crisis on the Zambian economy has been less severe than was expected earlier this year. The projection for real GDP growth has been revised upwards to 5.3 percent for 2009, as a result of historically high growth in mining and agriculture. Copper prices, which had dropped rather sharply in the second half of 2008, recovered steadily during 2009, reducing the impact of the crisis on the mining sector, and the economy as a whole. Copper production reached thirty-year highs as a result of a large new mine commencing operations, while the agricultural harvest was the highest recorded in ten years. Notwithstanding the strong performance of the primary sector, overall growth has been offset by a sharp decline in tourism and a deceleration in other tertiary sectors. Accounting for increases from the SDR allocation and earlier augmentation under the PRGF, gross international reserves rose by US\\$714 million in 2009 to reach a projected $\\mathrm{USS1.74}$ billion at end-2009 (equivalent to 4.5 months of import cover). Whereas the kwacha depreciated sharply in the first half of the year, it subsequently recovered. The end-year inflation target of 10 percent is unlikely to be met as a result of somewhat persistent food inflation and a rise in energy prices. Inflation is currently projected to decline to 12 percent by end-2009. ",
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "3. Fiscal developments have been characterized by a shortfall in tax collections and in pledged inflows from cooperating partners in 2009. The shortfall in total revenues and grants relative to the program is projected to reach 0.8 percent of GDP by the end of the year. Significant declines in import-related tax collections, amounting to an estimated 1.3 percent of GDP, were the main contributing factor. Pledged cooperating partner resources amounting to $\\mathrm{USS60}$ million (0.5 percent of GDP) are yet to be disbursed, leading to further potential shortfalls. The government has committed to contain administrative expenditures to reduce budgetary pressures and protect the monetary program. Simultaneously, it is committed to safeguarding poverty reducing capital and social expenditures. As a result, the overall fiscal deficit is expected to widen marginally to 2.5 percent of GDP, supported by an increase in net domestic financing. ",
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "4. The monetary program was in line with the program’s targets for the year to June 2009. This largely reflected the net sales of foreign exchange by the Bank of Zambia early in the year to dampen excessive volatility in the exchange rate on account of elevated demand pressures. These demand pressures emanated from the continued effects of the global financial crisis on the domestic economy as well as bunched agricultural input and oil import requirements. Reserve money declined by 3 percent in the six-month period through June 2009, compared to the programmed decline of 13 percent. Consistent with the development in the monetary aggregates, credit to the private sector also slowed sharply from 50.2 percent annual growth in December 2008 to 34 percent growth in June as financial institutions continued to tighten lending standards as credit quality deteriorated. This deterioration was evidenced by an increase in non-performing loans in the banking system from 7.2 percent in December 2008 to 13.8 percent in September 2009. ",
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "5. Having been impacted negatively by the global financial crisis in the first half of 2009, the balance of payments position is expected to improve in the second half of the year. Imports contracted, as demand from households and firms responded to the movement in relative prices associated with the sharp depreciation of the exchange rate earlier in the year. The robust rebound in copper prices from the second quarter of 2009 will also contribute to the narrower current account deficit (including grants) of 4.7 percent of GDP in 2009 compared to 7.8 percent in 2008. The trade balance is expected to narrow to 1.3 percent of GDP in 2009 from 2.8 percent of GDP in 2008. ",
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "6. The program was on track through the first half of 2009, with all of the quantitative performance criteria and indicative targets being met. Two of the three structural benchmarks were met through end-June, with some delays occurring on the efforts to set up a supervisory regime for the secondary market in Government securities. This delay was due to the need to complete a wider consultation process in order to allow for effective implementation. The intention is now to put the framework for the secondary market in place by end-March 2010. ",
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "7. Significant strides have been made in poverty reduction efforts, and Zambia is progressing well towards attaining its millennium development goals. Revised data from the 2006 Living Conditions Monitoring Survey indicate that the proportion of Zambians living below the poverty line fell to 59.7 percent from 68 percent in 2004. While there has been significant progress in urban poverty reduction, the challenge for the government remains to tackle rural poverty and service delivery in the medium term. Data from the 2007 Zambian Demographic Health Survey has also shown significant reductions in maternal, infant, and child mortality rates, and in the incidence of major diseases. In addition, Zambia is well on track to meeting its millennium development goal of universal primary education. ",
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "II: MEDIUM-TERM MACROECONOMIC FRAMEWORK ",
+        "text_level": 1,
+        "page_idx": 38
+    },
+    {
+        "type": "text",
+        "text": "8. Economic growth is expected to strengthen over the medium term. Real GDP growth is expected to rise marginally to 5.5 percent in 2010 and further to 6.5 percent over the medium term. Growth in 2010 will be driven by a recovery in the tertiary sector, and continued increases in mining and construction activities. Mines that had been closed down as a result of the crisis are expected to reopen in 2010, and a rebound in tourism activity is expected in connection with the 2010 Football World Cup in South Africa. Downside risks, however, still remain amidst uncertainties about a full-fledged global recovery in 2010 and steadily rising oil prices. Growth over the medium term is premised on the realization of policy initiatives and structural reforms aimed at economic diversification and enhanced competitiveness. Additionally, growth will be boosted by new investments in mining and electricity generation. ",
+        "page_idx": 38
+    },
+    {
+        "type": "text",
+        "text": "9. The creation of fiscal space will continue to be an important goal of the government, in order to provide space for increased expenditures on infrastructure and social sector spending. Despite a favorable medium-term outlook for economic growth, there are some near-term fiscal challenges relating to containing the rise of public service wage bill as well as reversing the decline in tax revenues as a proportion of GDP that has been experienced over the past few years. In addition, there will be some one-time outlays that will need to be financed, such as statutory expenditures relating to the national census and the forthcoming presidential elections in 2011. ",
+        "page_idx": 38
+    },
+    {
+        "type": "text",
+        "text": "10. Over the medium term, mining and non-mining imports are expected to rise strongly as mines prepare to ramp up production in 2010 and beyond, foreign direct investment (FDI) inflows rebound, and economic growth gathers pace. Furthermore, large new import-intensive infrastructure projects, particularly in the energy sector, will require sizable financing. In most of these projects, the Government is likely to have some equity participation in order to attract private sector investment. ",
+        "page_idx": 38
+    },
+    {
+        "type": "text",
+        "text": "III: POLICIES FOR 2010 ",
+        "text_level": 1,
+        "page_idx": 38
+    },
+    {
+        "type": "text",
+        "text": "A: Fiscal Policy ",
+        "text_level": 1,
+        "page_idx": 38
+    },
+    {
+        "type": "text",
+        "text": "11. Fiscal policy will continue to remain focused on supporting the government’s diversification agenda. Domestic revenues are expected to rise modestly to 15.7 percent of GDP, premised on tax administration gains and the introduction of some tax measures, such as the increase in the excise tax on diesel from 7 to 10 percent. Current expenditures will be curtailed by 1.2 percentage points of GDP, due to declines in cooperating partner support and in order to provide some fiscal space for capital spending which is expected to reach 4 percent of GDP. The overall fiscal deficit is expected to remain broadly unchanged at 2.4 percent of GDP, and domestic financing is expected to be about 2 percent of GDP. This fiscal framework is consistent with the inflation target and provides reasonable scope for private sector credit growth. ",
+        "page_idx": 38
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 39
+    },
+    {
+        "type": "text",
+        "text": "12. Strengthening revenue performance will be an important component in medium-term policy. Income tax revenues have remained fairly steady over the years. While the mining tax regime has received significant attention in recent years, there is need to improve the performance of non-mining corporate tax collections. VAT collections are also a source of concern for the Government. In order to address these challenges, the Government will undertake a comprehensive review of tax policy and administration this year, drawing on past and prospective IMF technical assistance (structural benchmark for end-September 2010). ",
+        "page_idx": 39
+    },
+    {
+        "type": "text",
+        "text": "13. Tax administration reforms are expected to continue, following the successful completion of the first phase of implementation. Work is underway to further register the medium and small taxpayer population, re-engineer business processes, institute new systems and to reform tax administration legislation. Data quality continues to be a challenge in that it limits the evaluation of the effectiveness of the recently launched Large Taxpayer Office (LTO), and also delays the establishment of Medium and Small Taxpayer Offices (MSTOs). The implementation of a new information communications technology (ICT) system and the legislation reform are among the key components of the modernization of the ZRA in the near term. ",
+        "page_idx": 39
+    },
+    {
+        "type": "text",
+        "text": "14.      The high and increasing cost of personal emoluments as a proportion of domestically generated revenues are another source of concern in the medium-term. Wages and salaries currently account for slightly over 50 percent of domestic revenues, which has curtailed fiscal space for infrastructure spending. The government, cognizant of the need to curb this trend, undertook a review of pay policy and the recommendations of this review are being considered. It is expected that a new performance based pay policy will be approved in 2010 (structural benchmark for end-June 2010), and implemented over the medium term. This reform will go hand-in-hand with the right-sizing exercise, as well as the payroll management and establishment control (PMEC), which has been rolled out to all provinces and will be extended to ministries during 2010. ",
+        "page_idx": 39
+    },
+    {
+        "type": "text",
+        "text": "B: Monetary and Exchange Rate Policies ",
+        "text_level": 1,
+        "page_idx": 39
+    },
+    {
+        "type": "text",
+        "text": "15. The global financial and economic crisis and the commodity price shocks of 2008 have provided an important stress test for Zambia’s monetary policy framework. These shocks increased inflation beyond single digits and created a more volatile exchange rate. However, the maintenance of a flexible exchange rate regime and the implementation of a monetary program that provided the Bank of Zambia with the flexibility to intervene in the foreign exchange market to address excess volatility enabled the Zambian economy to adjust to the external shocks, particularly the decline in copper prices. This has helped in preserving a viable external sector over the medium-term. ",
+        "page_idx": 39
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 40
+    },
+    {
+        "type": "text",
+        "text": "16. The crisis also exposed the fragile nature of Zambia’s financial markets, as price adjustments were volatile over an extended period of time and the market for primary auctions of government securities came under stress. The reversal of short term capital flows also proved disruptive, despite a level of foreign exchange reserves that was more than adequate to meet these outflows. ",
+        "page_idx": 40
+    },
+    {
+        "type": "text",
+        "text": "17.      Looking ahead, monetary policy will aim to restore inflation to single digits in 2010, and to strengthen the framework that minimizes exchange rate volatility without targeting the level of the exchange rate. The government and the Bank of Zambia will aim to reduce inflation to 8 percent by end-2010 and aim to contain reserve money growth to 19 percent over the same period. After several years of rapid private sector credit expansion, domestic credit is projected to moderate to 20 percent in 2010. ",
+        "page_idx": 40
+    },
+    {
+        "type": "text",
+        "text": "18. The Bank of Zambia is actively reviewing its monetary policy framework, with a view to shift to using interest rates as the main instrument to anchor inflationary expectations. This could help better entrench the goal of singe-digit inflation. To this end, work is underway on the institutional, analytical, and communication elements that would be necessary. ",
+        "page_idx": 40
+    },
+    {
+        "type": "text",
+        "text": "19. The Government will continue to maintain a fully flexible exchange rate regime. Interventions in the foreign exchange market by the Bank of Zambia will be limited to the smoothing of fluctuations, while allowing for a gradual buildup of international reserves. We welcome the recent SDR allocation of US\\$627 million from the IMF, the bulk of which we intend to keep as international reserves. ",
+        "page_idx": 40
+    },
+    {
+        "type": "text",
+        "text": "20. In an effort to improve the efficiency of public debt, the Government is considering a restructuring of public debt to reduce costly domestic borrowing and increase concessional external financing. Domestic debt dominates the current public debt portfolio, and has served as an expensive source of development financing for Zambia. While remaining fully respectful of debt sustainability indicators, the Government is actively examining the possibility of redeeming domestic debt securities, financed through a drawdown in reserves initially in the amount of US\\$100 million. It is expected that this portfolio swap will lead to lower debt service burdens, and create additional room for private sector credit through lower government borrowing in domestic markets. By reducing government demand for domestic debt, lower interest rate spreads are also expected. Such an arrangement would be undertaken within the agreed monetary framework for 2010. ",
+        "page_idx": 40
+    },
+    {
+        "type": "text",
+        "text": "C: Structural Policies ",
+        "text_level": 1,
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "Public Financial Management ",
+        "text_level": 1,
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "21. Considerable progress has been made in implementing public financial management reforms. After consultation with stakeholders, the government has altered its budget cycle to ensure parliamentary approval of the budget in advance of the fiscal year. This is expected to improve budget execution and the legislature’s participation in the budgeting process. In addition, the government is expected to introduce a planning and budgeting act in 2010 in order to clearly define the budgeting process and key deliverables by the government as part of the budget (structural benchmark for end-June 2010). ",
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "22. The government is in the advanced stages of finalizing its implementation strategy for the establishment of a Treasury Single Account (TSA). A draft strategy was approved in early 2009 and various modalities of implementation have now been addressed. The implementation will commence with trial runs at the Ministry of Finance and National Planning, followed by a full pilot in early 2010, with other Ministries, Provinces, and Spending Agencies (MPSAs) being added to the pilot in due course. The full introduction of the Treasury Single Account will be phased, commencing in 2010 when six MPSAs will adopt the TSA (structural benchmark for end-December 2010), and all MPSAs expected to use the TSA subsequently. ",
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "23. The implementation of the integrated financial management information system (IFMIS) will gather significant momentum in 2010, with the first full pilot commencing in January 2010. Comprising of thirteen technology modules, the IFMIS project will create substantial efficiencies across government institutions, providing for greater financial information flows and improved accountability and control. The first pilot site will be the Ministry of Finance and National Planning, which will operate all thirteen modules starting in January 2010. Over the course of the year, additional MPSAs will be included, with a full rollout expected by end-2011. ",
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "Financial Sector Development ",
+        "text_level": 1,
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "24. The government remains committed to a comprehensive and inclusive mechanism of developing the financial sector through the implementation of the second phase of the Financial Sector Development Plan (FSDP II). The successful implementation of the FSDP II is expected to: (i) support the achievement of low and stable inflation by enhancing the efficiency of monetary policy; (ii) strengthen the supervision of the financial sector and build its resilience to system shocks; (iii) continue to develop the payment system; (iv) enhance the secondary market trading for government securities and corporate debt; and (v) promote financial inclusiveness. The objectives of the FSDP will be to improve access to credit, as well as reduce the high cost of borrowing. ",
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "25. In order to enhance the efficiency of monetary policy, an overnight lending facility will be introduced by end-November 2009. It is anticipated that the introduction of this facility will provide for lower volatility in short term interest rates as well as an easing of structural rigidities relating to market segmentation amongst financial institutions. ",
+        "page_idx": 42
+    },
+    {
+        "type": "text",
+        "text": "26. The Bank of Zambia will also revise the lender of last resort policy to align it with accepted international standards and ensure that it remains effective and relevant. In addition, a financial sector contingency plan will be drafted to address the impact of a system-wide crisis in the financial sector and broader economy (structural benchmark for end-December 2010). ",
+        "page_idx": 42
+    },
+    {
+        "type": "text",
+        "text": "Energy ",
+        "text_level": 1,
+        "page_idx": 42
+    },
+    {
+        "type": "text",
+        "text": "27. The government remains committed to addressing medium-term capacity constraints in electricity generation. While the completion of rehabilitation projects by the public utility ZESCO has improved the reliability of electricity supply, the medium-term focus remains to increase generating capacity through the commissioning of new generation projects. Commencing in 2009, a multi-year tariff framework was announced to raise electricity tariffs to cost-recovery levels by 2011. A first adjustment of 35 percent has been implemented in 2009 and concurrently an indicative increase of 26 percent was announced for 2010. The exact percentage of the next increase will be announced after statutory public consultation (structural benchmark for end-June 2010). Efforts are under way to improve the efficiency and effectiveness of the utility. Plans to expand the installation of pre-paid electricity meters across the country are progressing, and performance on the key performance indicators1 is expected to improve in 2010. ",
+        "page_idx": 42
+    },
+    {
+        "type": "text",
+        "text": "28. Several sizable electricity generation projects are underway or are being considered. Work has commenced at the Kariba North Bank extension project, which will add $360\\mathrm{MW}$ of additional capacity in the medium term. In addition, the government is close to finalizing technical discussions and will soon commence financial negotiations for the Kafue Gorge Lower (KGL) project, which is expected to add another $600{-}750\\mathrm{MW}$ of capacity by 2017. Given the size of the KGL project, expected to be one of the continent’s largest public private partnerships in the electricity generation sector, the government may have to contract new non-concessional external financing. It is now expected that this nonconcessional financing will be undertaken in 2010. ",
+        "page_idx": 42
+    },
+    {
+        "type": "text",
+        "text": "Debt and Aid Management ",
+        "text_level": 1,
+        "page_idx": 43
+    },
+    {
+        "type": "text",
+        "text": "29. The government is committed to improving public debt management. The debt management strategy seeks to: improve risk management; ensure that financial obligations are settled as scheduled; control contingent liabilities; minimize the cost of financing the budget; support the development and deepening of financial markets; and facilitate effective coordination between monetary, fiscal and debt management policies. In this context, the Government will continue working on enhancing and unifying the legal framework, enhancing the monitoring of public sector debt, including debt contracted by public enterprises, and strengthening institutional capacity to manage and monitor debt. Efforts in these areas have been supported by technical assistance from the IMF and World Bank. ",
+        "page_idx": 43
+    },
+    {
+        "type": "text",
+        "text": "30. There is a growing demand for resources to finance large infrastructure projects of high economic return in Zambia. Given the constraints of limited concessional financing, the government has moved to develop a Public Private Partnership (PPP) framework through which the private sector can be engaged to participate in the process of national development. In certain cases, however, it may be necessary for the government to participate as an equity partner in such projects. In order to engage in these infrastructure initiatives, the there may be a need to raise non-concessional debt to finance such participation. Any such need would be measured against the economic return of such projects (after consulting with the World Bank or other relevant institutions, and only high quality projects yielding substantially high economic returns will be candidates for such financing. The government expects that such financing needs shall be considered for inclusion into the program on a case-by-case basis. ",
+        "page_idx": 43
+    },
+    {
+        "type": "text",
+        "text": "31.      The government will continue to strengthen the management of aid. Priority will be given to further enhancing cooperation with the donor community, including with respect to the compilation of consistent and timely aid data. In an effort to reconcile data on grant financing across government ministries, a closer dialogue between cooperating partners, the Ministry of Finance and National Planning, and the Bank of Zambia is being facilitated. The government is committed to addressing concerns that cooperating partners may have on governance issues that may hold back the disbursement of donor funds, as agreed under the Poverty Reduction Budget Support Memorandum of Understanding with cooperating partners. ",
+        "page_idx": 43
+    },
+    {
+        "type": "text",
+        "text": "Economic Statistics ",
+        "text_level": 1,
+        "page_idx": 43
+    },
+    {
+        "type": "text",
+        "text": "32. Improving Zambia’s statistical data collection and dissemination, particularly with regard to the quality of national accounts and consumer price data, will be a priority for the Government in 2010. Resources will be made available to finalize the economic census, which began in 2008, with the aim to rebase national accounts from the current 1994 base year. Simultaneously, there will be a comprehensive review of methodologies that are used to calculate national accounts, with the aim to align them to best practices. A corresponding rebasing exercise is needed for the consumer price index. The government is also working with cooperating partners to finalize the 2006 Living Conditions Monitoring Survey, and to undertake a full national census of population in 2010. ",
+        "page_idx": 43
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 44
+    },
+    {
+        "type": "text",
+        "text": "IV: PROGRAM MONITORING ",
+        "text_level": 1,
+        "page_idx": 44
+    },
+    {
+        "type": "text",
+        "text": "33. Semi-annual disbursements under the PRGF arrangement will be based on the observance of quantitative performance criteria. Completion of the fourth and fifth reviews of the arrangement will be based on the observance of quantitative performance criteria through end-December 2009 and end-June 2010, respectively (Tables 1 and 2). The fourth review is expected to be completed by June 2010 and the fifth and sixth reviews are expected to be completed, respectively, by end-November 2010 and end-May 2011. ",
+        "page_idx": 44
+    },
+    {
+        "type": "table",
+        "img_path": "All_AIV_2008-2025/754_2009_0/images/60884a3bbaf548ab10c8a5ac3bb4337b1d9356ec4480dbb0b78e0924d8896f55.jpg",
+        "table_caption": [
+            "MEFP Table 1. Zambia: Quantitative Performance Criteria (PC) and Indicative Targets, 20091 (Billions of kwacha, unless otherwise indicated) "
+        ],
+        "table_footnote": [
+            "Sources 1The definitionsoftheitems inthe quantitativeprogramarecontained intheTechnical Memorandum ofUnderstanding (TMU) 2 Adjustors, including for general budget support, are defined in the TMU. 3The ceiling willbe adjusted for changes in the legal reserve requirements as specified in the TMU. + Reserves are calculated at program exchange rates. 5 Continuous performance criteria. Nonconcessional loans are those having a grant element of less than 35 percent. "
+        ],
+        "table_body": "\n\n<html><body><table><tr><td>2008</td><td colspan=\"8\"></td></tr><tr><td></td><td colspan=\"4\"></td><td colspan=\"4\"> September</td></tr><tr><td></td><td>Level</td><td>Prog.</td><td>Act.</td><td>Status</td><td>Indicative</td><td>Est.</td><td>Prog. Rev. Prog.</td><td></td></tr><tr><td>Performance criteria:</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Ceiling on the cumulative increase in net domestic</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td> assets (NDA) of the Bank of Zambia2.3</td><td>-1,449</td><td>397</td><td>515</td><td>Met</td><td>642</td><td>658</td><td>965</td><td>1670</td></tr><tr><td>Adjusted ceiling</td><td></td><td>542</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Ceiling on the cumulative increase in net domestic</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>financing (NDF)²</td><td>5,291</td><td>447</td><td>35</td><td>Met</td><td>844</td><td>622</td><td>1,170</td><td>1,443</td></tr><tr><td>Adjusted ceiling</td><td></td><td>605</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Floor on the cumulative increase in gross international reserves (GIR) of the Bank of Zambia (Millions of U.S. dollars)2.4</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Adjusted floor</td><td>976</td><td>44 14</td><td>16</td><td>Met</td><td>29</td><td>634</td><td>100</td><td>714</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Ceiling on new external payment arrears5</td><td>0</td><td>0</td><td>0</td><td>Met </td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>Ceiling on short-term external debt and on contracting or</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td> guaranteeing of nonconcessional debt by central government,</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>BoZ, and ZESCO, ZAMTEL, and Zambia Railways Limited (millions of U.S. dollars)5.6</td><td>…</td><td>0</td><td>0</td><td>Met</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>Ceiling on medium- and long-term external debt and on contracting or</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td> guaranteeing of nonconcessional debt by central government,</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>BoZ, and ZESCO, ZAMTEL, and Zambia Railways Limited (millions of U.S. dollars)s</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td> Electricity projects</td><td>0</td><td>400</td><td>0</td><td> Met</td><td>400</td><td></td><td>400</td><td>400</td></tr><tr><td>Other sectors</td><td>0</td><td>0</td><td>0</td><td>Met </td><td>0</td><td></td><td>0</td><td>0</td></tr><tr><td>Indicative targets:</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Floor on the cumulative payment of domestic arrears</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>BoZ, and ZESCO, ZAMTEL, and Zambia Railways Limited (millions of U.S. dollars)s</td><td></td><td>161</td><td>199</td><td>Met</td><td>264</td><td>…</td><td>352</td><td>352</td></tr><tr><td>Cumulative increase in reserve money</td><td>3,211</td><td>-60</td><td>-92</td><td>Met </td><td>112</td><td>…</td><td>450</td><td>610</td></tr><tr><td>Memorandum items:</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Cumulative net budget support (U.S. dollars, unless otherwise specified)</td><td>142</td><td>110</td><td>80</td><td></td><td>126</td><td></td><td>106</td><td>160</td></tr><tr><td> General budget support up to allowed limits</td><td>203</td><td>110</td><td>80</td><td></td><td>201 -75</td><td></td><td>201</td><td>212 -52</td></tr><tr><td>Central Government debt service obligations (excl. IMF)</td><td>-61</td><td>0</td><td>0</td><td></td><td></td><td></td><td>-95</td><td></td></tr><tr><td>Domesticallyfinanced capital expenditure</td><td>1271</td><td></td><td></td><td></td><td></td><td></td><td></td><td>1810</td></tr><tr><td>Program exchange rate (Kwacha per U.S. dollr)</td><td>4.832.3</td><td>4,832.3</td><td></td><td></td><td>4.832.3</td><td>4,832.3</td><td>4,832.3</td><td>4.832.3</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>\n\n",
+        "page_idx": 45
+    },
+    {
+        "type": "table",
+        "img_path": "All_AIV_2008-2025/754_2009_0/images/9b607a7730885414eda36818b4a175465b89829462fee74477dbce88ad2eb7cd.jpg",
+        "table_caption": [
+            "MEFP Table 2. Zambia: Quantitative Performance Criteria (PC) and Indicative Targets, 20101 (Billions of kwacha, unless otherwise indicated) "
+        ],
+        "table_footnote": [
+            "1Thedefinitions oftheitems inthequantitativeprogramarecontained intheTechnicalMemorandumof Understanding (TMU) ²Adjustors,inuding foreneralbudgetsupportaredfinedin theTMU. 3 Theceiling willbeadjusted for changes in the legal reserverequirements as specified in the TMU. 4 Reserves are calculated at program exchange rates. 5 Continuous perfrmance criteria. 6 Nonconcessionalloans are those having agrant element of less than 35 percent. 7The projects are:KaribaNorth bank extension, IezhiTehzipower station, Kafue Gorge Lower. "
+        ],
+        "table_body": "\n\n<html><body><table><tr><td rowspan=\"3\"></td><td>2009</td><td colspan=\"4\">2010</td></tr><tr><td>Dec</td><td>Mar</td><td> Jun</td><td>Sep</td><td>Dec</td></tr><tr><td>Proj. Stock</td><td>Indicative</td><td>Prog.</td><td>Indicative</td><td>Indicative</td></tr><tr><td>Performance criteria:</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Ceiling on the cumulative increase in net domestic assets (NDA) of the Bank of Zambia2.3</td><td>221</td><td>405</td><td>376</td><td>663</td><td>773</td></tr><tr><td>Adjusted ceiling</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Ceiling on the cumulative increase in net domestic financing (NDF)2</td><td>6,734</td><td>321</td><td>735</td><td>1,211</td><td>1,487</td></tr><tr><td>Floor on the cumulative increase in gross international reserves (GIR)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td> of the Bank of Zambia (Millions of U.S. dollars)2.4</td><td>1,690</td><td>-2</td><td>71</td><td>45</td><td>80</td></tr><tr><td> Ceiling on new external payment arrears5</td><td></td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>Ceiling on short-term external debt and on contracting or</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>guaranteeing of nonconcessional debt by central government, BoZ, and ZESCO, ZAMTEL, and Zambia Railways Limited (millions of U.S. dollars)5.6</td><td></td><td></td><td>0</td><td>0</td><td>0</td></tr><tr><td>Ceiling on medium- and long-term external debt and on contracting or</td><td>：</td><td></td><td></td><td></td><td></td></tr><tr><td> guaranteeing of nonconcessional debt by central government,</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>BoZ, and ZESCO, ZAMTEL, and Zambia Railways Limited (millions of U.S. dollars)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Electricity projects7</td><td>…</td><td>600</td><td>600</td><td>600</td><td>600</td></tr><tr><td>Indicative targets (cumulative):</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Floor on payment of domestic arrears</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>of the government</td><td>…</td><td>59</td><td>153</td><td>157</td><td>269</td></tr><tr><td>Increase in reserve money</td><td>3,821</td><td>239</td><td>415</td><td>584</td><td>726</td></tr><tr><td>Floor on social spending by the government of Zambia</td><td></td><td>930</td><td>1,875</td><td>2,838</td><td>3,938</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Memorandum items:</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Cumulative net budget support (U.S. dollars)</td><td></td><td>61</td><td>133</td><td>123</td><td>140</td></tr><tr><td> General budget support up to allowed limits</td><td></td><td>78</td><td>160</td><td>174</td><td>194</td></tr><tr><td> Central Government debt service obligations (excl. IMF)</td><td></td><td>-17</td><td>-26</td><td>-51</td><td>-54</td></tr><tr><td>Program exchange rate (Kwacha per U.S. dollar)</td><td>4,832</td><td>4,622</td><td>4,622</td><td>4,622</td><td>4,622</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>\n\n",
+        "page_idx": 46
+    },
+    {
+        "type": "text",
+        "text": "Sources: ",
+        "page_idx": 46
+    },
+    {
+        "type": "table",
+        "img_path": "All_AIV_2008-2025/754_2009_0/images/c28f994f7361b18f2506b1aeae9d113e6b9e4dd04dc30dae62ea01040ced8724.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "Source: Zambian authorities and IMF staff estimates. "
+        ],
+        "table_body": "\n\n<html><body><table><tr><td>Measure</td><td>Timing</td><td>Macro Rationale</td><td>Status</td></tr><tr><td>Prepare a comprehensive strategy for phased implementation of the establishment of the treasury single account system.</td><td>End-June 2009</td><td>Strengthen public expenditure management and budget execution. In particular, the measures will improve</td><td>Met</td></tr><tr><td>Approval by Cabinet of all necessary amendments to the Public Finance Management Act specifying the general principles of the treasury single account system.</td><td>End-September 2009</td><td>cash flow management and forecasts and thereby contribute to improved fiscal and monetary policy coordination.</td><td>Met</td></tr><tr><td>Set up a supervisory regime for the secondary market in government securities.</td><td>End-June 2009</td><td>Financial sector deepening which is vital to achieving the growth objectives of the program.</td><td>Not met Reset to end- March 2010</td></tr><tr><td>Bank of Zambia willintroduce a new standing overnight lending facility.</td><td>End-September 2009</td><td>Strengthen liquidity management, reduce volatilliy in the money market, and enhance the effectiveness of monetary policy.</td><td>Met with delay (December 1,</td></tr><tr><td>Raise the average electricity tarif in 2009 and publicly announce indicative tariffs for 2010-11consistent with the policy to reach cost-reflective levels by 2011.</td><td>End-June 2009</td><td>To ensure an efficient and sustainable power supply. Solving the current problems in the energy sector is essential to achieving the growth objectives of the program.</td><td>Met</td></tr></table></body></html>\n\n",
+        "page_idx": 47
+    },
+    {
+        "type": "table",
+        "img_path": "All_AIV_2008-2025/754_2009_0/images/e2a7bdfe777cd711bedbf1d977c2221934cb8a51a682ec9857a4faa7a09358a2.jpg",
+        "table_caption": [
+            "46 Table 3 MEFP. Zambia: Structural Benchmarks for 2009 ",
+            "Table 4 MEFP Zambia: Structural Benchmarks for 2010 "
+        ],
+        "table_footnote": [
+            "Source: Zambian authorities and IMF staff estimates. "
+        ],
+        "table_body": "\n\n<html><body><table><tr><td>Measure</td><td>Timing</td><td>Macro Rationale</td></tr><tr><td>Approval by Cabinet of the pay policy reform</td><td>End-June 2010</td><td>Strengthen payroll management, and increase productivity of the public sector.</td></tr><tr><td>Establish a Lender-of-Last Resort Framework and draft legislation and procedures for a financial sector contingency plan in the event of a crisis.</td><td>End-June 2010</td><td>Strengthen the Central Bank's crisis preparedness.</td></tr><tr><td>Adoption of Treasury Single Account by six ministries, provinces, and spending agencies.</td><td>End-December 2010</td><td>Strengthen public expenditure management and budget execution. In particular, the measures will improve cash flow management and forecasts</td></tr><tr><td>Submit to parliament the Planning and Budgeting Act.</td><td>End-June 2010</td><td>and thereby contribute to improved fiscal and monetary policy coordination.</td></tr><tr><td>Prepare a review of tax administration and policy</td><td>End-September 2010</td><td> Strenghten revenue performance</td></tr><tr><td>Raise the average electricity tariff in 2010 and publicly announce indicative tariffs for 2011 consistent with the policy to reach cost-reflective levels by 2011.</td><td>End-June 2010</td><td>To ensure an efficient and sustainable power supply. Solving the current problems in the energy sector is essential to achieving the growth</td></tr></table></body></html>\n\n",
+        "page_idx": 47
+    },
+    {
+        "type": "text",
+        "text": "ATTACHMENT II. TMU ",
+        "text_level": 1,
+        "page_idx": 48
+    },
+    {
+        "type": "text",
+        "text": "Technical Memorandum of Understanding for the 2008–10 Poverty Reduction and Growth Facility (PRGF) Arrangement ",
+        "text_level": 1,
+        "page_idx": 48
+    },
+    {
+        "type": "text",
+        "text": "I.   INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 48
+    },
+    {
+        "type": "text",
+        "text": "1. This memorandum sets out the understandings between the Zambian authorities and the International Monetary Fund (IMF) regarding the definitions of the quantitative performance criteria and indicative targets for the program supported by the PRGF arrangement, as well as the program adjusters and the related reporting requirements. ",
+        "page_idx": 48
+    },
+    {
+        "type": "text",
+        "text": "II.   QUANTITATIVE PERFORMANCE CRITERIA AND INDICATIVE TARGETS: DEFINITIONS AND DATA SOURCES ",
+        "page_idx": 48
+    },
+    {
+        "type": "text",
+        "text": "A.   Net Domestic Assets (NDA) of the Bank of Zambia (BoZ) ",
+        "text_level": 1,
+        "page_idx": 48
+    },
+    {
+        "type": "text",
+        "text": "2. Net domestic assets (NDA) of the BoZ are defined as the monthly average (based on daily data) of reserve money (as defined below) less net foreign assets of the BoZ calculated at kwacha 4,622.0 per U.S. dollar for 2010.1 Net foreign assets of the BoZ are defined as gross international reserves (defined in paragraph 8) plus any other foreign assets, including US\\$120 million encumbered reserves at end-December 2009, minus foreign reserve liabilities (defined below). The kwacha values of net foreign assets are derived from the U.S. dollar values using the program exchange rate. ",
+        "page_idx": 48
+    },
+    {
+        "type": "text",
+        "text": "3. Foreign reserve liabilities are defined as short term (one year or less in original maturity) foreign currency-denominated liabilities of the BoZ to nonresidents and outstanding use of IMF credit. ",
+        "page_idx": 48
+    },
+    {
+        "type": "text",
+        "text": "B.   Reserve Money ",
+        "text_level": 1,
+        "page_idx": 48
+    },
+    {
+        "type": "text",
+        "text": "4. Reserve money (monthly average based on daily data) consists of currency issued, required reserves on kwacha deposits, required reserves on foreign currency deposits (at the program exchange rate), positive current account balances of banks with the BoZ, and deposits in the BoZ of non-central government institutions. ",
+        "page_idx": 48
+    },
+    {
+        "type": "text",
+        "text": "5. Data on reserve money, including its components, will be reported by the BoZ on weekly and end-month basis. ",
+        "page_idx": 48
+    },
+    {
+        "type": "text",
+        "text": "C.   Net Domestic Financing (NDF) ",
+        "text_level": 1,
+        "page_idx": 49
+    },
+    {
+        "type": "text",
+        "text": "6. Net domestic financing (NDF) is defined as the Central Government’s net borrowing from the banking and non-banking sectors (See Table 1).2 All government-issued securities will be recorded at cost (face value less discount). NDF will comprise: ",
+        "page_idx": 49
+    },
+    {
+        "type": "text",
+        "text": "(a) the net position of the central Government with commercial banks, including: (i) Treasury bills; (ii) government bonds; (iii) loans and advances; less (iv) support to MBZ; and (v) central government deposits (defined to include account balances under the authority of controlling officers); plus ",
+        "page_idx": 49
+    },
+    {
+        "type": "text",
+        "text": "(b) BoZ holdings of: (i) Treasury bills; (ii) government bonds; (iii) kwacha bridge loan (overdraft facility); less (iv) the government’s deposits at the BoZ; and (v) the donor suspense account; plus (vi) the outstanding amount of the long-term non-transferable security issued against the government’s indebtedness to BoZ as at end-2002; plus ",
+        "page_idx": 49
+    },
+    {
+        "type": "text",
+        "text": "(c) Nonbank holdings of: Treasury bills; and government bonds. ",
+        "page_idx": 49
+    },
+    {
+        "type": "text",
+        "text": "7. The data source for NDF will be the “Net Domestic Financing” Table produced by the Economics Department of the BoZ. The Table will be submitted on a weekly basis, and will be reconciled with the monthly monetary survey. ",
+        "page_idx": 49
+    },
+    {
+        "type": "text",
+        "text": "D.   Gross International Reserves of the BOZ ",
+        "text_level": 1,
+        "page_idx": 49
+    },
+    {
+        "type": "text",
+        "text": "8. Unless otherwise noted here, gross international reserves of the BoZ will be defined as reserve assets of the BoZ (See Table 2). Reserve assets are defined in the IMF BOP manual ( $5^{\\mathrm{th}}$ edition) and elaborated in the reserve template of the IMF’s special data dissemination standards (SDDS). They exclude, for example, foreign assets not readily available to or controlled by the monetary authorities, and foreign currency claims on Zambian residents. ",
+        "page_idx": 49
+    },
+    {
+        "type": "text",
+        "text": "9. Gross international reserves consist of: (i) monetary gold; (ii) foreign currency in cash; (iii) unencumbered foreign-currency deposits at non-resident banks; (iv) foreign securities and deposits; and (v) SDR holdings and Zambia’s reserve position with the IMF. Gross reserves exclude non-convertible currencies, any encumbered reserve assets including but not limited to reserve assets pledged, swapped or used as collateral or guarantee for third-party external liabilities, commercial bank reserve requirements on foreign currency deposits, and the US\\$25 million deposit in MBZ (in liquidation). ",
+        "page_idx": 49
+    },
+    {
+        "type": "text",
+        "text": "10. For the purpose of this target, as well as those for external debt and arrears, valuation will be in U.S. dollars at program exchange rates. ",
+        "page_idx": 49
+    },
+    {
+        "type": "text",
+        "text": "11.      Data on gross international reserves, including its components, will be reported by the BoZ on a weekly and end-month basis. ",
+        "page_idx": 50
+    },
+    {
+        "type": "text",
+        "text": "E.   External Payment Arrears ",
+        "text_level": 1,
+        "page_idx": 50
+    },
+    {
+        "type": "text",
+        "text": "12.      The performance criterion on the non-accumulation of new external payment arrears is continuous. Official external payment arrears are defined as unpaid debt service by the central Government and BoZ 30 days beyond the due date and/or the grace period. This definition excludes arrears on debt subject to rescheduling. ",
+        "page_idx": 50
+    },
+    {
+        "type": "text",
+        "text": "13. Data on arrears are compiled jointly by the Ministry of Finance and National Planning (MoFNP) and BoZ and will be reported by the MoFNP on a quarterly basis. ",
+        "page_idx": 50
+    },
+    {
+        "type": "text",
+        "text": "F.   Official External Debt ",
+        "text_level": 1,
+        "page_idx": 50
+    },
+    {
+        "type": "text",
+        "text": "14. Official medium- and long-term concessional external debt is defined as all forms of official debt with original maturity of more than one year contracted or guaranteed by the central Government, BoZ, ZESCO, ZAMTEL and Zambia Railways Limited having a grant element of no less than 35 percent, since the beginning of the calendar year. The grant element is to be calculated by using currency-specific commercial interest reference rates (CIRRs) reported by the DAC of the OECD. For maturities of less than 15 years, the grant element will be calculated based on six-month averages of CIRRs, and for maturities longer than 15 years, the grant element will be calculated based on 10-year averages. Lending from the IMF will be excluded. ",
+        "page_idx": 50
+    },
+    {
+        "type": "text",
+        "text": "15. This minimum grant element applies not only to debt as defined in Point 9 of the Guidelines on Performance Criteria with Respect to Foreign Debt (Decision No. 12274- (00/85) of August 24, 2000; see EBS/08/53), but also to commitments contracted or guaranteed for which value has not been received. ",
+        "page_idx": 50
+    },
+    {
+        "type": "text",
+        "text": "16. Official external non-concessional debt is defined as the contracting or guaranteeing of external debt other than concessional debt as defined in paragraph 14, owed or guaranteed by the central Government, BoZ, ZESCO, ZAMTEL and Zambia Railways Limited. ",
+        "page_idx": 50
+    },
+    {
+        "type": "text",
+        "text": "17.      The ceiling on contracting or guaranteeing of medium and long-term non-concessional external debt by the central government, BoZ, ZESCO, ZAMTEL and Zambia Railways Limited excludes: (i) non-concessional loans stemming from the rescheduling of external debt; and (ii) central government securities issued in domestic currency, placed in the domestic primary or secondary markets, and held by non-residents. ",
+        "page_idx": 50
+    },
+    {
+        "type": "text",
+        "text": "18. Official external short-term debt is defined as the contracting or guaranteeing of external debt with original maturity of less than one year, and includes forward commodity sales but will exclude normal trade credit for imports, incurred since the beginning of the calendar year. ",
+        "page_idx": 50
+    },
+    {
+        "type": "text",
+        "text": "19.      The term “debt” has the meaning set forth in point No. 9 of the Guidelines on Performance Criteria with Respect to Foreign Debt (Decision No. 12274-(00/85) of August 24, 2000; see Annex). ",
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "20. Detailed data on all new external debt (concessional and non-concessional) contracted or guaranteed by the central government, BoZ, ZESCO, ZAMTEL and Zambia Railways Limited will be provided by the MoFNP on a monthly basis. Information will include (i) amounts contracted or guaranteed; (ii) currencies; and (iii) terms and conditions, including interest rate, maturity, grace period, payments per year, commissions and fees, and collaterals. ",
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "G.   Domestic Arrears of Central Government ",
+        "text_level": 1,
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "21.      Domestic arrears are defined as: (i) any bill that has been received by a spending ministry from a supplier for goods and services delivered (and verified) and for which payment has not been made within 30 days after the due date of payments; (ii) wage, salary and any other payment to government employees, including pension contributions and all forms of housing allowances, that were due to be paid in a given month but remained unpaid on the $15^{\\mathrm{th}}$ of the following month; and (iii) interest or principal obligations which remain unpaid 30 days after the due date of payment. ",
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "22. Information regarding domestic arrears is to be compiled through audits of the accounts of spending Ministries and agencies, conducted by the Internal Audit division of the MoFNP. The audits will be completed and data submitted to IMF staff by the Secretary of the Treasury within six weeks of the end of each quarter. ",
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "H.   Floor on Social Spending ",
+        "text_level": 1,
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "23.      Social spending is defined as central government domestically financed expenditure on health and education as listed in the 2010 Yellow Book under the functional classification. The corresponding indicative target sets the minimum spending on these sectors combined. ",
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "III.   ADJUSTERS ",
+        "text_level": 1,
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "24. The quantitative performance criteria specified under the program are subject to the following adjusters: ",
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "General budget support (GBS) net of debt service3 ",
+        "text_level": 1,
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "(i) The ceilings on NDA and NDF will be adjusted downward (upward) by the full amount of the excess (shortfall) in GBS net of debt service relative to the programmed levels specified in Table 1 of the MEFP.4,5 ",
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "(a) The total adjustment for shortfalls will be limited to $\\mathrm{USS}30$ million for JanuaryJune and $\\mathrm{USS60}$ million for January-December 2009. ",
+        "page_idx": 52
+    },
+    {
+        "type": "text",
+        "text": "(b) The total adjustment for shortfalls will be limited to $\\mathrm{USS40}$ million for JanuaryJune 2010 and US\\$60 million for January-December 2010. ",
+        "page_idx": 52
+    },
+    {
+        "type": "text",
+        "text": "(ii) The floors on GIR will be adjusted upward (downward) by the full amount of the excess (shortfall) in GBS net of debt service relative to the programmed levels (Table 1 of the MEFP). ",
+        "page_idx": 52
+    },
+    {
+        "type": "text",
+        "text": "Change in reserve requirements ",
+        "text_level": 1,
+        "page_idx": 52
+    },
+    {
+        "type": "text",
+        "text": "(iv) The ceiling on NDA will be adjusted downward/upward to reflect decreases/increases in the legal reserve requirements on deposits in commercial banks. The adjuster will be calculated as the percent change in the reserve requirement multiplied by the actual amount of required reserves (kwacha and foreign-currency denominated) at the end of the previous calendar month. ",
+        "page_idx": 52
+    },
+    {
+        "type": "text",
+        "text": "IMF disbursement ",
+        "text_level": 1,
+        "page_idx": 52
+    },
+    {
+        "type": "text",
+        "text": "(v) The floors on GIR will be adjusted upward (downward) for any excess (shortfall) in the disbursements from the IMF (US dollar value) relative to the programmed levels. ",
+        "page_idx": 52
+    },
+    {
+        "type": "text",
+        "text": "BoZ short-term debt ",
+        "text_level": 1,
+        "page_idx": 52
+    },
+    {
+        "type": "text",
+        "text": "(vi) The floor on GIR will be adjusted upward for any increase in BoZ short-term debt denominated in foreign currency, (see definition of short-term debt above). ",
+        "page_idx": 52
+    },
+    {
+        "type": "text",
+        "text": "Domestically-financed capital expenditure ",
+        "text_level": 1,
+        "page_idx": 52
+    },
+    {
+        "type": "text",
+        "text": "(vii) The ceilings on NDA and NDF in 2009 will be adjusted downwards by the full amount of the shortfall in domestically-financed capital expenditure relative to the programmed levels specified in Table 1 of the MEFP. ",
+        "page_idx": 52
+    },
+    {
+        "type": "text",
+        "text": "APPENDIX II ",
+        "text_level": 1,
+        "page_idx": 53
+    },
+    {
+        "type": "text",
+        "text": "IMF Executive Board Concludes 2009 Article IV Consultation with Zambia ",
+        "text_level": 1,
+        "page_idx": 53
+    },
+    {
+        "type": "text",
+        "text": "On [December 16, 2009], the Executive Board of the International Monetary Fund (IMF) concluded the Article IV consultation with Zambia.1 The Executive Board also completed the third review under Zambia’s Poverty Reduction and Growth Facility arrangement. ",
+        "page_idx": 53
+    },
+    {
+        "type": "text",
+        "text": "Background ",
+        "text_level": 1,
+        "page_idx": 53
+    },
+    {
+        "type": "text",
+        "text": "The Zambian economy has performed well in recent years and showed some resilience to the recent global recession. Growth in 2009 is now projected at 5.3 percent, in line with the average for recent years, as the slowdown in the tertiary sector was compensated by a significant increase in copper production and a bumper crop. Inflation has moderated steadily from the food and fuel price induced highs of 2008 and stood at 12.3 percent in October 2009. The current account deficit has narrowed, helped by a recovery of copper prices and import compression following a sharp depreciation of the Kwacha. Zambia’s reserve position is now stronger than it has been in almost four decades at about $4\\%$ months of import cover, thanks in part to the augmentation of access under the PRGF arrangement and the recent SDR allocation. Progress is being made towards the attainment of the Millennium Development Goals. Poverty indicators have improved over the past decade, though the issue of rural poverty and service delivery remains a challenge. Health indicators have been improving, while the country is on-track towards meeting its goal of universal primary education. ",
+        "page_idx": 53
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 54
+    },
+    {
+        "type": "text",
+        "text": "While the overall performance of the economy has held up well, government revenue collections, particularly of import-related taxes, have fallen short of expectations. In order to preserve targets for domestically-financed capital spending, the government has accessed additional domestic financing, including from the BoZ. Delays in the disbursement of donor aid have further hampered government’s ability to meet spending targets. ",
+        "page_idx": 54
+    },
+    {
+        "type": "text",
+        "text": "After coming under sustained pressure in late 2008 and early 2009, the Kwacha has more recently strengthened and stabilized, supported by the recovery in copper prices. During the period of downward pressure, the Bank of Zambia intervened to maintain orderly conditions in the foreign exchange market, drawing on its earlier build up of reserves. Foreign exchange sales also helped the Bank meet its reserve money target for the first half of 2009. More recently, the Bank has relied to a greater extent on open market operations for liquidity management. While there has been an increase in non-performing loans, the banking sector remains adequately capitalized and liquid. ",
+        "page_idx": 54
+    },
+    {
+        "type": "text",
+        "text": "Executive Board Assessment ",
+        "text_level": 1,
+        "page_idx": 54
+    },
+    {
+        "type": "text",
+        "text": "<Begin Typing Here> ",
+        "page_idx": 54
+    },
+    {
+        "type": "text",
+        "text": "Public Information Notices (PINs) form part of the IMF's efforts to promote transparency of the IMF's views and analysis of economic developments and policies. With the consent of the country (or countries) concerned, PINs are issued after Executive Board discussions of Article IV consultations with member countries, of its surveillance of developments at the regional level, of post-program monitoring, and of ex post assessments of member countries with longer-term program engagements. PINs are also issued after Executive Board discussions of general policy matters, unless otherwise decided by the Executive Board in a particular case. ",
+        "page_idx": 54
+    },
+    {
+        "type": "table",
+        "img_path": "All_AIV_2008-2025/754_2009_0/images/16218233b50541ad3fad71fa68a3a15febd5158060e2d7196ead162a15c0d59c.jpg",
+        "table_caption": [
+            "Zambia: Selected Economic Indicators "
+        ],
+        "table_footnote": [
+            "Sources: Zambian authorities; and IMF staff estimates and projections. 1Excludes Zimbabwe. 2The projected reduction in reserve money for December 2007 reflects the lowering of statutory reserve requirements from 14 to 8 percent on October 1, 2007. 3 Including discrepancy between the above-the-line balance and below-the-line financing. 4Imports in current year.  Includes the new SDR allocation of SDR 401 millions in 2009. "
+        ],
+        "table_body": "\n\n<html><body><table><tr><td></td><td>2006</td><td>2007</td><td>2008</td><td>2009 Est.</td></tr><tr><td></td><td>(Percent changes; unless otherwise indicated)</td><td></td><td></td><td></td></tr><tr><td>National account and prices GDP at constant prices</td><td>6.2</td><td>6.2</td><td>5.7</td><td>5.3</td></tr><tr><td>GDP deflator</td><td>13.3</td><td>12.8</td><td>12.9</td><td>12.4</td></tr><tr><td>GDP at market prices</td><td></td><td></td><td></td><td></td></tr><tr><td>(Billions of kwacha)</td><td>38,561</td><td>46,195</td><td>55,079</td><td>65,196</td></tr><tr><td>Consumer prices</td><td></td><td></td><td></td><td></td></tr><tr><td>Consumer prices (average)</td><td>9.0</td><td>10.7</td><td>12.4</td><td>13.7</td></tr><tr><td>Consumer prices (end of period)</td><td>8.2</td><td>8.9</td><td>16.6</td><td>12.0</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>External se ctor</td><td></td><td></td><td></td><td></td></tr><tr><td>Terms of trade (deterioration -)</td><td>55.2</td><td>8.4</td><td>-17.1</td><td>-15.4</td></tr><tr><td>Average exchange rate (kwacha per U.S. dollar)</td><td>3,601</td><td>4,002</td><td>3,754</td><td></td></tr><tr><td>(percentage change; depreciation -) Real effective exchange rate (depreciation -)1</td><td>19.3 -33.1</td><td>-11.1 7.2</td><td>6.2 -16.5</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Money and credit (end of period)</td><td></td><td></td><td></td><td></td></tr><tr><td>Domestic credit to the private sector</td><td>54.3</td><td>43.0</td><td>50.2</td><td>14.3</td></tr><tr><td>Reserve money² Broad Money (M3)</td><td>29.7 45.1</td><td>1.6 26.3</td><td>28.4 22.0</td><td>19.0 19.0</td></tr><tr><td></td><td>(Percent of GDP; unless otherwise indicated)</td><td></td><td></td><td></td></tr><tr><td>National accounts</td><td></td><td></td><td></td><td></td></tr><tr><td>Gross investments</td><td>20.8</td><td>20.6</td><td>19.4</td><td>22.1</td></tr><tr><td>Government</td><td>4.2</td><td>4.0</td><td>3.6</td><td>4.2</td></tr><tr><td>Private</td><td>16.6</td><td>16.6</td><td>15.9</td><td>17.9</td></tr><tr><td>National savings</td><td>23.8</td><td>16.0</td><td>13.9</td><td>20.3</td></tr><tr><td>Gross foreign savings</td><td>-3.0</td><td>4.6</td><td>5.6</td><td>1.8</td></tr><tr><td>Central government budget</td><td></td><td></td><td></td><td></td></tr><tr><td>Overall balance3</td><td>18.9</td><td>-0.2</td><td>-2.2</td><td>-2.6</td></tr><tr><td>(excluding grants)</td><td>-7.6</td><td>-4.8</td><td>-6.0</td><td>-7.1</td></tr><tr><td>Revenue</td><td>17.2</td><td>18.4</td><td>18.6</td><td>15.7</td></tr><tr><td>Grants</td><td>26.5</td><td>4.6</td><td>3.8</td><td>4.5</td></tr><tr><td>Total expenditure</td><td>23.5</td><td>24.3</td><td>23.8</td><td>22.8</td></tr><tr><td>External sector</td><td></td><td></td><td></td><td></td></tr><tr><td>Current account balance (including current and capital grants)</td><td>3.0</td><td>-4.6</td><td>-5.6</td><td>-1.8</td></tr><tr><td>Gross international reserves (months of imports)4</td><td>2.2</td><td>2.5</td><td>2.1</td><td>4.5</td></tr><tr><td>Public debt</td><td></td><td></td><td></td><td></td></tr><tr><td> Total central government debt (end-period)</td><td>27.2</td><td>24.3</td><td>26.7</td><td>26.4</td></tr><tr><td>External</td><td>11.0</td><td>9.2</td><td>11.2</td><td>11.9</td></tr><tr><td>Domestic</td><td>16.2</td><td>15.1</td><td>15.5</td><td>14.5</td></tr></table></body></html>\n\n",
+        "page_idx": 55
+    }
+]
