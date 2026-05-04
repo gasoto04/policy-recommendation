@@ -1,0 +1,20 @@
+# DSA Conclusion section — extracted text
+# Source: Chad_2012_December.md
+# Section identified: THE AUTHORITIES' VIEWS + DEBT DISTRESS CLASSIFICATION AND CONCLUSIONS
+# Stopped at: Figure 1. Chad: Indicators of Public and Publicly Guaranteed External Debt Under Alternatives Scenarios, 2012-2032
+# Paragraphs found: 7
+
+----------------------------------------
+## THE AUTHORITIES' VIEWS
+
+19. The authorities expressed interest in debt relief through the HIPC process . They urged consideration of Chad's special post-conflict circumstances, the importance of public investment in infrastructure to long-term growth, and the need for debt relief to create fiscal space for additional development spending (including foreign-financed). At the same time, the authorities are determined to pursue an accelerated development strategy financed through foreign borrowing on non-concessional terms and secured through oil receipts.
+
+20. The authorities downplay concerns about the debt sustainability implications of the MFA . They consider that new oil developments will generate a cash flow sufficient to meet debt obligations under the MFA. The authorities also believe that the contemplated investments will have significant positive economic externalities that would help sustain non-oil growth at a level higher than 5 percent per annum assumed in the DSA projections. The authorities intend to pursue their own debt sustainability analysis, with consultants, to assess the fiscal space for debt-financed public investment.
+
+## DEBT DISTRESS CLASSIFICATION AND CONCLUSIONS
+
+21. In staff's assessment, despite improved oil production and revenue prospects in the next few years, Chad faces a high risk of debt distress . The DSA suggests that under the baseline (current policies) scenario Chad's overall public and external debt dynamics are not sustainable. This is due to the significant increase in public external debt over the medium term, reflecting the implementation of the MFA on non-concessional terms and continuation with large amounts of non-concessional borrowing for other public investment projects. In this scenario, all public and publicly-guaranteed external debt and debt service indicators breach the critical thresholds. This conclusion holds even if the hypothetical growth impact of the associated projects is taken into account and the underlying fiscal position is assumed to be adjusted to help set aside funds needed to collateralize the disbursements under the MFA.
+
+22. An alternative (prudent) scenario shows that all indicative thresholds would be observed if the MFA were implemented over ten years and on concessional terms. However, to make room for the MFA, all other borrowing would also need to be mostly concessional and its amount scaled back to about a half of the amount projected in the baseline scenario. Even in this case, the DSA underscores Chad's sensitivity to shocks, especially an oil price shock, and stress test results remain a source of concern.
+
+23. Progress toward the HIPC completion point (including the improvement in the CPIA score) would substantially reduce Chad's debt vulnerabilities . However, given the current weak record for fiscal policy implementation and the non-concessional nature of the MFA with the Eximbank of China, prospects for re-embarking on the path to debt relief under the HIPC process are remote.

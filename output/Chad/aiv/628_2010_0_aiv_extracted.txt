@@ -1,0 +1,28 @@
+# Staff Appraisal — extracted text
+# Source MD: 628_2010_0.md
+# Source JSON: 628_2010_0.json
+# TOC start page (detected): 23
+# Page offset: +1
+# Stopped at table: yes (orig idx 135, page_idx 26)
+# Paragraphs kept: 10
+
+----------------------------------------
+30. Serious data shortcomings continue to hamper surveillance. Shortcomings are most serious in public finance data, the balance of payments, and national accounts.9 The authorities have been working with the Central African Regional Technical Assistance Center and the Fund’s Statistics Department to improve statistics in these areas. The staff recommended allocating more resources to statistical collection and analysis. 
+
+V.   STAFF APPRAISAL 
+
+31. The global financial crisis affected Chad mainly through the decline in oil prices. The fiscal position deteriorated sharply in 2009 as the government increased spending levels in the face of a fall-off in oil revenues by depleting its oil savings and borrowing from the central bank. 
+
+32. Prompt reaction to the pressing food shortage needs to be complemented by measures to increase agriculture productivity. The authorities have been quick to mobilize internal and external resources to import food. In the medium term, measures to improve agricultural yields are needed. 
+
+33.      The current fiscal stance is unsustainable. In 2009, expenditure exceeded (by large margins) the expenditure ceilings under both the initial budget approved in December 2008 and the supplementary budget approved in August 2009. Oil savings have vanished and public debt has increased significantly since 2008. Two large non-concessional loans have increased debt vulnerabilities. 
+
+34.      Fiscal policy needs to be tightened within a medium-term framework that factors in the trend decline of oil production over the next 20 years. The non-oil primary deficit should be steadily reduced, while focusing spending on priority areas, to allow accumulation of some savings before oil depletion. Absent a fiscal adjustment, the debt would rapidly reach unsustainable levels. 
+
+35.      In 2010, the authorities should adopt a supplementary budget that substantially reduces the non-oil primary deficit while accommodating priority spending. This would limit the scale of the adjustment needed in 2011. 
+
+36. Improving public financial management is key to transforming oil resources into higher non-oil sector growth and lower poverty. Preserving the exemplary transparency of oil revenue, expanding recent improvements in tax administration, aligning spending with the PRS, and improving public investment planning and procurement are among the main priorities. 
+
+37.      Acceleration of non-oil growth will require substantial improvements in the business climate. Priority measures include strengthening the functioning of the judicial system, deepening the financial sector while addressing problem banks, and reforming the state-owned cotton and utility companies. 
+
+38. Staff recommends that the next Article IV consultation be held on the 12-month cycle. 
