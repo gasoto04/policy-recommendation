@@ -1,0 +1,2074 @@
+[
+    {
+        "type": "text",
+        "text": "To: Members of the Executive Board ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "From: The Acting Secretary ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Subject: ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Senegal—Third Review Under the Policy Support Instrument and First Review and Augmentation of Access Under the Exogenous Shocks Facility ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Attached for consideration by the Executive Directors is a paper on the third review under the Policy Support Instrument and first review and augmentation of access under the Exogenous Shocks Facility for Senegal, which is tentatively scheduled for discussion on Friday, June 19, 2009. Draft decisions appear on pages 20–24. At the time of circulation of this paper to the Board, the Secretary’s Department has received a communication from the authorities of Senegal indicating that they consent to the Fund’s publication of this paper. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Questions may be referred to Mr. Mueller (ext. 35638), Mr. Lakwijk (ext. 38819), and Mr. Gitton (ext. 39347) in AFR. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Unless the Documents Section (ext. 36760) is otherwise notified, the document will be transmitted, in accordance with the procedures approved by the Executive Board and with the appropriate deletions, to the WTO Secretariat on Tuesday, June 16, 2009; and to the African Development Bank, the European Commission, the Islamic Development Bank, the Organisation for Economic Cooperation and Development, and the West African Economic and Monetary Union, following its consideration by the Executive Board. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "This document, together with a supplement providing an informational annex, will shortly be posted on the extranet, a secure website for Executive Directors and member country authorities. The supplement, which is not being distributed in hard copy, will also be available in the Institutional Repository; a link can be found in the daily list (http://wwwint.imf.org/depts/sec/services/eb/dailydocumentsfull.htm) for the issuance date shown above. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Att: (1) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Other Distribution: Department Heads ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "INTERNATIONAL MONETARY FUND",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "SENEGAL ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Third Review Under the Policy Support Instrument and First Review and Augmentation of Access Under the Exogenous Shocks Facility ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Prepared by the African Department (In consultation with other departments) ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Approved by Roger Nord and Anthony R. Boote ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "June 8, 2009 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "PSI/ESF Review. Staff supports the request for a waiver and recommends completion of the reviews. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ESF Access. Staff recommends augmentation from 30 to 75 percent of quota (SDR 121.35 million) and extension of the arrangement from 12 to 18 months to help Senegal address the impact of the global crisis. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Political Developments. Smooth municipal elections saw the President’s party lose all but one major city on March 22, 2009. The Prime Minister and other government ministers were replaced in early May, with no changes for the financial portfolios. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Program Discussions. Held in Dakar during March 24–April 2, 2009 and Washington after the Spring Meetings. The team comprised Messrs. Mueller (head), Lakwijk, Gitton (all AFR), Ms. Sancak (FAD), Mr. Painchaud (SPR), and Mr. Segura-Ubiergo (resident representative). The mission met with President Wade, Finance Minister Diop, Budget Minister Sow, BCEAO Governor Dacoury-Tabley, BCEAO National Director Diop, other senior government officials, and representatives of development partners, the private sector, and banks. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Executive Summary.. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "I. A Successful Turnaround—Program Back on Course . ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "II. Economic Outlook and Risks—Repeated Shocks and Fund Role. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A. A Challenging Economic Environment 5   \nB. Exogenous Shocks Facility 10 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "III. Program Discussions. 13 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A. Overview.. 13   \nB. Macroeconomic Policies . 14   \nC. Structural Reforms . 16 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "IV. Staff Appraisal. 17 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Boxes ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.  Government Payment Delays and Extrabudgetary Spending.. 4   \n2.  Main Transmission Channels of the International Crisis 7   \n3.  Balance of Payments Impact of Recent Shocks . 11   \n4.  Banking Sector Stability . 18 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Figures ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.  Recent Macroeconomic Developments, 2006–08.. 6   \n2.  Senegal, WAEMU, and SSA: Macroeconomic Developments and Outlook, 2006–10.. 8   \n3.  Medium-Term Outlook, 2008–14. 9   \n4.  Balance of Payments 2002–13. 12 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Tables ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.  Selected Economic and Financial Indicators, 2004–14 . 25 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.  Balance of Payments, 2004–14.. 26   \n3.  Balance of Payments, 2008–10.. . 27   \n4.  Balance of Payments, 2008–10... .. 28   \n5.  Government Financial Operations, 2006–14 .. . 29   \n6.  Government Financial Operations, 2006–14 .. .. 30   \n7.  Monetary Survey, 2005–09... ... 31   \n8.  Financial Soundness Indicators for the Banking Sector, 2003–08.. .. 32   \n9.  Quantitative Assessment (Performance) Criteria and Indicative Targets, 2008–09 . .. 33   \n10.  Structural Conditionality, December 2008–May 2009 ... .. 34   \n11.  Indicators of Capacity to Repay the Fund, 2008–20 .. . 36   \nAppendix I. Letter of Intent . 37   \nAttachment I. Memorandum on Economic and Financial Policies . . 39   \nAttachment II. Technical Memorandum of Understanding. 50 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "EXECUTIVE SUMMARY ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The budgetary slippages, which had seriously affected the economy and put Senegal’s PSI-supported program at risk, have been successfully addressed. In line with program commitments, the government’s unpaid bills have been substantially reduced and far-reaching PFM reforms launched. All quantitative program targets have been met, except for the end-2008 assessment (performance) criterion on the basic fiscal deficit which was exceeded due to sharply lower revenues, despite significant underspending. Staff recommends a waiver in light of the prudent stewardship of the budget in late 2008 and the corrective actions taken that allowed the end-March 2009 basic fiscal balance target to be met. Structural performance has been good, although two audits were delayed due to tender procedures. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "These achievements come at a critical juncture, as Senegal is being affected by the global economic crisis. Main transmission channels are remittances, FDI, and exports, while the financial sector is vulnerable to indirect effects. This second exogenous shock, following the surge in food and oil prices in 2008, will substantially worsen Senegal’s short-term external outlook and justify augmentation of access under the ESF. Beyond 2010, the balance of payments is expected to recover, illustrating the sudden and temporary nature of the two shocks. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A temporary fiscal easing relative to earlier program targets is envisaged for 2009 to help counter the impact of the external shock. This would, in the presence of a substantial revenue shortfall, enable the authorities to maintain spending close to programmed levels, thus safeguarding key social spending and infrastructure investment. Over the medium term, the fiscal policy stance will continue to be geared towards safeguarding debt sustainability. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The program continues to aim at deepening structural reforms, mainly related to PFM and tax administration. Budget preparation, monitoring, and execution would be further improved and the traditionally strong revenue performance safeguarded. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Staff recommends completion of the program reviews and augmentation and extension of access under the ESF. This will allow Senegal to face the global economic crisis in a stronger position than just a few months ago. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "I.   A SUCCESSFUL TURNAROUND—PROGRAM BACK ON COURSE ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1. The Senegalese authorities have successfully addressed the budgetary slippages ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "and brought their economic program back on course. The government’s unpaid bills that have plagued the Senegalese economy have been reduced as planned through prudent use of borrowed resources (including from ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "MEFP ¶4 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "donors) and a constrained pace of budget execution. In addition, the integrity of the budget system is well on its way to being restored. As a result, the country is now in a stronger position to handle the effects of the international economic crisis. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2. The budgetary float is expected to return to normal levels by mid-year (Box 1). The private sector, banks, and development partners have expressed their satisfaction with the progress that has been made. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Box 1. Government Payment Delays and Extrabudgetary Spending ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Settlement is on track in all areas:1 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The stock of unpaid bills within the expenditure chain was reduced from CFAF 175 billion in October 2008 to CFAF 65 billion (1 percent of GDP) at end-March 2009—below the program ceiling and just $\\%$ percent of GDP above the normal budgetary float to be reached by end-June.2 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Cash flow provided by the Treasury allowed agencies to reduce their unpaid bills by half, to less than $\\%$ percent of ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "Program/722_587_R3/images/b444d999b39bf8d7896ef365950ff976d6ccedc7f2d7e6fe6d1c9d07d470e2a9.jpg",
+        "img_caption": [
+            "1/ December data as of end of complementary period. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "GDP at end-April 2009, but has risen again since, as the road agency has submitted bills for several infrastructure projects, which are awaiting payment. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "A preliminary report by the external auditor identified CFAF 73 billion of spending without budgetary appropriations. This is consistent with earlier estimates in EBS/08/144. The full audit report is expected to be completed in June. As envisaged earlier, the authorities will decide what to pay in the context of the 2010 budget. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "This overall improvement notwithstanding, cash flow management continues to be difficult, as more frequent access to the regional financial market is hindered by limited market liquidity and bills for large investment projects and donor resources are unevenly distributed throughout the year. No donor budget support was disbursed during the first five months of 2009, as donors are awaiting the full normalization of the government’s financial relations with the private sector. These factors, together with remaining deficiencies in the monitoring of all phases of the expenditure chain, largely explain the remaining volatility in the budgetary float and agencies’ cash flow. The structural measures related to the SIGFIP and ASTER monitoring systems (see below) should facilitate cash flow management. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3. The program’s structural conditionality has been met, except for two measures that are still in progress. Despite some initial difficulties, all PFM reforms, which were designed to address the root causes of past budgetary slippages and misreporting and prevent their recurrence, were adopted. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Structural Conditionality: A Good Performance ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "PFM reforms ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Budget preparation procedures were improved (structural assessment criterion). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Rules were specified to regulate the budgetary carryover from one year to the next (structural assessment criterion). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The 2008 budget and accounting year was closed on time (structural assessment criterion), and the complementary period respected. However, while permissible under existing public regulations, the authorities issued payment orders related to 2008 after December, which is undesirable. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The audit of extrabudgetary spending (a structural benchmark) is expected to be completed with a delay of 3 months in June, as tender procedures to select the independent auditor took longer than expected. A preliminary progress report by the external auditor confirms earlier estimates. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Other structural reforms ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "A decree implementing the new law on microfinance institutions was adopted (structural benchmark). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The respective rights and duties of tax, customs, and supervisory agencies were specified for the special economic zone that is under development (structural benchmark). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "An external audit of the new procurement framework (an end-May benchmark) was delayed as auditor selection and obtaining World Bank financing took longer than expected; a draft audit report is expected for September 2009. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4. The end-2008 fiscal deficit assessment (performance) criterion was not met despite significant underspending. The ceiling was exceeded by $\\%$ percent of GDP, while tax revenue was $1\\%$ percent of GDP below programmed levels. The revenue shortfall was due to shrinking petroleum tax receipts in late 2008 $1\\%$ percent of GDP) and the postponement to 2009 of tax payments $\\%$ percent of GDP) by SENELEC (the electricity company); the company faced cash-flow difficulties related to the high oil prices and unpaid government bills. The end-March indicative target on the basic fiscal balance was met, as were all other quantitative program targets for end-2008 and end-March 2009. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "II.   ECONOMIC OUTLOOK AND RISKS—REPEATED SHOCKS AND FUND ROLE ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "A.   A Challenging Economic Environment ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5. Growth outside agriculture slowed sharply in 2008 (Figure 1). This was due to the government’s payment delays to the private sector and the effect on household consumption ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "of high food and fuel prices during most of the year. Agriculture performed well due primarily to favorable rains; government measures increased acreage for rice ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "Program/722_587_R3/images/69f490f4221f050636e57cdfc7cb930a50d31dd08d2cd9f0c3db67058bf5d6f4.jpg",
+        "table_caption": [
+            "GDP, 2007-12 "
+        ],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td rowspan=\"2\"></td><td rowspan=\"2\">2007</td><td>2008</td><td>2009</td><td>2010</td><td>2011</td><td>2012</td></tr><tr><td>Est.</td><td colspan=\"4\">Proj.</td></tr><tr><td></td><td colspan=\"5\">(Percent)</td><td></td></tr><tr><td>GDP growth</td><td>4.7</td><td>2.5</td><td>3.1</td><td>3.4</td><td>4.3</td><td>4.8</td></tr><tr><td>Nonagriculture GDP growth</td><td>6.2</td><td>1.3</td><td>3.1</td><td>3.4</td><td>4.4</td><td>4.9</td></tr><tr><td>ICS contribution to GDP growth</td><td>0.1</td><td>-0.2</td><td>0.6</td><td>0.6</td><td>…</td><td>·</td></tr></table></body></html>\n\n",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "Program/722_587_R3/images/c2ff58e73fd27382ee8c826c362376659b72672b517f68136cf548afb68f4d47.jpg",
+        "img_caption": [
+            "Figure 1. Senegal: Recent Macroeconomic Developments, 2002–08 "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "cultivation by half. Production by ICS shrank in 2008, but its rehabilitation was initiated.1 Construction was flat—after several years of double-digit growth—because of unpaid government bills and cutbacks in government orders. Senegal’s growth and fiscal performance have lately fallen behind that in other WAEMU countries (Figure 2). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "6. In late 2008/early 2009, the global economic crisis began to affect the Senegalese economy. Remittances, export prices, and FDI appear to be the main transmission channels (Box 2). The implications are as follows: ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Remittances grew strongly for several years, reaching 8 percent of GDP in 2008. However, with two-thirds originating in the USA, France, Spain, and Italy, inflows slowed in 2008 and declined sharply (year-on-year) in the first quarter of 2009. If this trend continues, household consumption and construction would be adversely affected. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Export prices are projected to be significantly lower in 2009 than in 2008. The price of Senegal’s main export, phosphoric acid, is projected at half its 2008 level. ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "Program/722_587_R3/images/b50ff147834a9308801aa4f3dda0706701a4fde43dabc68fe70ac01bca3b9d46.jpg",
+        "img_caption": [
+            "Box 2. Main Transmission Channels of the International Crisis "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Foreign direct investment (FDI) for a number of specific projects is expected to increase more slowly as demand and access to financing by foreign companies has fallen. An iron ore project, which was to account for half of total FDI over the next several years, has been delayed, and other projects (e.g., the port expansion and special economic zone) may also be developed more slowly. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Tourism is also affected as illustrated by falling arrivals. ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "Program/722_587_R3/images/392220b9ee8fcf414b01db270e64b70211e2308fa2bf6777ddc09adba2f11bfc.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The economic rebound in 2009 is projected to be weak, even as government payment delays are eliminated and ICS production accelerates. Similarly, projected medium-term growth, at around 5 percent, is lower than previously foreseen due to a more constrained external environment (Figure 3). ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "Program/722_587_R3/images/7be0f642a9b134a0abb1650f10b4f1cd2a191abdfa48402ccca1a0769d574360.jpg",
+        "img_caption": [
+            "Figure 2. Senegal, WAEMU, and SSA: Macroeconomic Developments and Outlook, 2004–10 "
+        ],
+        "img_footnote": [
+            "Sources: WEO; and IMF staff estimates. 1 For 2006, fiscal balance excluding grants for WAEMU and non-oil SSA to eliminate effect of MDRI relief. "
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "Program/722_587_R3/images/b86bd39a276f18076cba325784519a09bdf30fe5001a9f158aae640ec5326ce8.jpg",
+        "img_caption": [
+            "Figure 3. Senegal: Medium-Term Outlook, 2008–14 "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Inflation should be low on average in 2009, given the sharp decline in food and energy prices and absence of domestic demand pressures. Inflation is poised to return to historical levels over the medium term consistent with inflation trends in the WAEMU. ",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "Program/722_587_R3/images/2a0101552537fce033921b80ce79d89e26f21603b2328e1711ba4fc9870285e6.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The external current ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "account deficit is projected to narrow slightly in 2009 (though less than previously foreseen) and more strongly over the medium term, as ICS gradually reaches its former export capacity while subdued economic growth and FDI will contain imports. Reflecting more depressed financial inflows, especially FDI, reserves should hover just above three months of imports. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The banking sector is not directly affected by the global crisis as it has, by all accounts, no toxic assets. However, indirect effects could arise, such as on credit quality (Box 4 below). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The outlook is characterized by uncertainties about the international environment and the extent of pass-through. Lower-than-projected exports, remittances, FDI, or aid could further depress growth. Other longstanding risks remain, such as adverse weather and pest conditions affecting agriculture and commodity price shocks. In addition, the erosion of popular support for the ruling party (with the decisive loss of the ruling party at the recent municipal elections), institutional weaknesses (including the large number of cabinet portfolios and overlapping government agencies), and governance and transparency concerns (such as in the energy sector) may trouble development partners and increase the risk of backtracking on program commitments. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "B.   Exogenous Shocks Facility ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "7. The Senegalese authorities request augmentation and extension of their ESF to help them cope with the impact of the global economic crisis. The ESF was approved in December 2008 for the food and fuel price shock and amounted to 30 percent of quota (SDR 48.54 million), of which the first tranche (15 percent of quota) was drawn at the time of approval. The requested augmentation would raise Senegal’s access to 75 percent of quota (SDR 121.35 million, or about CFAF 90 billion), and the requested extension would be from 12 to 18 months. The undrawn balance of 60 percent of quota (SDR 97.08 million, or about CFAF 72 billion) would be disbursed in three equal tranches at the time of the third, fourth, and fifth (last) PSI reviews. The last PSI/ESF review in mid-2010 could then be used to assess the future form of Fund engagement with Senegal. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "8. The ESF would thus be provided for two successive sudden and exogenous external shocks: the oil and food price shock in 2008 and the impact of the global economic crisis in 2009–10. The combination of both shocks has led to a balance of payments need that is larger and longer than initially expected, extending into 2010. Beyond 2010, however, ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Senegal’s balance of payments is expected to recover, illustrating the sudden and temporary nature of the two shocks (see Table 2 and Figure 4). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "9. Relative to the pre-crises year 2007, the cumulative impact of the two shocks is estimated at CFAF 389 billion during 2008–10. The food and fuel crisis dominates in 2008, while the global crisis is becoming the lead cause in 2009–10. As a result, Senegal’s overall balance of payments is projected to deteriorate by a cumulative CFAF 419 billion during the period, significantly affecting reserve levels. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "10. The impact of the global crises is also worse than projected at the time of the ESF approval (EBS/08/144). This reflects the little concrete evidence of that impact which was available at that time. Main transmission channels have turned out to be remittances, FDI, and exports (see Box 2 above). All in all, compared to past projections, the overall balance of payments over 2008–10 is worse by CFAF 330 billion. ",
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "Program/722_587_R3/images/c2a7e3914408941d1c6bc82e7a3a16a7f1c1280046e278a51bf653426a72b89e.jpg",
+        "table_caption": [
+            "Balance of Payments, 2008-10 (Billions of CFA francs) "
+        ],
+        "table_footnote": [
+            "1 Net of induced imports. 2 Excluding privatization in 2009. "
+        ],
+        "table_body": "\n\n<html><body><table><tr><td rowspan=\"2\"></td><td colspan=\"3\">Change relative to 2007</td><td colspan=\"2\">Cumulative for</td></tr><tr><td>2008</td><td>2009</td><td>2010</td><td>2009-10</td><td>2008-10</td></tr><tr><td>External shocks, total</td><td>-132</td><td>-114</td><td>-143</td><td>-257</td><td>-389</td></tr><tr><td>Food and fuel prices</td><td>-205</td><td>-20</td><td>-73</td><td>-93</td><td>-298</td></tr><tr><td>Food imports,net</td><td>-114</td><td>-67</td><td>-75</td><td>-142</td><td>-256</td></tr><tr><td>Ofwhich: Rice</td><td>-116</td><td>-65</td><td>-66</td><td>-131</td><td>-247</td></tr><tr><td>Oil imports, net</td><td>-91</td><td>47</td><td>3</td><td>49</td><td>-42</td></tr><tr><td>International crisis</td><td>74</td><td>-95</td><td>-70</td><td>-165</td><td>-91</td></tr><tr><td>Remittances,net1</td><td>42</td><td>-47</td><td>-55</td><td>-102</td><td>-61</td></tr><tr><td>Travel receipts</td><td>-39</td><td>-60</td><td>-65</td><td>-126</td><td>-165</td></tr><tr><td>Phosphoric acid export price</td><td>81</td><td>32</td><td>32</td><td>65</td><td>146</td></tr><tr><td>Direct investment, net12</td><td>-11</td><td>-19</td><td>18</td><td>-1</td><td>-12</td></tr><tr><td>Other, residual</td><td>-25</td><td>7</td><td>-12</td><td>-6</td><td>-30</td></tr><tr><td>Overall balance of payments (change)</td><td>-156</td><td>-107</td><td>-155</td><td>-263</td><td>-419</td></tr><tr><td>Memorandum items:</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Overall balance of payments</td><td>-105</td><td>-56</td><td>-104</td><td>-160</td><td>-266</td></tr><tr><td>Gross reserves, change (without ESF)</td><td>-8</td><td>-46</td><td>-137</td><td>-137</td><td>-137</td></tr><tr><td>Gross reserves, change (with ESF)</td><td>9</td><td>19</td><td>-48</td><td>-48</td><td>-48</td></tr><tr><td>Gross reserves, eop level (with ESF)</td><td>744</td><td>754</td><td>687</td><td>687</td><td>687</td></tr><tr><td>(months of GNFS imports)</td><td>3.2</td><td>3.5</td><td>3.1</td><td>3.1</td><td>3.1</td></tr></table></body></html>\n\n",
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "Program/722_587_R3/images/70f013e1526daf94be3e0d303894754fac2694e9c2db19a59a633ceaf726b267.jpg",
+        "table_caption": [
+            "Balance of Payments, 2008-10 "
+        ],
+        "table_footnote": [
+            "1 Net of induced imports. "
+        ],
+        "table_body": "\n\n<html><body><table><tr><td rowspan=\"2\"></td><td colspan=\"4\">Change relative to ESF approval (EBS/08/144)</td></tr><tr><td>2008</td><td></td><td></td><td>Cumulative for</td></tr><tr><td rowspan=\"2\"></td><td></td><td>2009</td><td>2010</td><td>2009-10 2008-10</td></tr><tr><td>(Billions of CFA francs; (+)= improvement)</td><td>-62</td><td></td><td></td></tr><tr><td>Total crises-related flows Fuel and food</td><td>78</td><td></td><td>-140</td><td>-203 -124</td></tr><tr><td></td><td>-13</td><td>17</td><td>22</td><td>39 26</td></tr><tr><td>Imports of oil and oil products, net Imports of food, net</td><td>44</td><td>95 -78</td><td>97 -75</td><td>191 236 -152 -210</td></tr><tr><td></td><td>-57</td><td></td><td></td><td></td></tr><tr><td>International crisis</td><td>91</td><td>-79</td><td>-162</td><td>-242 -150</td></tr><tr><td>Remittances, net1</td><td>99</td><td>13</td><td>-26</td><td>-12 87</td></tr><tr><td>Travel receipts</td><td>28</td><td>-3</td><td>-19</td><td>-22 7</td></tr><tr><td>Phosphoric acid exports</td><td>17</td><td>-78</td><td>-57</td><td>-135 -118</td></tr><tr><td>Direct investment, net1</td><td>-54</td><td>-12</td><td>-60</td><td>-72 -126</td></tr><tr><td>Other,residual</td><td>-155</td><td>-86</td><td>36</td><td>-50 -206</td></tr><tr><td>Overall balance of payments</td><td>-77</td><td>-149</td><td>-104</td><td>-253 -330</td></tr><tr><td>Memorandumitems:</td><td></td><td></td><td></td><td></td></tr><tr><td>Reserves,eop (without ESF)</td><td>6</td><td>-141</td><td>-244 -244</td><td>-244</td></tr><tr><td>Reserves, eop (with ESF)</td><td>5</td><td>-113</td><td>-193</td><td>-193 -193</td></tr><tr><td>(in months of imports)</td><td>0.0</td><td>-0.2</td><td>-0.4</td><td>-0.4 -0.4</td></tr></table></body></html>\n\n",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "Program/722_587_R3/images/a181cc8e9052d3a6d734dc212be0b9e8ef665e0b7aa3deb3d518c00452db5baf.jpg",
+        "img_caption": [
+            "Figure 4. Senegal: Balance of Payments, 2002–13 "
+        ],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "11. The proposed access would help to partially, but not fully, offset the deterioration in the overall balance of payments. This reflects several considerations, including a remaining uncertainty on the dynamics of the global crisis, an anticipated scaling up of support from other development partners, and the need for a prudent approach to safeguard Fund resources in light of the authorities’ past difficulties in implementing their economic program. Nonetheless, the proposed access level would help stabilize Senegal’s contribution to the WAEMU’s international reserves. Given the expected decline in the value of imports resulting from lower international prices and domestic demand, the import coverage of reserves would remain above 3 months in 2009-10, with a spike projected for 2009 due to one-off privatization receipts and financing for the toll highway. An adjustment to access levels, if needed, could be considered at a future review in light of developments. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "12. The Fund’s and Bank’s support is expected to serve as a catalyst for stepped-up donor support. The Bank is expected to approve a fast-track budget support operation of $\\mathrm{USS60}$ million in mid-June 2009. The authorities intend to approach other development partners after completion of the third PSI review to solicit additional support. Donors indicated that they would consider scaling up their assistance only after a successful PSI review so as to ascertain that the past budgetary slippages have successfully been addressed. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "13. Senegal’s capacity to repay the Fund is strong (Table 11). In addition, the accompanying updated DSA confirms that Senegal is at a low risk of debt distress, provided that prudent macroeconomic policies are being pursued. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "III.   PROGRAM DISCUSSIONS ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "A.   Overview ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "14. The authorities want to continue to base their economic program on the PSI’s four pillars. Although program implementation was tainted by the emergence of budgetary slippages in 2008, the pillars have been sufficiently flexible to allow the authorities to address those slippages and make significant headway in key reform areas, including in particular fiscal governance and transparency. PSI reforms to date have focused on public procurement, the energy sector, the management of, and fiscal risks related to, large infrastructure projects (e.g., airport, special economic zone), and, more recently, PFM as a result of the budgetary slippages. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Containing the fiscal deficit  to underpin macroeconomic stability and safeguard debt sustainability. Ιmproving fiscal governance and transparency  so as to enhance policy credibility and sustain external assistance. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Εncouraging private sector activity  by improving the business environment and addressing structural impediments to higher economic growth. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Limiting financial sector vulnerabilities  and raising the sector’s contribution to the economy. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "15. The program’s focus in 2009 will be on helping Senegal weather the impact of the global economic crisis while completing the normalization of the government’s financial relations with the private sector. The authorities reiterated their intention to pursue a prudent fiscal policy stance, with temporary flexibility to avoid large cuts in spending, given falling tax receipts. Structural conditionality will focus on deepening PFM reforms and strengthening tax administration, which should also help shore up the fiscal policy stance. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "B.   Macroeconomic Policies ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Eliminating payment delays ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "16. The authorities intend to settle all payment delays by mid-year. This will support economic activity. External and domestic financing that will become available in the next few weeks will facilitate achieving this goal. In the meantime, budget implementation is being tightly managed. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "MEFP ¶8 ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "17. Based on the completed audit of extrabudgetary spending, the government will decide by end-July on how to deal with the identified claims (structural benchmark). Any claims it intends to pay will be included in the 2010 budget. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Fiscal policy stance ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "18. The authorities reiterate  their commitment to a fiscal policy stance aimed at preserving mediumterm debt sustainability while ",
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "Program/722_587_R3/images/d970a8c1c7f269e969e33edb6f48ac193963160ed6669396d111dec637037df2.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "providing sufficient resources for priority social sectors and ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "infrastructure investment. This supports macroeconomic stability,   \nprogress toward meeting the MDGs, poverty alleviation, and raising   \ngrowth. The updated DSA confirms that an overall fiscal deficit of 4 percent of GDP over the   \nmedium term preserves debt sustainability.2 ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "19. Following tighter macroeconomic policies in 2007–08, scope exists for a temporary easing of $1\\%$ percent of GDP in 2009 relative ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "to earlier program targets, with an   \noverall fiscal   \ndeficit of   \n$4\\%$ percent of   \nGDP. With subdued tax revenues due to lower growth,   \nmaintaining the   \noriginal deficit   \ntarget of $2\\%$ percent of GDP would have necessitated   \nsignificant spending reductions. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "However, with spending already cut ",
+        "page_idx": 16
+    },
+    {
+        "type": "image",
+        "img_path": "Program/722_587_R3/images/a14af72de249e08335a6da84ac8a5c383c24118b16a55b2c7a3b7c7437785b63.jpg",
+        "img_caption": [
+            "(Percent change in monetary conditions index) 1 The fiscal stance is represented by changes in the basic balance—which the authorities control—as a percent of GDP. Monetary conditions are measured by an index of the average of the real policy interest rate (refinance rate minus inflation) and (the log of the) real effective exchange rate. "
+        ],
+        "img_footnote": [],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "by $1\\%$ percent of GDP in 2008, such reductions would be procyclical and put social and developmental objectives at risk. The higher deficit will provide some support to economic activity. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "20. The higher fiscal deficit is feasible, as the authorities are progressing in settling unpaid bills and lining up the necessary financing. The financing comprises a mixture of donor financing, regular securities issues in the MEFP ¶11 regional market, bank financing with SONATEL shares as collateral, and ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "privatization receipts.3 Nonetheless, a mid-year supplementary budget is still necessary and has been submitted to parliament (prior action). The law regularizes spending carryover from ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "2008, incorporates appropriations for the donor-supported Dakar-Diamniadio toll highway, and shaves off some nonpriority spending. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "C.   Structural Reforms ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "PFM and tax administration ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "21. Reforms in PFM and tax administration remain at the core of the authorities’ program. The agenda includes six macro-relevant structural benchmarks in these areas (MEFP Table 2).4 ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Structural Reform Agenda ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "PFM ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "MEFP ¶ An audit of the budget monitoring system SIGFIP aimed at improving its reliability, coverage, and ability to produce periodic budget execution data. 17 Improving the flexibility and presentation of the budget to increase its transparency and enhance expenditure control. 16 Making the accounting system ASTER operational to improve the reliability of treasury accounts. 18 Following external audit, deciding on extrabudgetary spending to be rejected or regularized in 2010 budget law, which should restore the integrity of the budget system and complete normalization of financial relations with the private sector. 19 Tax administration A study to identify the level of, and justification for, tax exemptions to help safeguard tax revenues and tax system coherence. 21 Assign collection of a specific gasoline tax (FSAPP) to the tax authority instead of SAR (the oil refinery) so as to raise transparency and the state’s revenue take. 22 ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Energy sector ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "22. The energy sector, critical to raising economic growth, is being reformed, but continues to pose public finance risks. This is illustrated by the 2008 SENELEC tax arrears and financial and governance problems of the petroleum refinery SAR. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Energy sector reform, supported by the World Bank and other donors, aims to restore SENELEC’s financial equilibrium and allow the ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "MEFP ¶22 ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "company to settle its tax and private sector arrears in 2009. Going forward, the authorities committed to having SENELEC make tax payments on a quarterly basis, made possible by adjusting electricity tariffs to market prices in quarterly intervals. They also reiterated their commitment to phase out as planned the last energy subsidy—on butane gas—by mid-year. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Staff emphasized the need to tackle SAR’s problems and will continue to liaise with the World Bank in this regard. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Private sector ",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "23. The authorities are pursuing reforms in several areas to further improve Senegal’s ranking in the World Bank’s “Doing Business” indicators. These include ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "enhancing the judicial system for commercial disputes, accelerating transfer of property ownership and issuance of construction permits, and further relaxing restrictions on fixed-term labor contracts. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Financial sector ",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "24. In response to recent developments, the national and regional authorities have stepped up their monitoring of the financial sector to help safeguard its stability (Box 4). They are scrutinizing bank balance sheets, using a wide range of indicators and ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "MEFP ¶24-26 ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "stress tests, to detect credit risks and address solvency and liquidity N problems. The focus is on identifying additional provisioning needs, reducing excessive risk concentration and asset-liability mismatches, and anticipating potential spillovers from problems in parent companies abroad ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "IV.   STAFF APPRAISAL ",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "25. The Senegalese authorities have made good use of the opportunity accorded to them to bring the program back on course. The reduction in the stock of payment delays by three-fourths since the end-October 2008 peak goes a long way towards full normalization of the government’s financial relations with the private sector within the next few weeks. Recent reforms in budget preparation, execution, and monitoring should limit the risk of a recurrence of the past budget slippages, although further scope exists to improve cash flow management. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "26. These achievements come at a critical juncture and should help shore up economic activity at a time when Senegal is beginning to feel the impact of the global economic crisis. As a result of the corrective actions taken, Senegal is facing the crisis in a much stronger position than only a few months ago. Nonetheless, the outlook for economic growth has worsened substantially and downside risks have increased. In addition, following the impact of the 2008 food and energy price surge, the global economic crisis is expected to further weaken Senegal’s external position in the short run. The ESF augmentation should help support Senegal’s balance of payments during this crucial period. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Box 4. Banking Sector Stability ",
+        "text_level": 1,
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "The banking system has structural weaknesses. Several banks are persistently noncompliant with prudential requirements. Number of Banks Non-Compliant with Prudential Standards ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Weaknesses could be exacerbated if low growth results in reduced credit quality—nonperforming loans already worsened in 2008 due to the government’s payment delays (Table 8). ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Stress tests by the authorities suggest some vulnerability to credit shocks. While credit concentration has trended down in recent years, more than half of the banks do not comply with the relatively generous ceiling on exposure to a single borrower. Bank-by-bank stress tests suggest that major write-offs on the largest borrowers could raise solvency concerns. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Liquidity tensions in the banking system intensified in 2008. Banks’ excess reserves reached a three-year low, and BCEAO refinancing operations surged, as the government’s demand for liquidity increased to help settle its payment delays. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Enhanced liquidity support by the BCEAO to the financial system is key in light of public and private financing needs. This could include a relaxation of monetary conditions, given exchange rate developments and the monetary policy stance adopted in the euro area. ",
+        "page_idx": 19
+    },
+    {
+        "type": "table",
+        "img_path": "Program/722_587_R3/images/e5ea4f60cebfc242d3f9e51ad7f578ea83da80135e1be28254e53f4917a0cf1a.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "Source: BCEAO and BC-WAMU annual report "
+        ],
+        "table_body": "\n\n<html><body><table><tr><td></td><td>Dec-02</td><td>Dec-03</td><td>Dec-04</td><td>Dec-05</td><td>Dec-06</td><td>Dec-07</td><td>Sep-08</td><td>Dec-08</td></tr><tr><td>Minimum capital</td><td>2</td><td>１</td><td>１</td><td>1</td><td>１</td><td>1</td><td>１</td><td>０</td></tr><tr><td>Capital adequacy</td><td>２</td><td>２</td><td>２</td><td>２</td><td>２</td><td>２</td><td>２</td><td>2</td></tr><tr><td>Large exposures and concentration</td><td>２</td><td>6</td><td>６</td><td>8</td><td>５</td><td>6</td><td>８</td><td>8</td></tr><tr><td>Liqudity</td><td>1</td><td>３</td><td>1</td><td>４</td><td>4</td><td>4</td><td>８</td><td>４</td></tr><tr><td>Transformation (stable resources)</td><td>５</td><td>3</td><td>4</td><td>3</td><td>4</td><td>6</td><td>6</td><td>6</td></tr><tr><td>Number of Banks</td><td>11</td><td>11</td><td>12</td><td>14</td><td>17</td><td>17</td><td>17</td><td>17</td></tr></table></body></html>\n\n",
+        "page_idx": 19
+    },
+    {
+        "type": "image",
+        "img_path": "Program/722_587_R3/images/9522ad7077797f3423f2872f55db074d5d071e7199917c33940f928bdc2a03bb.jpg",
+        "img_caption": [],
+        "img_footnote": [
+            "1/ Excluding loans to ICS on which provisioning is not compulsory. "
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "image",
+        "img_path": "Program/722_587_R3/images/1cfbd334cd61f665a67fc7a24d89ccaee9ec728fccd6553ab29200d1cb857a93.jpg",
+        "img_caption": [],
+        "img_footnote": [
+            "Source : BCEAO "
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "While past evidence suggests that a reduction in key policy rates may not substantially affect retail rates, stepped up liquidity injections could help accommodate public financing needs without crowding out the private sector. To this end, the BCEAO has recently launched new liquidity support operations, including at new maturities. Lower reserve requirements could also be considered, as well as an expansion of eligible good-quality collateral for discount and open market operations. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "27. A temporary fiscal easing in 2009 is appropriate to help Senegal face the impact of the economic slowdown. With a low risk of debt distress and the availability of financing, and confronted with a noticeable slowdown in tax collections, the authorities appropriately aim to keep spending close to planned levels while protecting social spending and reprioritizing expenditure toward growth-enhancing infrastructure investment. The staff also welcomes the reiteration of the authorities’ commitment to speedily return to a fiscal policy stance that would help preserve Senegal’s debt sustainability over the medium term. In the same vein, the prudent stewardship of the budget in late 2008 allowed the authorities to largely compensate an unexpected shortfall in tax revenues. While staff regrets that the 2008 deficit turned out higher than programmed and stresses the importance of avoiding such overruns in the future, the underspending in 2008, together with the authorities’ meeting the end-March fiscal balance target and committing to regular SENELEC tax payments, form a strong basis for the staff to recommend a waiver for the nonobservance of the end-2008 assessment (performance) criterion on the basic fiscal deficit. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "28. The structural reform agenda, focusing on measures to further strengthen PFM and tax administration, supports the authorities’ fiscal objectives. The reforms will help safeguard macroeconomic stability and allow Senegal to get full closure on the past budgetary slippages. Staff attaches particular importance to a timely decision on how to deal with the extrabudgetary spending identified in the external audit report. In addition, the reform of the energy sector, undertaken with the support of the World Bank and other development partners, will be key to further containing fiscal risks and helping raise Senegal’s growth potential. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "29. Staff recommends the waiver, completion of the program reviews, and request for augmentation and extension of the ESF. The progress made in settling the unpaid bills and implementing key PFM reforms has helped restore the integrity of the budget system. This, together with the authorities’ intention to complete the PFM reform agenda and pursue prudent economic policies going forward, augur well for the country being able to weather the impact of the global crisis, provided that the political commitment remains strong. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "PROPOSED DECISIONS ",
+        "text_level": 1,
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "These decisions, which may be adopted by a majority of the votes cast, are proposed for adoption by the Executive Board. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "I. Completion of the Third Review under the PSI for Senegal ",
+        "text_level": 1,
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "1. Pursuant to paragraph 8 of Decision No. 13561-(05/85), 10/05/05 and paragraph 1(a) of the Policy Support Instrument (“PSI”) for Senegal (EBS/07/114, 10/11/07), the Fund has conducted a review to assess program implementation. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "2. The letter dated June 5, 2009 from the Minister of Budget (the “June 2009 Letter”), together with its Memorandum of Economic and Financial Policies (the “June 2009 MEFP”) and the Technical Memorandum of Understanding (the “June 2009 TMU”), shall be attached to the PSI for Senegal, and the letter from the Minister of State, Minister of Economy and Finance dated October 3, 2007, as subsequently amended, together with its attachments, shall be read as supplemented and modified by the June 2009 Letter and its attachments. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "3. Accordingly, the PSI for Senegal shall be amended as follows: ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "a. A new paragraph 1(d) shall be added to read as follows: “(d) the fifth review is scheduled to be conducted by June 30, 2010, as specified in paragraph 27 of the June 2009 MEFP;” ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "b. In paragraph 2.A.(1) of the PSI for Senegal, “December 2008 MEFP” should be replaced by “June 2009 MEFP” and “December 2008 TMU” should be replaced by “June 2009 TMU”. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "c. In paragraph 2.E. of the PSI for Senegal, “December 2008 MEFP” shall be replaced by “June 2009 MEFP” and “December 2008 TMU” shall be replaced by “June 2009 TMU”. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "d. A new paragraph 2.F. of the PSI for Senegal shall be inserted after paragraph 2.E. of   \nthe PSI for Senegal to read as follows:   \n“F. With respect to the fifth review:   \nThe data as of end-December 2009 indicate that any of the floors and ceilings referred to in   \nparagraph 2.B.(1)(i) and (ii) above, as specified in Table 1 of the June 2009 MEFP and   \nfurther specified in the June 2009 TMU, were not observed; or” ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "4. The Fund ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "A. waives the nonobservance of the quantitative assessment criterion on the basic fiscal deficit set out in paragraph 2.D.(1) of the PSI for Senegal and B. completes the third review specified in paragraph 1(b) of the PSI for Senegal, on the condition that the information provided by Senegal (i) on its performance under the nonobserved assessment criterion, (ii) on its performance under other assessment criteria ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "related to this review, and (iii) on the implementation of the measure specified as prior action in Table 2 of the June 2009 MEFP, is accurate. ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "II. Completion of the First Review under the ESF for Senegal ",
+        "text_level": 1,
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "1. Senegal has consulted with the Fund in accordance with paragraph 3.A.(b) of the twelve-month arrangement for Senegal under the Exogenous Shocks Facility (ESF) (EBS/08/144, 12/8/08, the “Arrangement”) in order to review program implementation. ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "2. The letter dated June 5, 2009 from the Minister of Budget (the “June 2009 Letter”), along with the attached Memorandum of Economic and Financial Policies (the “June 2009 MEFP”) and the Technical Memorandum of Understanding (the “June 2009 TMU”), shall be attached to the Arrangement, and the letter dated December 5, 2008, together with its attachments, shall be read as supplemented and modified by the June 2009 Letter and its attachments. ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "3. Accordingly, the Arrangement shall be amended as follows:   \na. Any reference in the Arrangement to “twelve-month” shall be replaced by “eighteenmonth”. ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "b. In paragraph 1 of the Arrangement, “SDR 48.54 million” shall be replaced by “SDR 121.35 million”. ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "c. Paragraph 2(b) of the Arrangement shall be replaced to read as follows: “(b) the second disbursement, in an amount equivalent to SDR 32.36 million, will be available on or after June 19, 2009, at the request of Senegal and subject to paragraphs 3 and 4 of the Arrangement below;” ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "d. New paragraphs 2(c) and 2(d) of the Arrangement shall be inserted to read as follows: “(c) the third disbursement, in an amount equivalent to SDR 32.36 million, will be available on or after November 10, 2009, at the request of Senegal and subject to paragraphs 3 and 4 of the Arrangement below; ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "(d) the fourth disbursement, in an amount equivalent to SDR 32.36 million, will be available on or after May 10, 2010, at the request of Senegal and subject to paragraphs 3 and 4 of the Arrangement below;” ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "e. A new paragraph 3.B of the Arrangement shall be inserted to read as follows: “B. the third and fourth disbursement under this Arrangement specified in paragraphs 2(c) and 2(d), respectively, above: ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "(a) if the Managing Director of the Trustee finds that with respect to the third disbursement, the data as of June 30, 2009, and with respect to the fourth disbursement, the date as of December 31, 2009, as set out in Table 1 of the June 2009 MEFP and as further specified in the June 2009 TMU, indicate that: ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "(i) floor on the basic fiscal balance, or (ii) the ceiling on the amount of the float at the Treasury, was not observed; ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "(b) until the Trustee has determined that, with respect to the third disbursement, the second program review, and with respect to the fourth disbursement, the third program review, referred to in paragraph 27 of the June 2009 MEFP, has been completed.” ",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "f. In paragraph 4(a)(i) through (iii), “MEFP” shall be replaced by “June 2009 MEFP” and “TMU” shall be replaced by “June 2009 TMU”. ",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "4. The Fund decides that the first review contemplated in paragraph 3.A.(b) of the Arrangement is completed, and that Senegal may request the disbursement of the second loan referred to in paragraph 2(b) of the Arrangement, notwithstanding the nonobservance of the December 31, 2008 performance criterion on the basic fiscal balance, as set out in paragraph 3.A.(a)(i) of the Arrangement, on the condition that the information provided by Senegal on the performance under this performance criterion is accurate. ",
+        "page_idx": 25
+    },
+    {
+        "type": "table",
+        "img_path": "Program/722_587_R3/images/1709bc7575b11bd72f775b865d92c5f5cbd5b8838d8b55903d40cb209e3fe4b8.jpg",
+        "table_caption": [
+            "Table 1. Senegal: Selected Economic and Financial Indicators, 2006–14 "
+        ],
+        "table_footnote": [
+            "Sources:  Senegalese authorities; and IMF staff estimates and projections. $1/\\l$ Defined as total revenue and grants minus total expenditure and net lending, excluding interest expenditure. $2/$ Defined as total revenue minus total expenditure and net lending, excluding externally financed capital expenditure, on-lending, and expenditure financed with HIPC Initiative and MDRI assistance. $_{3/}$ Debt outstanding at year-end. 4/ After HIPC and MDRI (from 2006) debt relief. "
+        ],
+        "table_body": "\n\n<html><body><table><tr><td>2006</td><td></td><td>2007</td><td>2008</td><td colspan=\"2\">2009</td><td>2010</td><td>2011</td><td>2012</td><td>2013</td><td>2014</td></tr><tr><td></td><td></td><td></td><td>Est.</td><td>Prog.</td><td>Proj.</td><td></td><td></td><td>Proj.</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>(Annual percentage change)</td><td colspan=\"4\"></td><td></td><td></td><td></td></tr><tr><td>National income and prices</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>GDP at constant prices</td><td>2.4</td><td>4.7</td><td>2.5</td><td>5.2</td><td>3.1</td><td>3.4</td><td>4.3</td><td>4.8</td><td>4.9</td><td>4.9</td></tr><tr><td>Of which: nonagriculture GDP</td><td>4.0</td><td>6.2</td><td>1.3</td><td>5.5</td><td>3.1</td><td>3.4</td><td>4.4</td><td>4.9</td><td>5.0</td><td>5.0</td></tr><tr><td>GDP deflator</td><td>4.0</td><td>5.5</td><td>7.4</td><td>2.3</td><td>2.1</td><td>2.1</td><td>2.1</td><td>2.1</td><td>2.1</td><td>2.1</td></tr><tr><td>Consumer prices</td><td>2.1</td><td>5.9</td><td>5.8</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Annual average End of period</td><td>3.9</td><td>6.2</td><td>4.3</td><td>3.3 2.2</td><td>0.8 2.2</td><td>2.2 2.2</td><td>2.2 2.2</td><td>2.2 2.2</td><td>2.2</td><td>2.2 2.2</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>2.2</td><td></td></tr><tr><td>External sector</td><td></td><td>-3.7</td><td>14.1</td><td></td><td></td><td></td><td></td><td></td><td></td><td>4.8</td></tr><tr><td>Exports,f.o.b. (CFA francs) Imports, f.o.b. (CFA francs)</td><td>0.1 9.6</td><td>19.5</td><td>9.8</td><td>5.6 1.0</td><td>-12.1 -7.8</td><td>13.8 5.4</td><td>6.6</td><td>4.6</td><td>4.5</td><td>6.5</td></tr><tr><td>Export volume</td><td>-12.3</td><td>-1.2</td><td>-4.0</td><td>12.6</td><td>9.0</td><td>8.6</td><td>4.7 3.9</td><td>6.4 4.0</td><td>6.3 4.1</td><td>4.1</td></tr><tr><td>Import volume</td><td>6.5</td><td>11.3</td><td>-0.3</td><td>8.2</td><td>2.5</td><td>1.8</td><td>2.9</td><td>4.8</td><td>5.4</td><td>5.4</td></tr><tr><td>Terms of trade (\"-\" = deterioration)</td><td>10.9</td><td>-9.4</td><td>8.4</td><td>0.4</td><td>-11.0</td><td>1.2</td><td>0.7</td><td>-1.0</td><td>-0.5</td><td>-0.3</td></tr><tr><td></td><td>0.2</td><td>1.9</td><td>3.3</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Nominal effective exchange rate Real effective exchange rate</td><td>-0.2</td><td>5.3</td><td>5.3</td><td>…</td><td>…</td><td>…</td><td></td><td></td><td>…</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>…</td><td>….</td><td>…</td><td>…</td></tr><tr><td>Money and credit</td><td>(Changes in percent of beginning-of-year broad money, unless otherwise indicated)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Net domestic assets</td><td>5.0</td><td>8.6</td><td>6.2</td><td>5.0</td><td>5.1</td><td>10.6</td><td>12.7</td><td>11.3</td><td>10.5</td><td>9.1</td></tr><tr><td>Domestic credit</td><td>5.8</td><td>11.5</td><td>7.3</td><td>5.3</td><td>5.5</td><td>11.0</td><td>13.1</td><td>11.7</td><td>10.9</td><td>9.4</td></tr><tr><td>Credit to the government (net)</td><td>3.0 4.2</td><td>4.9 10.5</td><td>-3.5 17.2</td><td>-1.7 10.9</td><td>-1.6 10.0</td><td>2.8</td><td>4.4</td><td>3.0</td><td>2.2</td><td>1.0</td></tr><tr><td>Credit to the economy (percentage growth)</td><td></td><td></td><td></td><td></td><td></td><td>11.0</td><td>11.4</td><td>11.6</td><td>11.8</td><td>11.8</td></tr><tr><td>Government financial operations</td><td></td><td></td><td></td><td>(Percent of GDP,unless otherwise indicated)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Revenue</td><td>19.7</td><td>21.1</td><td>19.4</td><td>20.7</td><td>19.2</td><td>19.3</td><td>19.7</td><td>20.1</td><td>20.3</td><td>20.6</td></tr><tr><td>Grants</td><td>1.5</td><td>2.6</td><td>2.3</td><td>2.4</td><td>2.4</td><td>2.3</td><td>2.2</td><td>2.2</td><td>2.2</td><td>2.2</td></tr><tr><td>Total expenditure and net lending Overall fiscal surplus (+) or deficit (-)</td><td>27.2</td><td>27.6</td><td>26.5</td><td>25.9</td><td>26.3</td><td>25.6</td><td>26.0</td><td>26.3</td><td>26.5</td><td>26.8</td></tr><tr><td>Payment order basis, excluding grants</td><td>-7.2</td><td>-6.2</td><td>-6.9</td><td>-5.1</td><td>-7.1</td><td>-6.2</td><td>-6.2</td><td>-6.2</td><td>-6.2</td><td>-6.2</td></tr><tr><td>Payment order basis, including grants</td><td>-5.7</td><td>-3.7</td><td>-4.6</td><td>-2.7</td><td>-4.6</td><td>-4.0</td><td>-4.0</td><td>-4.0</td><td>-4.0</td><td>-4.0</td></tr><tr><td>Primary fiscal balance 1/</td><td>-5.2</td><td>-3.3</td><td>-4.2</td><td>-2.0</td><td>-3.7</td><td>-3.2</td><td>-3.2</td><td>-3.2</td><td>-3.2</td><td>-3.2</td></tr><tr><td>Basic fiscal balance 2/</td><td>-3.4</td><td>-1.0</td><td>-0.8</td><td>0.1</td><td>-1.9</td><td>-1.0</td><td>-0.8</td><td>-0.5</td><td>-0.2</td><td>0.0</td></tr><tr><td>Gross domestic investment</td><td>28.2</td><td>30.9</td><td>30.2</td><td>31.2</td><td>27.6</td><td>27.8</td><td>28.4</td><td>29.3</td><td>30.2</td><td>31.0</td></tr><tr><td>Government</td><td>9.7</td><td>11.2</td><td>10.0</td><td>10.8</td><td>10.4</td><td>10.7</td><td>11.2</td><td>11.6</td><td>12.2</td><td>12.7</td></tr><tr><td>Nongovernment</td><td>18.5</td><td>19.7</td><td>20.2</td><td>20.4</td><td>17.1</td><td>17.1</td><td>17.2</td><td>17.6</td><td>18.0</td><td>18.3</td></tr><tr><td>Gross domestic savings</td><td>10.7</td><td>8.5</td><td>7.7</td><td>12.7</td><td>7.8</td><td>9.8</td><td>11.5</td><td>12.2</td><td>12.9</td><td>13.6</td></tr><tr><td>Government</td><td>3.4</td><td>7.1</td><td>5.0</td><td>8.7</td><td>6.3</td><td>7.7</td><td>8.1</td><td>8.6</td><td>9.1</td><td>9.6</td></tr><tr><td>Nongovernment</td><td>7.3</td><td>1.4</td><td>2.7</td><td>4.0</td><td>1.5</td><td>2.1</td><td>3.3</td><td>3.7</td><td>3.7</td><td>4.0</td></tr><tr><td>Gross national savings</td><td>18.7</td><td>19.1</td><td>17.9</td><td>20.6</td><td>15.7</td><td>17.0</td><td>18.3</td><td>19.3</td><td>20.1</td><td>20.9</td></tr><tr><td>External current account deficit (-) Including current official transfers</td></table></body></html>\n\n",
+        "page_idx": 26
+    },
+    {
+        "type": "table",
+        "img_path": "Program/722_587_R3/images/1abf390a95392dd0b11530e873b56f7026d2404e56d8cd660b481eabdff4b140.jpg",
+        "table_caption": [
+            "Table 2. Senegal: Balance of Payments, 2006–14 "
+        ],
+        "table_footnote": [
+            "Sources: Central Bank of West African States (BCEAO); and IMF staff estimates and projections. ",
+            "$\\d^{1/}$ Includes receipts from sale of a telecom license in 2007. 2/ Reflects MDRI stock debt relief in 2006. Debt relief from the Fund is recorded as a capital transfer. Debt relief from the IDA and the AfDB on the amount falling due in 2006 is shown as exceptional financing; debt relief on amounts due in 2007 and beyond is recorded as a capital transfer. $_{3/}$ Includes projected receipts from privatization in 2009. $4/$ Until 2005, HIPC flow debt relief granted by the IMF is recorded as a grant, and that granted by the World Bank, the African Development Bank, Paris Club creditors, and Kuwait is recorded as exceptional financing. 5/ Financing gap in 2009 and 2010 to be filled with ESF drawings. "
+        ],
+        "table_body": "\n\n<html><body><table><tr><td colspan=\"2\"></td><td>2006</td><td>2007</td><td>2008</td><td>2009</td><td>2010</td><td>2011</td><td>2012</td><td>2013</td><td>2014</td></tr><tr><td colspan=\"2\"></td><td></td><td></td><td>Est.</td><td colspan=\"5\"></td><td></td></tr><tr><td colspan=\"2\"></td><td></td><td></td><td></td><td>(CFAF billions, unless otherwise indicated)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan=\"2\">Current account</td><td>-464</td><td>-638</td><td>-733</td><td>-742</td><td>-718</td><td>-710</td><td>-755</td><td>-813</td><td>-876</td></tr><tr><td colspan=\"2\">Balance on goods</td><td>-837</td><td>-1,193</td><td>-1,275</td><td>-1,215</td><td>-1,212</td><td>-1,253</td><td>-1,352</td><td>-1,456</td><td>-1,568</td></tr><tr><td colspan=\"2\">Exports,f.o.b.</td><td>833</td><td>803</td><td>916</td><td>805</td><td>917</td><td>977</td><td>1,022</td><td>1,068</td><td>1,119</td></tr><tr><td colspan=\"2\">Imports, f.o.b.</td><td>-1,670</td><td>-1,996</td><td>-2,191</td><td>-2,021</td><td>-2,129</td><td>-2,230</td><td>-2,374</td><td>-2,524</td><td>-2,688</td></tr><tr><td colspan=\"2\">Services and incomes (net)</td><td>-65</td><td>-64</td><td>-109</td><td>-82</td><td>-43</td><td>-8</td><td>-2</td><td>-15</td><td>-16</td></tr><tr><td colspan=\"2\">Credits</td><td>512</td><td>671</td><td>665</td><td>654</td><td>672</td><td>744</td><td>807</td><td>868</td><td>930</td></tr><tr><td colspan=\"2\">Debits</td><td>-577</td><td>-735</td><td>-775</td><td>-736</td><td>-715</td><td>-752</td><td>-809</td><td>-883</td><td>-946</td></tr><tr><td colspan=\"2\">Ofwhich: interest on public debt</td><td>-36</td><td>-24</td><td>-24</td><td>-36</td><td>-38</td><td>-39</td><td>-37</td><td>-35</td><td>-34</td></tr><tr><td colspan=\"2\">Unrequited current transfers (net)</td><td>437</td><td>618</td><td>651</td><td>556</td><td>538</td><td>551</td><td>599</td><td>658</td><td>706</td></tr><tr><td colspan=\"2\">Private (net)</td><td>409</td><td>566</td><td>618</td><td>507</td><td>497</td><td>509</td><td>552</td><td>606</td><td>649</td></tr><tr><td colspan=\"2\">Public (net)</td><td>28</td><td>52</td><td>33</td><td>48</td><td>41</td><td>42</td><td>47</td><td>52</td><td>57</td></tr><tr><td colspan=\"2\">Of which: budgetary grants</td><td>9</td><td>53</td><td>36</td><td>51</td><td>43</td><td>43</td><td>46</td><td>49</td><td>53</td></tr><tr><td colspan=\"2\">Capital and financial account</td><td>520</td><td>690</td><td>628</td><td>685</td><td>614</td><td>737</td><td>801</td><td>894</td><td>978</td></tr><tr><td colspan=\"2\">Capital account</td><td>1,234</td><td>182</td><td>105</td><td>109</td><td>114</td><td>122</td><td>130</td><td>139</td><td>149</td></tr><tr><td colspan=\"2\">Private capital transfers</td><td>7</td><td>7</td><td>7</td><td>7</td><td>7</td><td>8</td><td>8</td><td>8</td><td>9</td></tr><tr><td colspan=\"2\">Project grants Debt cancellation and other transfers 1/ 2/</td><td>64</td><td>86 89</td><td>101</td><td>101</td><td>107</td><td>114</td><td>122</td><td>131</td><td>140</td></tr><tr><td colspan=\"2\">Financial account</td><td>1,163</td><td></td><td>-4</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td colspan=\"2\">Direct investment 3/</td><td>-714</td><td>507 145</td><td>523</td><td>577</td><td>499</td><td>615</td><td>671</td><td>755</td><td>829</td></tr><tr><td colspan=\"2\">Portfolio investment</td><td>110 -11</td><td>29</td><td>137 0</td><td>227</td><td>190</td><td>241</td><td>247</td><td>264</td><td>286</td></tr><tr><td colspan=\"2\">Other investment</td><td></td><td></td><td></td><td>20</td><td>22</td><td>49</td><td>61</td><td>71</td><td>77</td></tr><tr><td colspan=\"2\">Public sector (net)</td><td>-812</td><td>333</td><td>385</td><td>330</td><td>287</td><td>325</td><td>363</td><td>420</td><td>466</td></tr><tr><td colspan=\"2\">Ofwhich：</td><td>-1,018</td><td>116</td><td>268</td><td>243</td><td>151</td><td>128</td><td>171</td><td>213</td><td>282</td></tr><tr><td colspan=\"2\">disbursements</td><td>147</td><td>156</td><td>262</td><td>299</td><td>204</td><td>217</td><td>264</td><td>308</td><td>355</td></tr><tr><td colspan=\"2\">program loans</td><td>39</td><td>19</td><td>70</td><td>64</td><td>28</td><td>25</td><td>27</td><td>29</td><td>31</td></tr><tr><td colspan=\"2\">project loans</td><td>107</td><td>138</td><td>192</td><td>155</td><td>177</td><td>208</td><td>253</td><td>295</td><td>340</td></tr><tr><td colspan=\"2\">other</td><td>0</td><td>0</td><td>0</td><td>80</td><td>0</td><td>-16</td><td>-16</td><td>-16</td><td></td></tr><tr><td colspan=\"2\">amortization</td><td>-1,166</td><td>-54</td><td>-44</td><td>-56</td><td>-54</td><td>-90</td><td>-93</td><td></td><td>-16</td></tr><tr><td colspan=\"2\">Private sector (net)</td><td>173</td><td>254</td><td>140</td><td>87</td><td>136</td><td>197</td><td>192</td><td>-95</td><td>-73</td></tr><tr><td colspan=\"2\">Errors and omissions</td><td>33</td><td>-37</td><td>-23</td><td>0</td><td>0</td><td>0</td><td>0</td><td>208 0</td><td>184 0</td></tr><tr><td colspan=\"2\">Overall balance</td><td>57</td><td>51</td><td>-105</td><td>-56</td><td>-104</td><td>27</td><td>46</td><td>81</td><td>101</td></tr><tr><td colspan=\"2\"></table></body></html>\n\n",
+        "page_idx": 27
+    },
+    {
+        "type": "table",
+        "img_path": "Program/722_587_R3/images/43c6eb63447e44d2da96c51b7cc3715e581807f9179b631d8aae2b7bb31f5e6f.jpg",
+        "table_caption": [
+            "Table 3. Senegal: Balance of Payments, 2008-10 (Billions of CFA francs, unless otherwise indicated) "
+        ],
+        "table_footnote": [
+            "Sources: BCEAO; and Fund staff estimates and projections. 1Pricechangechangeinpricefopreviuyeaimespreviusearsolumeoluechangedifrencebetweenvaluechangeandpriechange "
+        ],
+        "table_body": "\n\n<html><body><table><tr><td></td><td></td><td></td><td></td><td></td><td colspan=\"8\">Change Relative to Previous Year1</td></tr><tr><td></td><td>2007</td><td></td><td></td><td></td><td colspan=\"2\">2008</td><td colspan=\"2\"></td><td colspan=\"2\"></td><td colspan=\"2\">2010</td></tr><tr><td></td><td></td><td>2008 Est.</td><td>2009 Proj.</td><td>2010 Proj.</td><td>value change change change</td><td> price</td><td>volume</td><td>value price change change change</td><td>volume</td><td>value</td><td>price change change change</td><td>volume</td></tr><tr><td>Current account</td><td>-638</td><td>-733</td><td>-742</td><td>-718</td><td>-95</td><td></td><td></td><td>-9</td><td></td><td>24</td><td></td><td></td></tr><tr><td>Trade balance</td><td>-1,193</td><td>-1,275</td><td>-1,215</td><td>-1,212</td><td>-82</td><td></td><td></td><td></td><td></td><td>3</td><td></td><td></td></tr><tr><td>Exports, f.o.b.</td><td>803</td><td>916</td><td>805</td><td>917</td><td>113</td><td></td><td></td><td>-110</td><td></td><td>111</td><td></td><td></td></tr><tr><td>Of which: Phosphoric acid</td><td>47</td><td>107</td><td>116</td><td>159</td><td>60</td><td>81</td><td>-21</td><td>9</td><td>58</td><td>42</td><td>0</td><td>42</td></tr><tr><td>Of which: Refined petroleum</td><td>143</td><td>181</td><td>120</td><td>151</td><td>38</td><td>42</td><td>-4</td><td>-61</td><td>11</td><td>32</td><td>25</td><td>7</td></tr><tr><td>Of which: Fish</td><td>153</td><td>154</td><td>146</td><td>145</td><td>2</td><td>-1</td><td>3</td><td>-9</td><td>4</td><td>-1</td><td>-5</td><td>4</td></tr><tr><td>Of which: Groundnuts</td><td>39</td><td>9</td><td>7</td><td>7</td><td>-30</td><td>15</td><td>-45</td><td>-2</td><td>0</td><td>0</td><td>-1</td><td>0</td></tr><tr><td>Imports, f.o.b</td><td>-1,996</td><td>-2,191</td><td>-2,021</td><td>-2,129</td><td>-195</td><td></td><td></td><td>170</td><td></td><td>-108</td><td></td><td></td></tr><tr><td>Of which: Rice, wheat, and sugar</td><td>-256</td><td>-342</td><td>-280</td><td>-276</td><td>-86</td><td>-127</td><td>41</td><td>62</td><td>1</td><td>4 8</td><td>-3</td><td>7</td></tr><tr><td>Rice</td><td>-174</td><td>-258</td><td>-205</td><td>-197</td><td>-84</td><td>-116</td><td>32</td><td>54</td><td>2</td><td></td><td>-1</td><td>9</td></tr><tr><td>Of which: Oil and oil products</td><td>-554</td><td>-528</td><td>-334</td><td>-410</td><td>26</td><td>-134</td><td>160</td><td>194</td><td>-16</td><td>-76</td><td>-69</td><td>-8</td></tr><tr><td>Services and incomes (net)</td><td>-64</td><td>-109</td><td>-82</td><td>-43</td><td>-46</td><td></td><td></td><td></td><td></td><td>39</td><td></td><td></td></tr><tr><td>Of which: Travel receipts</td><td>255</td><td>216</td><td>194</td><td>189</td><td>-39</td><td></td><td>-22</td><td></td><td></td><td>-5</td><td></td><td></td></tr><tr><td>Unrequited current transfers (net)</td><td>618</td><td>651</td><td>556</td><td>538</td><td>33</td><td></td><td></td><td></td><td></td><td>-18</td><td></td><td></td></tr><tr><td>Of which : Private (net)</td><td>566</td><td>618</td><td>507</td><td>497</td><td>52</td><td></td><td></td><td>-95 -111</td><td></td><td>-10</td><td></td><td></td></tr><tr><td>Capital and financial account</td><td>690</td><td>628</td><td>685</td><td>614</td><td>-61</td><td></td><td></td><td>57</td><td></td><td>-72</td><td></td><td></td></tr><tr><td> Of which: FDl, excl. 2009 privatization</td><td>145</td><td>119</td><td>97</td><td>190</td><td>-26</td><td></td><td></td><td>-22</td><td></td><td>94</td><td></td><td></td></tr><tr><td>Overall balance</td><td>51</td><td>-105</td><td>-56</td><td>-104</td><td>-156</td><td></td><td></td><td>49</td><td></td><td>-48</td><td></td><td></td></tr><tr><td>Memorandumitems:</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Gross official reserves</td><td>735</td><td>744</td><td>754</td><td>687</td><td>9</td><td></td><td>10</td><td></td><td></td><td>-67</td><td></td><td></td></tr><tr><td>(months of imports of GNFS)</td><td>3.4</td><td>3.2</td><td>3.5</td><td>3.1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>\n\n",
+        "page_idx": 28
+    },
+    {
+        "type": "table",
+        "img_path": "Program/722_587_R3/images/73b238b026d8b89aa2980ae5dc4e552f680b6c41e78ed7e22a07b53830ad6e2c.jpg",
+        "table_caption": [
+            "Table 4.Balance of Payments, 2008-10 "
+        ],
+        "table_footnote": [
+            "1 Net of induced imports. "
+        ],
+        "table_body": "\n\n<html><body><table><tr><td></td><td colspan=\"4\">3rd PSI review/1st ESF review</td><td colspan=\"4\">ESF approval (EBS/08/144)</td><td colspan=\"4\">Change relative to ESF approval (EBS/08/144)</td></tr><tr><td></td><td>2007</td><td>2008</td><td>2009</td><td>2010</td><td>2007 2008</td><td>2009</td><td>2010</td><td>2008</td><td>2009</td><td>2010</td><td>Cumulative for</td><td>2009-10 2008-10</td></tr><tr><td></td><td></td><td></td><td></td><td>(Billions of CFA francs; (+)= improvement)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Total crises-related flows</td><td>169</td><td>122</td><td>258</td><td>209</td><td>85 44</td><td>320</td><td>350</td><td></td><td>-62</td><td>-140</td><td></td><td>-124</td></tr><tr><td>Fuel and food</td><td>-644</td><td>-750</td><td>-549</td><td>-612</td><td>-562 -737</td><td>-566</td><td>-634</td><td>-13</td><td>17</td><td>22</td><td>39</td><td>26</td></tr><tr><td> Imports of oil and oil products, net</td><td>-411</td><td>-347</td><td>-214</td><td>-259</td><td>-368 -392</td><td>-309</td><td>-355</td><td>44</td><td>95</td><td>97</td><td>191</td><td>236</td></tr><tr><td>Imports of food, net</td><td>-233</td><td>-403</td><td>-335</td><td>-354</td><td>-193 -345</td><td>-257</td><td>-279</td><td>-57</td><td>-78</td><td>-75</td><td>-152</td><td>-210</td></tr><tr><td>International crisis</td><td>813</td><td>872</td><td>807</td><td>822</td><td>647</td><td>886</td><td>984</td><td>91</td><td>-79</td><td>-162</td><td>-242</td><td>-150</td></tr><tr><td>Remittances, net1</td><td>453</td><td>495</td><td>406</td><td>398</td><td>395</td><td>392</td><td>423</td><td>99</td><td>13</td><td>-26</td><td>-12</td><td>87</td></tr><tr><td> Travel receipts</td><td>255</td><td>216</td><td>194</td><td>189</td><td>139</td><td>197</td><td>208</td><td>28</td><td>-3</td><td>-19</td><td>-22</td><td>7</td></tr><tr><td>Phosphoric acid exports</td><td>47</td><td>107</td><td>116</td><td>159</td><td>187 45</td><td>195</td><td>215</td><td>17</td><td>-78</td><td>-57</td><td>-135</td><td>-118</td></tr><tr><td>Direct investment, net1</td><td>58</td><td>55</td><td>91</td><td>76</td><td>68 109</td><td>102</td><td>137</td><td>-54</td><td>-12</td><td>-60</td><td>-72</td><td>-126</td></tr><tr><td>Other, residual</td><td>-117</td><td>-227</td><td>-314</td><td>-313</td><td>-34</td><td>-228</td><td>-349</td><td>-155</td><td>-86</td><td>36</td><td>-50</td><td>-206</td></tr><tr><td> Overall balance of payments</td><td>51</td><td>-105</td><td>-56</td><td>-104</td><td>51 -28</td><td>92</td><td></td><td>-77</td><td>-149</td><td>-104</td><td>-253</td><td>-330</td></tr><tr><td>Memorandum items:</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>6</td><td></td><td></td><td></td><td></td></tr><tr><td>Reserves, eop (without ESF)</td><td></td><td>726 744</td><td>688</td><td>598</td><td>720 739</td><td>830 867</td><td>842 879</td><td>5</td><td>-141 -113</td><td>-244 -193</td><td>-244 -193</td><td>-244</td></tr><tr><td>Reserves, eop (with ESF) (in months of imports)</td><td></td><td>3.2</td><td>754</td><td>687</td><td>3.2</td><td>3.7</td><td>3.4</td><td>0.0</td><td>-0.2</td><td>-0.4</td><td>-0.4</td><td>-193</td></tr><tr><td></td><td></td><td></td><td>3.5</td><td>3.1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>-0.4</td></tr></table></body></html>\n\n",
+        "page_idx": 29
+    },
+    {
+        "type": "table",
+        "img_path": "Program/722_587_R3/images/247f099c317a41d0ed7819cf61b202387e6688f794d6c116652421db93f56968.jpg",
+        "table_caption": [
+            "Table 5. Senegal: Government Financial Operations, 2006–14 "
+        ],
+        "table_footnote": [
+            "Sources:  Senegalese authorities; and IMF staff estimates and projections. ",
+            "1/ Excludes project-related wages and salaries, which are included in capital spending, and the salaries of autonomous agencies and health and education contractual workers, which are included in transfers and subsidies. 2/ From 2006 on, reflects post-MDRI debt service schedule. 3/ Excludes subsidies aimed at sector development policies, which are included in capital spending. $4/$ Includes recapitalization of SENELEC. The government provided CFAF 65 billion in 2007 under domestically-financed capital expenditure, while budget support by the World Bank and France in 2008 (CFAF 37 billion) and 2009 (CFAF 9 billion) specifically earmarked for the recapitalization is being provided under externally-financed capital expenditure. The latter amounts had been classified under domestically-financed capital spending in EBS/08/144. 5/ Local governments, autonomous public sector entities (e.g., hospitals, universities), and the civil servants pension fund (FNR). $6/$ Defined as total revenue and grants minus total expenditure and net lending, excluding interest expenditure. 7/ Total revenue minus total expenditure and net lending, excluding externally financed capital expenditure, on-lending, and HIPC/MDRI expenditure. $_{8/}$ Includes receipts from sale of telecom license in 2007 and projected receipts from privatization in 2009. 9/ Financing gap in 2009 and 2010 to be filled with ESF drawings. 10/ Refers to HIPC-financed capital and other expenditure. 11/ Defined as expenditures on health, education, environment, the judiciary, social development, sewage, and rural irrigation. "
+        ],
+        "table_body": "\n\n<html><body><table><tr><td rowspan=\"2\">2006 Prog.</td><td rowspan=\"2\">2007</td><td rowspan=\"2\"></td><td colspan=\"2\">2008</td><td colspan=\"2\">2009</td><td colspan=\"2\">2010</td><td colspan=\"2\">2012 Proj.</td><td rowspan=\"2\">2014</td></tr><tr><td></td><td>Est.</td><td>Prog.</td><td>Proj.</td><td></td><td>2011</td><td></td><td>2013</td></tr><tr><td colspan=\"10\"></td></tr><tr><td>Total revenue and grants</td><td>1,036</td><td>1,277</td><td>1,341</td><td>1,293</td><td>1,493</td><td>1,354</td><td>1,429</td><td>1,548</td><td>1,682</td><td>1,822</td><td></td></tr><tr><td>Revenue</td><td>963</td><td>1,139</td><td>1,209</td><td>1,153</td><td>1,337</td><td>1,201</td><td>1,280</td><td>1,391</td><td>1,514</td><td>1,642</td><td>1,974 1.782</td></tr><tr><td>Tax revenue</td><td>922</td><td>1,088</td><td>1,161</td><td>1,088</td><td>1,302</td><td>1,172</td><td>1,254</td><td>1,364</td><td>1,485</td><td>1,611</td><td>1,748</td></tr><tr><td>Income tax</td><td>219</td><td>232</td><td>274</td><td>273</td><td>302</td><td>302</td><td>328</td><td>359</td><td>391</td><td>427</td><td>466</td></tr><tr><td>Taxes on goods and services</td><td>533</td><td>628</td><td>645</td><td>616</td><td>742</td><td>648</td><td>697</td><td>758</td><td>831</td><td>905</td><td>987</td></tr><tr><td>Taxes on petroleum products</td><td>170</td><td>215</td><td>242</td><td>199</td><td>258</td><td>222</td><td>229</td><td>247</td><td>263</td><td>279</td><td>295</td></tr><tr><td>Nontax revenue</td><td>41</td><td>51</td><td>48</td><td>65</td><td>35</td><td>30</td><td>26</td><td>28</td><td>29</td><td>32</td><td>34</td></tr><tr><td>Grants</td><td>73</td><td>138</td><td>132</td><td>140</td><td>156</td><td>153</td><td>150</td><td>157</td><td>168</td><td>180</td><td>193</td></tr><tr><td>Budgetary</td><td>9</td><td>53</td><td>34</td><td>38</td><td>39</td><td>51</td><td>43</td><td>43</td><td>46</td><td>49</td><td>53</td></tr><tr><td>Budgeted development projects</td><td>64</td><td>86</td><td>99</td><td>101</td><td>117</td><td>101</td><td>107</td><td>114</td><td>122</td><td>131</td><td>140</td></tr><tr><td>Total expenditure and net lending</td><td>1,331</td><td>1,491</td><td>1,541</td><td>1,579</td><td>1,668</td><td>1,645</td><td>1,692</td><td>1,829</td><td>1,985</td><td>2,144</td><td>2,323</td></tr><tr><td>Current expenditure</td><td>829</td><td>881</td><td>994</td><td>979</td><td>974</td><td>988</td><td>981</td><td>1,041</td><td>1,105</td><td>1,158</td><td>1,220</td></tr><tr><td>Wages and salaries 1/</td><td>286</td><td>327</td><td>358</td><td>348</td><td>389</td><td>389</td><td>397</td><td>423</td><td>453</td><td>485</td><td>519</td></tr><tr><td>Interest due</td><td>42</td><td>34</td><td>35</td><td>39</td><td>45</td><td>60</td><td>52</td><td>56</td><td>61</td><td>66</td><td>71</td></tr><tr><td>Of which : external 2/</td><td>36</td><td>24</td><td>24 601</td><td>24</td><td>34</td><td>36</td><td>38</td><td>39</td><td>37</td><td>35</td><td>34</td></tr><tr><td>Other current expenditure</td><td>500</td><td>519</td><td>359</td><td>593</td><td>540</td><td>540</td><td>532</td><td>563</td><td>592</td><td>608</td><td>630</td></tr><tr><td>Transfers and subsidies 3/</td><td>308 66</td><td>287 55</td><td>73</td><td>333 69</td><td>270 23</td><td>270 44</td><td>250 0</td><td>266 0</td><td>277 0</td><td>272</td><td>271</td></tr><tr><td>Of which: SAR and butane subsidy</td><td>86</td><td>0</td><td>48</td><td>30</td><td></td><td>18</td><td></td><td></td><td></td><td>0</td><td>0</td></tr><tr><td>Of which: SENELEC</td><td></td><td>21</td><td>43</td><td>46</td><td></td><td></td><td></td><td></td><td></td><td>0</td><td>0</td></tr><tr><td>Of which: Food subsidies</td><td>0</td><td></td><td>229</td><td></td><td>0 256</td><td></td><td></td><td></td><td>0</td><td></td><td>0</td></tr><tr><td>Goods and services</td><td>186 7</td><td>217 15</td><td>13</td><td>239 21</td><td>14</td><td>256</td><td>269</td><td>285</td><td>303</td><td>325</td><td>348</td></tr><tr><td>HIPC and MDRI current spending</td><td></td><td>605</td><td>550</td><td>595</td><td>698</td><td>13</td><td>12 709</td><td>12</td><td>12</td><td>.11</td><td>11</td></tr><tr><td>Capital expenditure 4/</td><td>475</td><td></td><td>324</td><td>314</td><td>438</td><td>655</td><td>436</td><td>786</td><td>877</td><td>984</td><td>1,100</td></tr><tr><td>Domestically financed</td><td>337</td><td>392</td><td></td><td></td><td></td><td>408</td><td></td><td>475</td><td>514</td><td>571</td><td>634</td></tr><tr><td>HIPC and MDRI-financed</td><td>26</td><td>60</td><td>66</td><td>63</td><td>56</td><td>54</td><td>49</td><td>48</td><td>47</td><td>46</td><td>46</td></tr><tr><td>Non-HIPC/MDRI financed</td><td>311</td><td>331</td><td>258 226</td><td>251</td><td>382</td><td>354</td><td>387</td><td>427</td><td>467</td><td>525</td><td>588</td></tr><tr><td>Externally financed</td><td>138</td><td>213 5</td><td>-3</td><td>281 5</td><td>260 2</td><td>247</td><td>273 。</td><td>311 。</td><td>363</td><td>413</td><td>466</td></tr><tr><td>Net lending Of which : On-lending</td><td>27 33</td><td>10</td><td></td><td>12</td><td>10</td><td>2 10</td><td></td><td>0</td><td>。 0</td><td>0</td><td>0</td></tr><tr><td>Selected public sector entities balance 5/</td><td>16</td><td>16</td><td></td><td>13</td><td>0</td><td>0</td><td></td><td></td><td>0</td><td>0 0</td><td>0 0</td></tr><tr><td>Primary fiscal balance 6/</td><td></td><td>-163</td><td>-165</td><td>-235</td><td>-130</td><td></td><td></td><td>-226</td><td>-242</td><td></td><td></td></tr><tr><td>Overall fiscal balance (including grants)</td><td>-236</td><td>-198</td><td>-200</td><td>-273</td><td>-175</td><td>-231</td><td>-210</td><td></td><td></td><td>-257</td><td>-278</td></tr><tr><td>Overall fiscal balance (excluding grants)</td><td>-279 -352</td><td>-336</td><td>-332</td><td>-413</td><td>-331</td><td>-291 -444</td><td>-263 -412</td><td>-281 -438</td><td>-302 -470</td><td>-322 -502</td><td>-348 -541</td></tr></table></body></html>\n\n",
+        "page_idx": 30
+    },
+    {
+        "type": "table",
+        "img_path": "Program/722_587_R3/images/e46ca6c914318c9f6fe378b9be3dd8921f92759ef01d4221e30920933bd5d759.jpg",
+        "table_caption": [
+            "Table 6. Senegal: Government Financial Operations, 2006–14 "
+        ],
+        "table_footnote": [
+            "Sources:  Senegalese authorities; and IMF staff estimates and projections. ",
+            "$1/\\l$ From 2006 on, reflects post-MDRI debt service schedule. 2/ Includes SENELEC recapitalization. The government provided CFAF 65 billion in 2007 under domestically-financed capital expenditure, while earmarked budget support by the World Bank and France in 2008 (CFAF 37 billion) and 2009 (CFAF 9 billion) is being provided under externallyfinanced capital expenditure. The latter amounts had been classified under domestically-financed capital spending in EBS/08/144. $_{3/}$ Local governments, autonomous public sector entities (e.g. hospitals, universities), and the civil servants pension fund  (FNR). $4/$ Defined as total revenue and grants minus total expenditure and net lending, excluding interest expenditure. $_{5I}$ Defined as total revenue minus total expenditure and net lending, excluding externally financed capital expenditure, on-lending, and HIPC/MDRI expenditure. $6/$ Financing gap in 2009 and 2010 to be filled with ESF drawings. 7/ Defined as expenditures on health, education, environment, the judiciary, social development, sewage, and rural irrigation. "
+        ],
+        "table_body": "\n\n<html><body><table><tr><td rowspan=\"2\"></td><td rowspan=\"2\">2006</td><td rowspan=\"2\">2007</td><td colspan=\"2\">2008</td><td colspan=\"2\">2009</td><td>2010</td><td>2011</td><td>2012</td><td>2013</td><td>2014</td></tr><tr><td>Prog.</td><td>Est.</td><td>Prog.</td><td>Proj.</td><td></td><td></td><td>Proj.</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>(Percent of GDP)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Total revenue and grants</td><td>21.2</td><td>23.6</td><td>22.4</td><td>21.7</td><td>23.1</td><td>21.6</td><td>21.6</td><td>22.0</td><td>22.3</td><td>22.6</td><td>22.8</td></tr><tr><td>Revenue</td><td>19.7</td><td>21.1</td><td>20.2</td><td>19.4</td><td>20.7</td><td>19.2</td><td>19.3</td><td>19.7</td><td>20.1</td><td>20.3</td><td>20.6</td></tr><tr><td>Tax revenue</td><td>18.8</td><td>20.1</td><td>19.4</td><td>18.3</td><td>20.2</td><td>18.7</td><td>19.0</td><td>19.4</td><td>19.7</td><td>19.9</td><td>20.2</td></tr><tr><td>Income tax</td><td>4.5</td><td>4.3</td><td>4.6</td><td>4.6</td><td>4.7</td><td>4.8</td><td>5.0</td><td>5.1</td><td>5.2</td><td>5.3</td><td>5.4</td></tr><tr><td> Taxes on goods and services</td><td>10.9</td><td>11.6</td><td>10.8</td><td>10.3</td><td>11.5</td><td>10.3</td><td>10.5</td><td>10.8</td><td>11.0</td><td>11.2</td><td>11.4</td></tr><tr><td>Taxes on petroleum products</td><td>3.5</td><td>4.0</td><td>4.0</td><td>3.3</td><td>4.0</td><td>3.6</td><td>3.5</td><td>3.5</td><td>3.5</td><td>3.5</td><td>3.4</td></tr><tr><td>Nontax revenue</td><td>0.8</td><td>0.9</td><td>0.8</td><td>1.1</td><td>0.5</td><td>0.5</td><td>0.4</td><td>0.4</td><td>0.4</td><td>0.4</td><td>0.4</td></tr><tr><td>Grants</td><td>1.5</td><td>2.6</td><td>2.2</td><td>2.3</td><td>2.4</td><td>2.4</td><td>2.3</td><td>2.2</td><td>2.2</td><td>2.2</td><td>2.2</td></tr><tr><td>Total expenditure and net lending</td><td>27.2</td><td>27.6</td><td>25.7</td><td>26.5</td><td>25.9</td><td>26.3</td><td>25.6</td><td>26.0</td><td>26.3</td><td>26.5</td><td>26.8</td></tr><tr><td>Current expenditure</td><td>16.9</td><td>16.3</td><td>16.6</td><td>16.5</td><td>15.1</td><td>15.8</td><td>14.8</td><td>14.8</td><td>14.7</td><td>14.3</td><td>14.1</td></tr><tr><td>Wages and salaries</td><td>5.8</td><td>6.1</td><td>6.0</td><td>5.8</td><td>6.0</td><td>6.2</td><td>6.0</td><td>6.0</td><td>6.0</td><td>6.0</td><td>6.0</td></tr><tr><td>Interest payments 1/</td><td>0.9</td><td>0.6</td><td>0.6</td><td>0.6</td><td>0.7</td><td>1.0</td><td>0.8</td><td>0.8</td><td>0.8</td><td>0.8</td><td>0.8</td></tr><tr><td>Other current expenditure</td><td>10.2</td><td>9.6</td><td>10.0</td><td>10.0</td><td>8.4</td><td>8.6</td><td>8.0</td><td>8.0</td><td>7.8</td><td>7.5</td><td>7.3</td></tr><tr><td>Of which: Goods and services</td><td>3.8</td><td>4.0</td><td>3.8</td><td>4.0</td><td>4.0</td><td>4.1</td><td>4.1</td><td>4.0</td><td>4.0</td><td>4.0</td><td>4.0</td></tr><tr><td>Of which: Transfers and subsidies</td><td>6.3</td><td>5.3</td><td>6.0</td><td>5.6</td><td>4.2</td><td>4.3</td><td>3.8</td><td>3.8</td><td>3.7</td><td>3.4</td><td>3.1</td></tr><tr><td>Of which: Energy and food subsidies</td><td>3.1</td><td>1.4</td><td>2.7</td><td>2.4</td><td>0.4</td><td>1.0</td><td>0.0</td><td>0.0</td><td>0.0</td><td>0.0</td><td>0.0</td></tr><tr><td>HIPC and MDRI current spending</td><td>0.1</td><td>0.3</td><td>0.2</td><td>0.3</td><td>0.2</td><td>0.2</td><td>0.2</td><td>0.2</td><td>0.2</td><td>0.1</td><td>0.1</td></tr><tr><td>Capital expenditure 2/</td><td>9.7</td><td>11.2</td><td>9.2</td><td>10.0</td><td>10.8</td><td>10.4</td><td>10.7</td><td>11.2</td><td>11.6</td><td>12.2</td><td>12.7</td></tr><tr><td>Domestically financed</td><td>6.9</td><td>7.2</td><td>5.4</td><td>5.3</td><td>6.8</td><td>6.5</td><td>6.6</td><td>6.7</td><td>6.8</td><td>7.1</td><td>7.3</td></tr><tr><td>Of which: Without transfers to PEs</td><td>6.9</td><td>6.0</td><td>4.8</td><td>4.7</td><td>6.7</td><td>6.5</td><td>6.6</td><td>6.7</td><td>6.8</td><td>7.1</td><td>7.3</td></tr><tr><td>Externally financed</td><td>2.8</td><td>3.9</td><td>3.8</td><td>4.7</td><td>4.0</td><td>3.9</td><td>4.1</td><td>4.4</td><td>4.8</td><td>5.1</td><td>5.4</td></tr><tr><td>Net lending</td><td>0.6</td><td>0.1</td><td>0.0</td><td>0.1</td><td>0.0</td><td>0.0</td><td>0.0</td><td>0.0</td><td>0.0</td><td>0.0</td><td>0.0</td></tr><tr><td>Selected public sector entities balance 3/</td><td>0.3</td><td>0.3</td><td>0.0</td><td>0.2</td><td>0.0</td><td>0.0</td><td>0.0</td><td>0.0</td><td>0.0</td><td>0.0</td><td>0.0</td></tr><tr><td>Primary fiscal balance 4/</td><td>-5.2</td><td>-3.3</td><td>-2.7</td><td>-4.2</td><td>-2.0</td><td>-3.7</td><td>-3.2</td><td>-3.2</td><td>-3.2</td><td>-3.2</td><td>-3.2</td></tr><tr><td>Overall fiscal balance</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Payment order basis, excluding grants</td><td>-7.2</td><td>-6.2</td><td>-5.5</td><td>-6.9</td><td>-5.1</td><td>-7.1</td><td>-6.2</td><td>-6.2</td><td>-6.2</td><td>-6.2</td><td>-6.2</td></tr><tr><td>Payment order basis, including grants</td><td>-5.7</td><td>-3.7</td><td>-3.3</td><td>-4.6</td><td>-2.7</td><td>-4.6</td><td>-4.0</td><td>-4.0</td><td>-4.0</td><td>-4.0</td><td>-4.0</td></tr><tr><td>Basic fiscal balance 5/</td><td>-3.4</td><td>-1.0</td><td>-0.4</td><td>-0.8</td><td>0.1</td><td>-1.9</td><td>-1.0</td><td>-0.8</td><td>-0.5</td><td>-0.2</td><td>0.0</td></tr><tr><td>Financing</td><td>5.7</td><td>3.7</td><td>3.3</td><td>4.6</td><td>2.7</td><td>4.6</td><td>4.0</td><td>4.0</td><td></td><td></td><td></td></tr><tr><td>External financing</td><td>2.5</td><td>2.4</td><td>3.3</td><td>3.8</td><td>4.0</td><td>4.2</td><td>2.7</td><td>2.6</td><td>4.0 3.0</td><td>4.0</td><td>4.0 3.7</td></tr><tr><td>Domestic financing</td><td>3.2</td><td>1.1</td><td>1.1</td><td>0.7</td><td>-0.2</td><td>0.7</td><td>0.9</td><td>1.4</td><td>1.1</td><td>3.2 0.8</td><td>0.4</td></tr><tr><td>Settlement of payment delays</td><td>0.0</td><td>0.0</td><td>-1.4</td><td>-1.4</td><td>-1.4</td><td>-1.1</td><td>0.0</td><td>0.0</td><td>0.0</td><td>0.0</td></table></body></html>\n\n",
+        "page_idx": 31
+    },
+    {
+        "type": "table",
+        "img_path": "Program/722_587_R3/images/7517971434ee1317dbc7092fdc1a25f969498ebfd6d7453ec5fb5faa13d9c6a6.jpg",
+        "table_caption": [
+            "Table 7. Senegal: Monetary Survey, 2005–09 "
+        ],
+        "table_footnote": [
+            "Sources: Senegalese authorities; and IMF staff estimates and projections. "
+        ],
+        "table_body": "\n\n<html><body><table><tr><td rowspan=\"2\"></td><td rowspan=\"2\">2005</td><td rowspan=\"2\">2006</td><td rowspan=\"2\">2007</td><td>2008</td><td>2009</td></tr><tr><td>Est.</td><td>Proj.</td></tr><tr><td></td><td colspan=\"3\">(CFAF billions)</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Net foreign assets Central Bank of West African States (BCEAO)</td><td>660</td><td>780 569</td><td>851 644</td><td>762 653</td><td>776 661</td></tr><tr><td>Commercial banks</td><td>487 173</td><td>210</td><td>207</td><td>109</td><td>115</td></tr><tr><td>Net domestic assets</td><td>894</td><td>972</td><td>1,122</td><td>1,245</td><td>1,348</td></tr><tr><td>Net domestic credit</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Net credit to the government</td><td>1,032</td><td>1,122</td><td>1,324 96</td><td>1,467 28</td><td>1,579</td></tr><tr><td>Central bank</td><td>-35</td><td>11 45</td><td>55</td><td>-14</td><td>-5</td></tr><tr><td>Commercial banks</td><td>84</td><td></td><td>21</td><td>33</td><td>22</td></tr><tr><td>Other institutions</td><td>-123</td><td>-46 12</td><td>20</td><td>9</td><td>-24 -3</td></tr><tr><td></td><td>4</td><td></td><td></td><td></td><td></td></tr><tr><td>Credit to the economy Of which: crop credit</td><td>1,067 10</td><td>1,111 9</td><td>1,228 10</td><td>1,440 5</td><td>1,583</td></tr><tr><td>Other items (net)</td><td></td><td></td><td>-202</td><td>-223</td><td>5</td></tr><tr><td></td><td>-138</td><td>-151</td><td></td><td></td><td>-231</td></tr><tr><td>Broad money (M2)</td><td>1,553</td><td>1,751</td><td>1,973</td><td>2,007</td><td>2,124</td></tr><tr><td>Currency outside banks</td><td>378</td><td>453</td><td>485</td><td>474</td><td>495</td></tr><tr><td>Total deposits Demand deposits</td><td>1,176</td><td>1,298</td><td>1,488</td><td>1,532</td><td>1,629</td></tr><tr><td>Time deposits</td><td>593 582</td><td>652 646</td><td>784 705</td><td>779 754</td><td>858</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>771</td></tr><tr><td></td><td colspan=\"5\">(Change in percentage of beginning-of-period broad money stock)</td></tr><tr><td>Net foreign assets BCEAO</td><td>-1.2</td><td>7.7</td><td>4.1</td><td>-4.5</td><td>0.7</td></tr><tr><td>Commercial banks</td><td>0.7</td><td>5.3</td><td>4.3</td><td>0.4 -5.0</td><td>0.4</td></tr><tr><td></td><td>-1.8</td><td>2.4</td><td>-0.2</td><td></td><td>0.3</td></tr><tr><td>Net domestic assets</td><td>8.6</td><td>5.0</td><td>8.6</td><td>6.2</td><td>5.1</td></tr><tr><td>Net credit to the government</td><td>-4.1</td><td>3.0</td><td>4.9</td><td>-3.5</td><td>-1.6</td></tr><tr><td>Credit to the economy</td><td>14.5</td><td>2.9</td><td>6.7</td><td>10.7</td><td>7.2</td></tr><tr><td>Other items (net)</td><td>-1.8</td><td>-0.8</td><td>-2.9</td><td>-1.0</td><td>-0.4</td></tr><tr><td>Broad money (M2)</td><td>7.4</td><td>12.7</td><td>12.7</td><td>1.7</td><td>5.8</td></tr><tr><td>Memorandumitems:</td><td colspan=\"3\">(Units indicated)</td><td></td><td></td></tr><tr><td>Velocity (GDP/M2; end of period)</td><td>3.0</td><td>2.8</td><td>2.7</td><td>3.0</td><td>2.9</td></tr><tr><td>Nominal GDP growth (percentage growth)</td><td>8.3</td><td>6.5</td><td>10.5</td><td>10.0</td><td>5.3</td></tr><tr><td>Credit to the economy (percentage growth)</td><td>24.5</td><td>4.2</td><td>10.5</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>17.2</td><td>10.0</td></tr><tr><td>Credit to the economy/GDP (percent)</td><td>23.2</td><td>22.7</td><td>22.7</td><td>24.2</td><td>25.3</td></tr><tr><td>Variation of net credit to the government (from</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td> previous year; CFAF billions)</td><td>-59.2</td><td>46.3</td><td>85.1</td><td>-68.3</td><td>-32.8</td></tr><tr><td>Central bank refinance rate (end of period; percent)</td><td>4.00</td><td>4.25</td><td>4.25</td><td>4.75</td><td></td></tr></table></body></html>\n\n",
+        "page_idx": 32
+    },
+    {
+        "type": "table",
+        "img_path": "Program/722_587_R3/images/3c89e03d992fc37fbbab5ad0615d7a8e60f66053823428934e02a7cdda8603bb.jpg",
+        "table_caption": [
+            "Table 8. Financial Soundness Indicators for the Banking Sector, 2003–08 (Percent, unless otherwise indicated) "
+        ],
+        "table_footnote": [
+            "Source: BCEAO. ",
+            "$1/\\l$ NPL changes in 2006 due to ICS. In 2008, ICS was recapitalized and the government guarantee for its bank loans was lifted. However, the loans in question remain classified as non-performing for the time being, although without the need to provision. 2/ Excluding the tax on banking operations. "
+        ],
+        "table_body": "\n\n<html><body><table><tr><td></td><td>2003 Dec.</td><td>2004 Dec.</td><td>2005 Dec.</td><td>2006 Dec.</td><td>2007 Dec.</td><td>2008 Dec.</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Capital adequacy</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Capital to risk-weighted assets</td><td>12.1</td><td>11.9</td><td>11.1</td><td>13.1</td><td>13.6</td><td>13.9</td></tr><tr><td>Regulatory capital to risk-weighted assets</td><td>11.7</td><td>11.5</td><td>10.8</td><td>12.9</td><td>13.5</td><td>13.8</td></tr><tr><td>Capital to total assets</td><td>7.8</td><td>7.7</td><td>7.6</td><td>8.3</td><td>8.3</td><td>9.1</td></tr><tr><td>Asset composition and quality Total loans to total assets</td><td>59.6</td><td>57.1</td><td>64.0</td><td>63.8</td><td>58.8</td><td></td></tr><tr><td>Concentration: loans to 5 largest borrowers to capital</td><td>141.0</td><td>131.4</td><td></td><td>103.7</td><td></td><td>62.8</td></tr><tr><td>Sectoral distribution of loans</td><td></td><td></td><td>179.9</td><td></td><td>88.5</td><td>86.9</td></tr><tr><td>Industrial</td><td>41.1</td><td>33.6</td><td>35.5</td><td>28.9</td><td></td><td></td></tr><tr><td>Retail and wholesale trade</td><td>19.9</td><td>19.3</td><td></td><td>18.9</td><td>25.1</td><td>19.5</td></tr><tr><td>Services, transportation and communication</td><td>17.2</td><td>27.4</td><td>17.0</td><td></td><td>14.4</td><td>18.5</td></tr><tr><td>Gross NPLs to total loans 1/</td><td>13.3</td><td>12.6</td><td>28.0</td><td>30.0</td><td>29.6</td><td>31.1</td></tr><tr><td></td><td></td><td></td><td>11.9</td><td>16.8</td><td>18.6</td><td>19.1</td></tr><tr><td>Ofwhich: withoutICS Provisions to NPLs 1/</td><td>75.3</td><td></td><td></td><td></td><td>12.7</td><td>14.2</td></tr><tr><td>Of which: without ICS</td><td></td><td>75.7</td><td>75.4</td><td>52.0</td><td>53.8</td><td>51.5</td></tr><tr><td>NPLs net of provisions to total loans 1/</td><td>3.3</td><td>3.4</td><td></td><td></td><td>74.6</td><td>62.9</td></tr><tr><td></td><td></td><td></td><td>3.2</td><td>8.8</td><td>8.6</td><td>9.3</td></tr><tr><td>Ofwhich: without ICS</td><td></td><td></td><td></td><td></td><td>3.6</td><td>5.4</td></tr><tr><td>NPLs net of provisions to capital 1/</td><td>27.8</td><td>25.1</td><td>27.2</td><td>67.9</td><td>60.7</td><td>63.9</td></tr><tr><td>Of which: without ICS</td><td></td><td></td><td></td><td></td><td>23.8</td><td>35.3</td></tr><tr><td>Earnings and profitability</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Average cost of borrowed funds</td><td>1.8</td><td>2.0</td><td>2.0</td><td>2.2</td><td>2.2</td><td></td></tr><tr><td> Average interest rate on loans</td><td>8.7</td><td>11.7</td><td>11.8</td><td>11.3</td><td>11.6</td><td>...</td></tr><tr><td>Average interest margin 2/</td><td>6.7</td><td>9.7</td><td>9.8</td><td>9.2</td><td>9.4</td><td></td></tr><tr><td>After-tax return on average assets</td><td>1.8</td><td>1.8</td><td>1.6</td><td>1.6</td><td>1.6</td><td></td></tr><tr><td>After-tax return on average equity</td><td>22.1</td><td>17.6</td><td>15.8</td><td>14.6</td><td>15.3</td><td></td></tr><tr><td>Noninterest expenses/net banking income</td><td>48.9</td><td>48.7</td><td>47.9</td><td>49.4</td><td>50.7</td><td></td></tr><tr><td>Salaries and wages/net banking income</td><td>21.8</td><td>21.5</td><td>21.2</td><td>21.7</td><td>22.2</td><td></td></tr><tr><td>Liquidity Total deposits to total liabilities</td><td>82.0</td><td>79.6</td><td>78.3</td><td>75.8</td><td>73.6</td><td>70.3</td></tr></table></body></html>\n\n",
+        "page_idx": 33
+    },
+    {
+        "type": "table",
+        "img_path": "Program/722_587_R3/images/b581936accbd3f935797acf3dc56b721b9bb0d764eba78ef37658604de158776.jpg",
+        "table_caption": [
+            "Table 9. Quantitative Assessment (Performance) Criteria and Indicative Targets, 2008-09 1/ (CFAF billions, unless otherwise specified) "
+        ],
+        "table_footnote": [
+            "1/ DataforMarch are indicative targets,exceptfortheassessment(performancecriteria monitoredonacontinuous basis. 2/Dfidcgfise lendingexgaldaexpdgdadRdinguaicegingfth $_{3/}$ Excludes governmentorgovernment-guaranteed CFAFborrowingfrom WAEMUresidents andexternalloanscontractedbythe airport project company (AlDB) to finance the construction of the new Dakar Airport. 4/ Monitored on a continuous basis. $5/$ Uuultieioffuseladg $6/$ Definedas allexpenditureforwhichabillhasbeenreceivedandrecognized(depenseliquidee）butnotyetpaid bythe treasury. "
+        ],
+        "table_body": "\n\n<html><body><table><tr><td></td><td colspan=\"3\">December 31,2008</td><td colspan=\"3\">March 31,2009</td></tr><tr><td></td><td>Criterion</td><td>Actual</td><td> Status</td><td>Indicative Target</td><td>Actual</td><td>Status</td></tr><tr><td>Assessment (performance) criteria</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Floor on the basic fiscal balance 2/</td><td>-21</td><td>-50</td><td> not met</td><td>2</td><td>15</td><td>met </td></tr><tr><td>Ceiing n the contrating or guaranteeng of new honconcessionalextermal ebt by the</td><td>80 5/</td><td>0</td><td> met </td><td>80 5/</td><td>0</td><td> met </td></tr><tr><td>Ceiling on spending undertaken outside normal and simplified procedures 4/</td><td>0</td><td>0</td><td> met</td><td>0</td><td>0</td><td> met</td></tr><tr><td>Ceiling on government external payment arrears (stock) 4/</td><td>0</td><td>0</td><td> met </td><td>０</td><td>0</td><td> met</td></tr><tr><td>Ceiling on the amount of the float (depenses liquidees non payees par le Tresor) 6/</td><td>92</td><td>66</td><td> met</td><td>80</td><td>65</td><td>met </td></tr><tr><td> Indicative target</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Quarterly ceiling on the share of the value of public sector contracts signed by single tender (percent)</td><td>20</td><td>6</td><td> met</td><td>20</td><td>14</td><td>met </td></tr></table></body></html>\n\n",
+        "page_idx": 34
+    },
+    {
+        "type": "table",
+        "img_path": "Program/722_587_R3/images/ffad798de3702ad1545d4adb0376bc866fe93f06eea4b8f4a7186f43c87a8816.jpg",
+        "table_caption": [
+            "TABLE 10: STRUCTURAL CONDITIONALITY, DECEMBER 2008–MAY 2009 "
+        ],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td>Policy Measures</td><td>Target Date for Implementation</td><td>Implementation Stati</td></tr><tr><td>Prior Action 1. Ensure passage by Parliament of the 2009 Budget Law, as described in paragraph 12 of the December 2008</td><td>Implemented on November 18, 2008</td><td>Completed</td></tr><tr><td>MEFP. 2. Adopt a decree amending the general regulations on government accounting (RGCP) to require use of only the normal and simplified procedures, and prohibiting the use of procedures of any other type, in particular Treasury</td><td>Implemented on November 28, 2008</td><td>Completed</td></tr><tr><td>advances, as described in paragraph 21 of the December 2008 MEFP. 3. Set out in a manual the detailed procedures for reconciling the budget, the TOFE, the Treasury accounts, the NGP, and the SIGFIP; establish this reconciliation for end-2007 and selected months in 2008, and publish the results, as described in paragraph 24 of the</td><td>Implemented on November 30, 2008</td><td>Completed</td></tr><tr><td>December 2008 MEFP. Structural Assessment (Performance) Criteria 1. Improve the budget procedure by adopting a decree to</td><td>January 31, 2009</td><td>Completed</td></tr><tr><td>set the timetable and principal methods for compiling the budget, as described in paragraph 19 of the December 2008 MEFP.</td><td></td><td></td></tr><tr><td>2. Adopt a decree specifying the system for the reopening and carryover of budgetary appropriations and commitments, as described in paragraph 22 of the December 2008 MEFP.</td><td>February 28, 2009</td><td>Completed</td></tr><tr><td>3. Close the 20o8 budget and accounting year by freezing and publishing the SIGFIP by April 30, 2009, as described in paragraph 23 of the December 2008 MEFP.</td><td>April 30, 2009</td><td>Completed</td></tr></table></body></html>\n\n",
+        "page_idx": 35
+    },
+    {
+        "type": "table",
+        "img_path": "Program/722_587_R3/images/02836f17d2517ece26baf03d6bc40061ca8966ae2125912e0685591afcbf6743.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td>Policy Measures</td><td>Target Date for Implementation</td><td>Implementation Status</td></tr><tr><td>Structural Benchmarks 1. Adopt the decree implementing the new law on</td><td></td><td>Completed</td></tr><tr><td>microfinance institutions. 2. Conduct an external audit of all extrabudgetary</td><td>January 31, 2009 March 31, 2009</td><td>Under way</td></tr><tr><td>commitments, based on terms of reference drawn up in consultation with IMF staff, as described in paragraph 26 of the December 2008 MEFP. 3. Draft memoranda of understanding specifying the</td><td></td><td></td></tr><tr><td>respective rights and duties of the APIX, DGID, and DDI regarding the management of the DISEZ, as stated in paragraph 30 of the December 2008 MEFP.</td><td>March 31, 2009</td><td>Completed</td></tr><tr><td>4. Compile and publish the first audit report of the Government Procurement Regulatory Authority (ARMP), as described in paragraph 28 of the December 2008 MEFP.</td><td>May 31,2009</td><td>Under way</td></tr></table></body></html>\n\n",
+        "page_idx": 36
+    },
+    {
+        "type": "table",
+        "img_path": "Program/722_587_R3/images/efad358d6636089824f20eb45f57bb53912a611375bc0e8bfe1f593d2157bd4a.jpg",
+        "table_caption": [
+            "Table 11. Senegal: Indicators of Capacity to Repay the Fund, 2008-20 "
+        ],
+        "table_footnote": [
+            "Sources: BCEAO; and Fund staff estimates and projections. $\\dag{1}/\\dag$ ase second ESFreview,November 2009;andSDR32.36milon(20percentofquota)uponcompletionofthethirdESFreview,May $2010$ .In total: SDR 97.08 million (60 percent of quota) during 2009-10. "
+        ],
+        "table_body": "\n\n<html><body><table><tr><td></td><td>2008 Est.</td><td>2009</td><td>2010</td><td>2011</td><td></td><td>2012</td><td>2013</td><td>2014</td><td>2015</td><td>2016</td><td>2017</td><td>2018</td><td>2019</td><td>2020</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>Projections</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td> Obligations to the Fund from existing drawings</td><td></td><td></td><td></td><td></td><td></td><td></td><td>3.5</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Principal (SDR millions)</td><td>0.0</td><td></td><td>0.4</td><td>2.1 0.3</td><td></td><td>3.5</td><td></td><td>8.3</td><td>8.0</td><td>6.2</td><td>4.9</td><td>4.9</td><td>0.0</td><td>0.0</td></tr><tr><td>Charges/Interest (SDR millions)</td><td>0.6</td><td></td><td>0.3</td><td></td><td></td><td>0.3</td><td>0.3</td><td>0.3</td><td>0.2</td><td>0.2</td><td>0.2</td><td>0.1</td><td>0.1</td><td>0.1</td></tr><tr><td>Obligations to the Fund from prospective drawings 1/</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Principal (SDR millions)</td><td></td><td></td><td></td><td></td><td>0.0</td><td>0.0</td><td>0.0</td><td>3.2</td><td>16.2</td><td>19.4</td><td></td><td></td><td></td><td>3.2</td></tr><tr><td>Charges/lnterest (SDR millions)</td><td>0.0</td><td></td><td>0.0 0.4</td><td></td><td>0.5</td><td>0.5</td><td>0.5</td><td>0.5</td><td>0.5</td><td>0.4</td><td>19.4 0.3</td><td>19.4 0.2</td><td>16.2 0.1</td><td>0.0</td></tr><tr><td></td><td>0.1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Total outstanding and prospective obligations to the Fund 1/</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>In millions of SDRs</td><td></td><td></td><td></td><td></td><td>2.9</td><td>4.3</td><td>4.2</td><td>12.3</td><td>24.8</td><td>26.2</td><td>24.7</td><td>24.6</td><td>16.4</td><td>3.4</td></tr><tr><td>In millions of U.S. dollars</td><td></td><td></td><td>1.1 1.6</td><td></td><td>4.2</td><td>6.3</td><td>6.2</td><td>18.2</td><td>36.7</td><td>38.7</td><td>36.5</td><td>36.3</td><td>24.2</td><td>5.0</td></tr><tr><td>In percent of exports of goods and services In percent of debt service</td><td>1.0 0.0</td><td></td><td>0.1</td><td></td><td>0.1</td><td>0.2</td><td>0.2</td><td>0.5</td><td>10.9</td><td>10.9</td><td>1.0</td><td>0.9</td><td>0.5</td><td>0.1</td></tr><tr><td>In percent of quota</td><td>0.6</td><td></td><td>0.8 0.7</td><td></td><td>1.5</td><td>2.1</td><td>2.1</td><td>6.6</td><td>10.7</td><td>10.8</td><td>9.7</td><td>9.1</td><td>6.1</td><td>1.3</td></tr><tr><td>In percent of gross official reserves</td><td>0.1</td><td></td><td>0.1</td><td></td><td>1.8</td><td>2.6</td><td>2.6</td><td>7.6</td><td>15.3</td><td>16.2</td><td>15.3</td><td>15.2</td><td>10.1</td><td>2.1</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>0.3</td><td>0.4</td><td>0.4</td><td>0.9</td><td>1.8</td><td>1.8</td><td>1.6</td><td>1.5</td><td>0.9</td><td>0.2</td></tr><tr><td>Total Fund credit outstanding 1/</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td> In millions of SDRs</td><td>41.6</td><td>106.3</td><td>138.3</td><td>136.3</td><td></td><td>132.8</td><td></td><td></td><td>93.6</td><td>68.0</td><td>43.7</td><td></td><td>3.2</td><td>0.0</td></tr><tr><td>In millions of U.S. dollars</td><td>63.3</td><td>156.9</td><td>203.1</td><td>200.2</td><td></td><td>195.6</td><td>129.3 191.1</td><td>117.8 174.4</td><td>138.5</td><td>100.5</td><td>64.6</td><td>19.4 28.7</td><td>4.8</td><td>0.0</td></tr><tr><td>In percent of exports of goods and services</td><td>.1.9</td><td></td><td>6.9</td><td></td><td>6.3</td><td>5.7</td><td>5.3</td><td>4.6</td><td>3.4</td><td>2.2</td><td>1.7</td><td>0.7</td><td>0.1</td><td>0.0</td></tr><tr><td>In percent of debt service</td><td>37.2</td><td>5.8 77.7</td><td>100.7</td><td>70.2</td><td></td><td>66.4</td><td>63.4</td><td>63.4</td><td>40.6</td><td>28.0</td><td>17.1</td><td>7.2</td><td>1.2</td><td>0.0</td></tr><tr><td>In percent of quota In percent of gross official reserves</td><td>25.7</td><td>65.7 10.4</td><td>85.5 14.9</td><td>84.2</td><td></td><td>82.1</td><td>79.9</td><td>72.8</td><td>57.9</td><td>42.0</td><td>27.0</td><td>12.0</td><td>2.0</td><td>0.0</td></tr><tr><td></td><td>3.8</td><td></td><td></td><td></td><td>13.9</td><td>12.5</td><td>10.9</td><td>8.9</td><td>7.0</td><td>4.8</td><td>2.9</td><td>1.2</td><td>0.2</td><td>0.0</td></tr><tr><td> Memorandum items:</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td> Exports of goods and services (millions of US$)</td><td>3,330</td><td>2,706</td><td>2,945</td><td></td><td></td><td></td><td>3,619</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Debt service (millions of US$)</td><td>170</td><td>202</td><td>202</td><td>3,200</td><td>285</td><td>3,409 295</td><td>301</td><td>3.828 275</td><td>4,096 341</td><td>4,506</td><td>3,706</td><td>4,043 398</td><td>4,410</td><td>4,807 388</td></tr><tr><td>Quota (millions of SDRs)</td><td>162</td><td>162</td><td>162</td><td>162</td><td></td><td>162</td><td></td><td></td><td>162</td><td>359</td><td>377 162</td><td>162</td><td>398 162</td><td>162</td></tr><tr><td>Gross official reserves (millions of US$)</td><td>1.668</td><td>1,505</td><td>1,367</td><td>1,443</td><td></td><td></td><td>162</td><td>162</td><td>1.986</td><td>162 2.099</td><td>2,240</td><td>2.403</td><td>2.619</td><td>2.895</td></tr><tr><td>GDP (millions of US$)</td><td>13,350</td><td>12,510</td><td>13,167</td><td></td><td>14,042</td><td>1,561 15,068</td><td>1,745 16,176</td><td>1,952 17,321</td><td>18,579</td><td>19.949</td><td>21,428</td><td>23,019</td><td>24,737</td><td>26,592</td></tr></table></body></html>\n\n",
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "APPENDIX I ",
+        "text_level": 1,
+        "page_idx": 38
+    },
+    {
+        "type": "text",
+        "text": "LETTER OF INTENT ",
+        "text_level": 1,
+        "page_idx": 38
+    },
+    {
+        "type": "text",
+        "text": "Dakar, Senegal June 5, 2009 ",
+        "page_idx": 38
+    },
+    {
+        "type": "text",
+        "text": "Mr. Dominique Strauss-Kahn Managing Director International Monetary Fund $700~19^{\\mathrm{th}}$ Street, N.W. Washington, D.C., 20431 ",
+        "page_idx": 38
+    },
+    {
+        "type": "text",
+        "text": "Dear Mr. Strauss-Kahn, ",
+        "page_idx": 38
+    },
+    {
+        "type": "text",
+        "text": "1. The attached Memorandum of Economic and Financial Policies (MEFP) reviews implementation to date of the government of Senegal’s macroeconomic and structural program under the country’s three-year Policy Support Instrument (PSI), approved by the IMF Executive Board on November 2, 2007, and the Exogenous Shocks Facility (ESF) approved on December 19, 2008. Details of this program were set out in the initial MEFP of October 3, 2007 and in the MEFPs of May 30, 2008 and December 5, 2008. The attached MEFP builds on the previous Memoranda, with emphasis on measures and objectives for 2009. ",
+        "page_idx": 38
+    },
+    {
+        "type": "text",
+        "text": "2. The government requests the augmentation of the ESF from 30 to 75 percent of quota (SDR 121.35 million) and its extension from 12 to 18 months. Following the oil and food price shock in 2008, Senegal is being severely hit by the global economic crisis. The government is responding to the crisis through a wide range of measures geared at maintaining a prudent fiscal policy stance, preserving macroeconomic stability, and advancing structural reforms. ",
+        "page_idx": 38
+    },
+    {
+        "type": "text",
+        "text": "3. All except one quantitative assessment (performance) criteria for end-2008 and all quantitative indicative targets for end-March 2009 were met. Despite significant underspending, the basic fiscal balance ceiling could not be observed as a result of the sharp decline in tax revenue during the fourth quarter of 2008. The government has initiated corrective actions that should help prevent a recurrence in the future. As described in the attached MEFP, the government is pursuing an ambitious program of budget and tax administration reform and of strengthening tax compliance, including by companies in the energy sector. In light of these far-reaching structural measures and the circumstances of the nonobservance, the government requests a waiver for the missed criterion. ",
+        "page_idx": 38
+    },
+    {
+        "type": "text",
+        "text": "4. The government believes that the policies and measures set forth in the attached MEFP are sufficiently strong to achieve the objectives of the PSI program and ESF arrangement. It will promptly take any additional measures necessary for the achievement of the objectives of the program. The government will consult with the IMF—at its own initiative or whenever the Managing Director of the IMF requests such a consultation— before the adoption of any such measures or changes to the policies described in the attached Memorandum. ",
+        "page_idx": 39
+    },
+    {
+        "type": "text",
+        "text": "5. The government will provide the IMF with such information as the IMF may request in connection with the progress made in implementing the economic and financial policies and achieving the objectives of the program. ",
+        "page_idx": 39
+    },
+    {
+        "type": "text",
+        "text": "6. The government authorizes the IMF to publish this letter, the attached Memorandum, and the related Staff Report. ",
+        "page_idx": 39
+    },
+    {
+        "type": "text",
+        "text": "Sincerely yours, /s/ ",
+        "page_idx": 39
+    },
+    {
+        "type": "text",
+        "text": "Mamadou Abdoulaye Sow Minister of Budget ",
+        "page_idx": 39
+    },
+    {
+        "type": "text",
+        "text": "Attachments:  - Memorandum of Economic and Financial Policies (MEFP) - Technical Memorandum of Understanding (TMU) ",
+        "page_idx": 39
+    },
+    {
+        "type": "text",
+        "text": "ATTACHMENT I ",
+        "text_level": 1,
+        "page_idx": 40
+    },
+    {
+        "type": "text",
+        "text": "MEMORANDUM OF ECONOMIC AND FINANCIAL POLICIES ",
+        "text_level": 1,
+        "page_idx": 40
+    },
+    {
+        "type": "text",
+        "text": "Dakar, June 5, 2009 ",
+        "page_idx": 40
+    },
+    {
+        "type": "text",
+        "text": "I.   INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 40
+    },
+    {
+        "type": "text",
+        "text": "1. In an unfavorable external environment characterized by a serious global economic and financial crisis, the government remains determined to preserve macroeconomic stability, strengthen growth driven by the private sector in a sustainable way, and make rapid progress toward achieving the Millennium Development Goals (MDGs). To that end, the government will implement its economic and financial program, which is based on prudent macroeconomic policies and structural reforms. ",
+        "page_idx": 40
+    },
+    {
+        "type": "text",
+        "text": "2. The government has demonstrated a stringent and determined approach to overcoming its budget execution problems. The extent of these problems was uncovered in mid-2008 thanks to program measures. Decisive progress was made in correcting payment delays to the private sector and implementing ambitious reforms to improve the efficiency and transparency of public financial management. In this context, the government firmly believes that rigorous implementation of the economic program supported under the Policy Support Instrument (PSI) and Exogenous Shocks Facility (ESF), as described in the Memorandum of Economic and Financial Policies (MEFP) of December 5, 2008, should make it possible to regain the confidence of the private sector and strengthen ties with the donor community. The present MEFP describes recent economic developments, program performance, and the specific measures and objectives envisaged for the remainder of 2009. ",
+        "page_idx": 40
+    },
+    {
+        "type": "text",
+        "text": "II.   RECENT ECONOMIC DEVELOPMENTS AND PROGRAM PERFORMANCE ",
+        "text_level": 1,
+        "page_idx": 40
+    },
+    {
+        "type": "text",
+        "text": "3. Macroeconomic performance in 2008 was less positive than expected. This reflected an unfavorable international environment as well as domestic factors. ",
+        "page_idx": 40
+    },
+    {
+        "type": "text",
+        "text": "(a) Real GDP growth declined sharply, from 4.7 percent in 2007 to only 2.5 percent in 2008. The robust performance of the primary sector was due to a more active agricultural policy and favorable rainfall. The secondary sector registered a negative growth rate as a result of the delayed recovery of Industries Chimiques du Sénégal (ICS) and the negative effects of the government’s payment delays to the private sector. The tertiary sector, a traditional driving force of the Senegalese economy, also registered poorer results with a growth rate of 3.5 percent, down 3.5 percentage points from 2007; ",
+        "page_idx": 40
+    },
+    {
+        "type": "text",
+        "text": "(b) Consumer prices increased 5.8 percent on average. Inflationary pressures, however, declined towards the end of the year as a result of the drop in oil and food prices; ",
+        "page_idx": 40
+    },
+    {
+        "type": "text",
+        "text": "(c) The external current account deficit amounted to 12.3 percent of GDP. This represents a deterioration of 0.5 percent of GDP relative to 2007, primarily as a result of the increase in oil and food prices for the year as a whole. ",
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "4. All except one quantitative program criteria for end-2008 were met, and all indicative targets for end-March 2009 were observed. ",
+        "text_level": 1,
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "(a) At the close of the complementary period at end-February 2009, the budgetary float for the 2008 fiscal year had been reduced to CFAF 66 billion, against a program ceiling of CFAF 92 billion. At end-March 2009, the budgetary float amounted to CFAF 65 billion, below the ceiling of CFAF 80 billion; ",
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "(b) The government did not accumulate any external arrears;   \n(c) It did not contract or guarantee any nonconcessional borrowing since the second PSI review;   \n(d) It has not approved any Treasury advances since end-September 2008, as it has executed budget expenditure according to the normal and simplified procedures; ",
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "(e) It reduced single-tender contracts to only 6 percent of all government procurement in the fourth quarter of 2008 and 14 percent in the first quarter of 2009 (compared to a program ceiling of 20 percent); ",
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "(f) However, the basic fiscal balance ceiling could not be observed as a result of a sharp decline in budget revenue during the fourth quarter of 2008. The basic fiscal deficit amounted to CFAF 50 billion, compared to a program ceiling of CFAF 21 billion. Preliminary data indicate that the basic fiscal balance indicative target for end-March 2009 was observed. ",
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "5. Significant progress was also made regarding structural reforms. All structural assessment criteria were met. Delays, however, were observed in the completion of two audits that are structural benchmarks, as a result of the need to use time-consuming bidding procedures and obtain financing. ",
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "(a) A decree was adopted establishing a timetable and method for budget preparation (structural assessment criterion). The new procedures will be applied for the first time in the preparation of the 2010 budget; ",
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "(b) The system for reopening and carrying-over budgetary appropriations, which was excessively complex and overused, was redefined and simplified by decree (structural assessment criterion); ",
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "(c) The 2008 budget and accounting year was closed by the regulatory deadline and the budget execution data residing in the integrated expenditure tracking system (SIGFIP) were frozen and published by end-April 2009 (structural assessment criterion). This was made possible by respecting the end of the complementary period, i.e., no payment orders were issued and therefore no payment orders were accepted by the Treasury after February 28, 2009; ",
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 42
+    },
+    {
+        "type": "text",
+        "text": "(d) An implementation decree for the new law on microfinance institutions was adopted (structural benchmark). This decree should strengthen financial intermediation and lead to better access to credit; ",
+        "page_idx": 42
+    },
+    {
+        "type": "text",
+        "text": "(e) To protect the integrity and performance of the tax system, memoranda of understanding were adopted to specify the respective rights and duties of the investment promotion agency (APIX), the Directorate General of Taxes and Property (DGID) and the Directorate General of Customs (DGD), regarding the management of the Dakar Integrated Special Economic Zone (DISEZ) (structural benchmark); ",
+        "page_idx": 42
+    },
+    {
+        "type": "text",
+        "text": "(f) Following the audit by the Financial Audit Inspectorate (IGF), an independent external audit is analyzing the conditions under which extrabudgetary expenditure had been undertaken (structural benchmark). The external auditor’s progress report identified the total amount of such commitments at CFAF 73 billion, broadly in line with earlier estimates. The completion of the audit has been delayed and the audit is expected to be completed in June 2009 as the bidding procedures to select an auditing company required more time than foreseen; ",
+        "page_idx": 42
+    },
+    {
+        "type": "text",
+        "text": "(g) For the same reasons, as well as on account of a delay in mobilizing financing from the World Bank, the first audit report of the procurement regulatory agency (ARMP) has not yet been completed (structural benchmark), but the audit was launched. The preliminary reports from the selected firms are expected in September 2009. The reports will help enhance budget transparency and governance and assist in assessing the operation of the new government procurement framework. The decree to determine the modalities of recruitment, status and powers of the ARMP investigative unit agents was adopted in late May 2009, and the first quarterly surveys have been launched. ",
+        "page_idx": 42
+    },
+    {
+        "type": "text",
+        "text": "III.   MACROECONOMIC POLICIES FOR 2009–10 ",
+        "text_level": 1,
+        "page_idx": 42
+    },
+    {
+        "type": "text",
+        "text": "6. Despite a highly unfavorable international context, economic activity can be expected to increase slightly in 2009, with a growth rate of about 3 percent. The projection assumes that the problem of government payment delays will be resolved and ICS output will accelerate. A low level of inflation (0.8 percent) is expected owing to the decline in oil and food prices, while the current account deficit is projected at 11.8 percent of GDP. ",
+        "page_idx": 42
+    },
+    {
+        "type": "text",
+        "text": "7. These projections are subject to substantial risks. Unfavorable developments in the international environment could negatively affect these projections. Declines in ",
+        "page_idx": 42
+    },
+    {
+        "type": "text",
+        "text": "remittances, official aid, exports, and/or foreign direct investment would have a negative impact on economic growth. ",
+        "page_idx": 43
+    },
+    {
+        "type": "text",
+        "text": "A.   Elimination of Payment Delays ",
+        "text_level": 1,
+        "page_idx": 43
+    },
+    {
+        "type": "text",
+        "text": "8. The government respected its commitment to resolve the problem of domestic unpaid bills. It decisively eliminated most payment delays in the regular expenditure chain through mobilization of resources in the West African Economic and Monetary Union (WAEMU) financial market, support from donors, and prudent and rigorous public expenditure management. At end-March 2009, the budgetary float was CFAF 65 billion, CFAF 15 billion below the program ceiling. The budgetary float will continue to decline to CFAF 45 billion by end-June 2009 (revised quantitative assessment (performance) criterion). This will make it possible to normalize relations with government suppliers once and for all, improve the business climate in key economic sectors such as construction, and lay the foundation for higher economic growth and protecting financial sector soundness. ",
+        "page_idx": 43
+    },
+    {
+        "type": "text",
+        "text": "B.   Fiscal Policy Stance ",
+        "text_level": 1,
+        "page_idx": 43
+    },
+    {
+        "type": "text",
+        "text": "9. The government will maintain a prudent fiscal policy to preserve debt sustainability, limit demand pressures, and avoid crowding out the private sector. In this connection, the government reiterates its commitment to limit the overall fiscal deficit to 4 percent of GDP over the medium term. ",
+        "page_idx": 43
+    },
+    {
+        "type": "text",
+        "text": "10. Fiscal policy in 2009 will strike a balance between the needs to sustain economic activity in an unfavorable international context and constrain expenditure so as to stay within available resources and limit the risk of a new accumulation of payment delays to the private sector. To this end, the government will limit the overall fiscal deficit to $4\\%$ percent of GDP in 2009, while compensating the expected shortfall in revenue relative to the initial budget law with proceeds from the privatization of Hôtel Méridien and a bank loan collateralized with shares of the telecommunications company Sonatel. The government will closely monitor economic conditions and their fiscal impact, particularly with respect to revenue collection. The targeted overall fiscal deficit for 2009 corresponds to a revised basic fiscal deficit of CFAF 60 billion at end-June 2009 and CFAF 119 billion at endDecember 2009 (revised quantitative assessment (performance) criteria). ",
+        "page_idx": 43
+    },
+    {
+        "type": "text",
+        "text": "11. In line with commitments in the previous Memorandum, the government has submitted a supplementary budget to Parliament (prior action). It has the following objectives: (i) preserving the budgetary equilibrium given lower than programmed tax collections and based on the macroeconomic framework agreed with IMF staff; (ii) amending the budget to incorporate reopened and carried-forward appropriations from the 2008 budget; and (iii) changing investment priorities and include appropriations for the Dakar-Diamniadio toll highway (CFAF 55 billion), thus enabling the government to meet its commitments to the private and development partners. The project’s rate of return and its strategic importance as a prerequisite for the success of DISEZ and the new airport project (AIDB) made this reprioritization necessary. ",
+        "page_idx": 43
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 44
+    },
+    {
+        "type": "text",
+        "text": "12. Budget execution will consider the composition of expenditure and protect social and capital outlays. In the current unfavorable economic climate, it is essential to protect social expenditure to ensure more rapid progress towards the MDGs. Accordingly, this spending will be increased from 33 percent to 40 percent of total expenditure between now and 2010 (PRSP objective). Moreover, after a sharp decline in 2008 as a result of the fiscal adjustment to settle payment delays, public investment will increase by 0.4 percent of GDP over 2008 levels to 10.4 percent of GDP in 2009. ",
+        "page_idx": 44
+    },
+    {
+        "type": "text",
+        "text": "13. To ensure debt sustainability, the government will continue to abide by the general principle of not contracting or guaranteeing external borrowing on nonconcessional terms. To supplement resources from donors and the private partner, a loan of CFAF 80 billion earmarked for the Dakar-Diamniadio toll highway will be mobilized during 2009 (quantitative assessment (performance) criterion); the timing of financial market access will depend on international market developments. The government will consult with IMF staff well in advance regarding any other exceptions to this program criterion. In line with previous commitments, debt management will  be strengthened and include the updating of the rolling two-year government issuance calendar on a quarterly basis or after each issuance, in cooperation with the Central Bank of West African States (BCEAO). The semiannual public debt sustainability analysis will include a risk assessment for contingent liabilities arising from guarantees issued by the government to Public-Private Partnerships (PPPs) and operations of public enterprises. ",
+        "page_idx": 44
+    },
+    {
+        "type": "text",
+        "text": "IV.   STRUCTURAL REFORMS ",
+        "text_level": 1,
+        "page_idx": 44
+    },
+    {
+        "type": "text",
+        "text": "A.   Budget Reforms ",
+        "text_level": 1,
+        "page_idx": 44
+    },
+    {
+        "type": "text",
+        "text": "14. The government is committed to pursuing its ambitious budget reforms to build on the substantial progress that has already been made. These reforms, which are based on an overall fiscal reform program—specifically the IMF technical assistance report and the work of the budget support group of donors, are essential to enhance budget efficiency and transparency, and could also help protect macroeconomic stability. The following measures aim to meet these objectives. ",
+        "page_idx": 44
+    },
+    {
+        "type": "text",
+        "text": "15. The government will limit expenditures that are not subject to firm spending limits (crédit évaluatif). An improved estimation methodology will be developed for such spending and current services (services votés). This will help contain spending pressures, enhance public expenditure control, and maintained budgetary balance. Estimated appropriations will be limited to the categories listed in Article 11 of the organic law: debt service, legal expenses and compensation deriving from court decisions, tax relief and repayments, and will not include, under any circumstances, other expenditures except (i) salaries and fringe benefits, (ii) taxes on externally-financed government procurement, and (iii) embassy leases. Thus, the special budget law annex stipulated by Article 11 of the organic law will only include these three expenditure categories. ",
+        "page_idx": 44
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 45
+    },
+    {
+        "type": "text",
+        "text": "16. The presentation of the budget will be improved to make it more flexible and information more understandable and transparent by moving towards international best practices. To that end, the following adjustments will be made to the budget documentation associated with the 2010 budget law to be submitted to Parliament by October 15, 2009 (structural benchmark): ",
+        "page_idx": 45
+    },
+    {
+        "type": "text",
+        "text": "(a) In addition to the currently calculated fiscal deficit, the first part of the budget law will present the standard concept of the overall fiscal deficit (not including resources from loans and principal repayments), according to the standards of the Government Finance Statistics Manual; ",
+        "page_idx": 45
+    },
+    {
+        "type": "text",
+        "text": "(b) Budget execution data for the past year and the first six months of the current year will be presented in detailed revenue and expenditure tables; ",
+        "page_idx": 45
+    },
+    {
+        "type": "text",
+        "text": "(c) To increase flexibility in budget execution, as provided in Article 9 and 12 of the organic law, the budget will reserve five percent of total appropriations (excluding externallyfinanced capital expenditure and wages) in a contingency expenditure line (dépenses imprévues ou accidentelles) under shared costs (charges communes); ",
+        "page_idx": 45
+    },
+    {
+        "type": "text",
+        "text": "(d) An annex required for Parliament’s information and oversight will present budget execution and forecast data (on expenditure and revenue) for each agency, para-public sector enterprise, and any other public body receiving budgetary allocations of more than CFAF 5 billion. The government will also provide this information in future budget laws. ",
+        "page_idx": 45
+    },
+    {
+        "type": "text",
+        "text": "17. To improve fiscal accounting, the government undertakes to enhance the SIGFIP system and expand its coverage of budget operations. ",
+        "text_level": 1,
+        "page_idx": 45
+    },
+    {
+        "type": "text",
+        "text": "(a) SIGFIP will be audited to improve its efficiency, enhance the reliability of real-time data, expand its coverage of budget operations, and facilitate production of the government financial operations table (TOFE). To this end, the government has launched a bidding procedure for an external audit. This audit, which will be completed by end-September 2009, will focus on an examination of the budget execution database and the production of output tables covering several years, based on the terms of reference agreed with IMF staff (structural benchmark); ",
+        "page_idx": 45
+    },
+    {
+        "type": "text",
+        "text": "(b) SIGFIP workstations will be installed in the General Administration and Supplies Directorate (DAGE) and the General Administration and Supplies Service (SAGE) in ministries and institutions so as to enhance the monitoring of budget execution. ",
+        "page_idx": 46
+    },
+    {
+        "type": "text",
+        "text": "18. The government is committed to using SIGFIP and the ASTER accounting software as complementary information instruments to improve fiscal and accounting operations and make the production of the financial operations table (TOFE) more reliable. The IMF will provide technical assistance for that purpose. The interface between SIGFIP and ASTER will strengthen the linkages between fiscal and accounting operations and facilitate preparation of the general account of the financial administration, thereby shortening the time required to prepare the final budget laws (lois de règlement). The government is aware that the SIGFIP-ASTER interface is an essential operation to reinforce the expenditure chain and undertakes to complete it, with as a prerequisite the rollout of the ASTER system at all accounting workstations. The ASTER fiscal accounting module will be operational from end-October 2009 (structural benchmark). The auxiliary expenditure accounting modules (CAD) and auxiliary revenue accounting modules (CAR) will be operational by end-2009. To press ahead with these reforms, a high-level information systems steering committee will be established within the Ministry of Finance. ",
+        "page_idx": 46
+    },
+    {
+        "type": "text",
+        "text": "19. The external audit of extrabudgetary commitments supplemented the analysis of the IGF audit. Based on the results of the external audit, the government will decide by endJuly 2009 on the amounts it intends to (i) propose to Parliament for regularization in the 2010 budget and (ii) reject as invalid claims that will not be paid (structural benchmark). The government will also impose penalties on appropriations administrators who illegally created a liability for the government. Moreover, such appropriations administrators, who are liable for knowingly undertaking expenditure commitment and execution in excess of established appropriations, will brought before the financial disciplinary chamber of the Audit Court. ",
+        "page_idx": 46
+    },
+    {
+        "type": "text",
+        "text": "B.   Tax Administration ",
+        "text_level": 1,
+        "page_idx": 46
+    },
+    {
+        "type": "text",
+        "text": "20. The excellent performance of the Senegalese tax system must be preserved. The resolution of the government’s payment delays and transfer of direct tax collection from the Treasury to the DGID can be expected to strengthen revenue collection. The government, however, is aware that, during crisis periods, the tax administration must intensify its efforts because enterprises and taxpayers may have difficulties paying their tax debts and the risk of tax evasion rises. ",
+        "page_idx": 46
+    },
+    {
+        "type": "text",
+        "text": "21. The government will report the basis for, and current level of, tax expenditures by end-September 2009 (structural benchmark). Indications are that exemptions and other forms of tax expenditure have accelerated substantially in recent years. The current stability and performance of the Senegalese tax system could be jeopardized if the way such measures are adopted and implemented is not evaluated. An assessment of tax expenditures aimed at enhancing the fairness, performance, and integrity of the tax system would therefore be useful. The study, overseen by the tax administration, will be conducted in collaboration with the customs administration and economic forecasting and statistics agencies. The study’s objective, to be specified in the terms of reference that will be agreed with IMF staff, will be to assess the financial cost of tax expenditures and any economic and/or social impact they may have. Based on the study, the 2010 budget will include a report highlighting key tax expenditures and indicate for each its public policy objectives, duration, and beneficiaries. ",
+        "page_idx": 46
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 47
+    },
+    {
+        "type": "text",
+        "text": "C.   Energy Sector ",
+        "text_level": 1,
+        "page_idx": 47
+    },
+    {
+        "type": "text",
+        "text": "22. The current energy sector reform aims to improve the security of the country's energy supply, conserve energy, and limit budgetary risks. The government will apply the principle of market-based pricing and implement energy saving and efficiency measures. In support of this program, the government will: ",
+        "page_idx": 47
+    },
+    {
+        "type": "text",
+        "text": "(a) Modify the electricity price structure every three months and adjust the institutional price- setting process. SENELEC will not obtain any compensation from the government for insufficient price adjustment; ",
+        "page_idx": 47
+    },
+    {
+        "type": "text",
+        "text": "(b) Complete the recapitalization of SENELEC by end-June 2009. CFAF 7 billion has been appropriated for that purpose; ",
+        "page_idx": 47
+    },
+    {
+        "type": "text",
+        "text": "(c) In light of SENELEC’s substantial tax arrears in 2008, ensure that SENELEC's tax obligations are included in the company's financial equilibrium calculations and tax payments transferred regularly (at least quarterly) to the government; ",
+        "page_idx": 47
+    },
+    {
+        "type": "text",
+        "text": "(d) In accordance with the government's energy sector reform program, carry out an unbundling  of SENELEC's activities (production, transportation, and distribution) by endOctober 2009 and offer equity stakes in SENELEC's subsidiaries and holding company to the private sector by end-March 2010. An investment bank will be selected as a consultant for these transactions by end-November 2009; ",
+        "page_idx": 47
+    },
+    {
+        "type": "text",
+        "text": "(e) Eliminate the butane gas subsidy by end-June 2009. In the interim, butane gas prices will be adjusted so that the total subsidy is limited to CFAF 6.5 billion in 2009; ",
+        "page_idx": 47
+    },
+    {
+        "type": "text",
+        "text": "(f) Transform the existing Fonds de Sécurisation des Importations de Produits Pétroliers (FSIPP) into a Fonds de Sécurisation des Approvisionnements en Produits Pétroliers (FSAPP) that will exist for three years. This is to allow the full repayment of the remaining debt of CFAF 27 billion of the petroleum refinery (SAR) and to urgently finance, through the budget, CFAF 10 billion needed for logistics and other investments in SAR, and for investments in the supply of hydrocarbon products; ",
+        "page_idx": 47
+    },
+    {
+        "type": "text",
+        "text": "(g) Use the FSIPP’s financing mechanism for the FSAPP and strengthen its management, control and reporting aspects. In addition, the government is committed to adopt, by end",
+        "page_idx": 47
+    },
+    {
+        "type": "text",
+        "text": "October 2009, all the necessary provisions (legal, regulatory and/or administrative) to transfer the FSAPP collection from SAR to the DGID and ensure transparent monitoring and improved accounting. The DGID will exert control over the FSAPP, including with respect to the financial flows between other oil companies and SAR. To this end: (i) the FSAPP revenues related to imported finished petroleum products will be collected by the DGID directly from oil companies and deposited in a Treasury account; (ii) the FSAPP revenues related to refinery operations will be collected by SAR and transferred to the DGID, which will deposit the funds in a pledged Treasury account at the BCEAO; (iii) the FSAPP revenues collected on refinery operations will be used for investments in the petroleum sector and SAR; and (iv) any subsidy or transfer to SAR, or any strategic investment in the petroleum sector considered important by the government (such as strengthening SAR’s refinery capacities, installing the sea line, etc.) will be transparently reflected in the state budget and be subject to government procurement rules (structural benchmark). SAR’s reform will be carried out with support from donors and lenders. ",
+        "page_idx": 48
+    },
+    {
+        "type": "text",
+        "text": "D.   Private Sector Development ",
+        "text_level": 1,
+        "page_idx": 48
+    },
+    {
+        "type": "text",
+        "text": "23. The government is determined to establish a business environment on par with international standards. It undertakes to expedite reforms recommended by the Presidential Council on Investment (CPI) in November 2008 and incorporated in its monitoring committee's action plan. The government specifically agrees to achieve the following as soon as possible: ",
+        "page_idx": 48
+    },
+    {
+        "type": "text",
+        "text": "(a) Improved efficiency in the commercial justice system, by providing courts with the resources required for the expeditious handling of economic disputes and through implementation of a dozen administrative measures already identified in connection with the start of a new high-level court; ",
+        "page_idx": 48
+    },
+    {
+        "type": "text",
+        "text": "(b) Reduction of delays in the transfer of property rights as specified in office memoranda issued in April 2008, and reduction in the cost of such transfers; ",
+        "page_idx": 48
+    },
+    {
+        "type": "text",
+        "text": "(c) Extension of possibilities to renew fixed-term labor contracts; ",
+        "page_idx": 48
+    },
+    {
+        "type": "text",
+        "text": "(d) Adoption and effective implementation of the circular from the Prime Minister reducing the time it takes to issue construction permits and hook up water, sanitation, electricity, and telephones; ",
+        "page_idx": 48
+    },
+    {
+        "type": "text",
+        "text": "(e) Improving the Doing Business cross-border trade indicator by: (i) completing the 24- hour operation of port services initiated in January 2008; (ii) liberalizing container transport; (iii) fully deploying the portable customs computer system (GAINDE) and its interconnection with the Orbus system; (iv) testing and rolling out telepayment operations with the Corus system; and (v) having customs declarations filed prior to a ship's arrival through the electronic acceptance of manifests; ",
+        "page_idx": 48
+    },
+    {
+        "type": "text",
+        "text": "(f) Holding the second national forum on credit by end-2009, followed by implementation of its recommendations according to a timetable to be agreed. ",
+        "page_idx": 49
+    },
+    {
+        "type": "text",
+        "text": "E.   Financial Sector Reforms ",
+        "text_level": 1,
+        "page_idx": 49
+    },
+    {
+        "type": "text",
+        "text": "24. The government recognizes that the financial sector was under substantial pressure at end-2008. The government's payment delays to the private sector worsened banks' credit risk by impeding business activity and affected liquidity in the banking sector. Even though these tensions have subsided, the financial sector could sustain the negative effects of the world financial crisis in the medium term. ",
+        "page_idx": 49
+    },
+    {
+        "type": "text",
+        "text": "25. Against this backdrop, the authorities are determined to make every effort to maintain stability in the financial sector. In particular, they undertake to: ",
+        "page_idx": 49
+    },
+    {
+        "type": "text",
+        "text": "(a) Continue to monitor closely, as part of their normal duties, solvency and liquidity in the banking sector, including by analyzing bank assets and liabilities, the nature and concentration of financing sources, liquidity relationships with parent companies or establishments from the same group abroad, and the overall liquidity situation. They will also intensify exchanges between themselves, the WAEMU authorities, and supervisors from foreign institutions with a presence in Senegal; ",
+        "page_idx": 49
+    },
+    {
+        "type": "text",
+        "text": "(b) Focus on macro-financial risks arising from financing linkages between the government, private sector, and financial system. The BCEAO will intensify consultations with the government and banks to anticipate financing and cash requirements of the government and private sector. In this context, the government will regularly update its projected recourse to the financial sector, as indicated above, and the BCEAO will continue to provide adequate liquidity to the banking system to support the sound financing of the economy; ",
+        "page_idx": 49
+    },
+    {
+        "type": "text",
+        "text": "(c) Closely monitor, in consultation with the central bank, the enactment of new minimum capital rules by end-2010; ",
+        "page_idx": 49
+    },
+    {
+        "type": "text",
+        "text": "(d) Further strengthen capacity and resources of the directorate in charge of regulation and supervision of microfinance institutions within the Ministry of Economy and Finance; ",
+        "page_idx": 49
+    },
+    {
+        "type": "text",
+        "text": "(e) Accelerate implementation of the recommendations of the Financial Sector Assessment Program, jointly with the authorities of the Union. ",
+        "page_idx": 49
+    },
+    {
+        "type": "text",
+        "text": "26. Finally, the government undertakes to improve the institutional, legal, and operational environment for private sector financing. This will enhance household access to credit and financial intermediation and include: ",
+        "page_idx": 49
+    },
+    {
+        "type": "text",
+        "text": "(a) Implementation of an action plan to increase the rate of bank penetration to 20 percent by end-2012 through, inter alia, promotion of noncash means of payment by the government; ",
+        "page_idx": 50
+    },
+    {
+        "type": "text",
+        "text": "(b) Establishment of a supportive legal framework for credit information bureaus; (c) Finalization of legislation governing venture capital to promote start-up and growth financing for innovative small- and medium-sized enterprises. ",
+        "page_idx": 50
+    },
+    {
+        "type": "text",
+        "text": "V.   PROGRAM MONITORING ",
+        "text_level": 1,
+        "page_idx": 50
+    },
+    {
+        "type": "text",
+        "text": "27. Quantitative assessment (performance) criteria for end-June 2009 and end-December 2009 and quantitative indicators for end-September 2009 were set to monitor program implementation in 2009 (see Table 1 in the technical memorandum of understanding (TMU) below). The government and IMF staff also agreed on the prior actions and structural benchmarks listed in Table 2 of the TMU. The fourth PSI review and second ESF review are to take place by end-December 2009, and the fifth PSI review and the third ESF review are to take place by end-June 2010. ",
+        "page_idx": 50
+    },
+    {
+        "type": "text",
+        "text": "ATTACHMENT II ",
+        "text_level": 1,
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "TECHNICAL MEMORANDUM OF UNDERSTANDING",
+        "text_level": 1,
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "Dakar, June 5, 2009 ",
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "1. This technical memorandum of understanding (TMU) defines the quantitative assessment (performance) criteria, indicative targets, and structural benchmarks on the basis of which the implementation of the Fund-supported program under the Policy Support Instrument (PSI) will be monitored in 2009. The quantitative program targets will also serve as performance criteria under the ESF. The TMU also establishes the terms and timeframe for transmitting the data that will enable Fund staff to monitor program implementation. ",
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "I. PROGRAM CONDITIONALITY ",
+        "text_level": 1,
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "2. The quantitative assessment (performance) criteria for June 30, 2009 and December 31, 2009 and the quantitative indicative targets for September 30, 2009, are shown in Table 1. The prior actions and structural benchmarks established under the program are presented in Table 2. ",
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "II. DEFINITIONS, ADJUSTERS, AND DATA REPORTING ",
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "A.  The Government ",
+        "text_level": 1,
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "3. Unless otherwise specified below, the government is defined as the central administration of the Republic of Senegal and does not include any local administration, the central bank, or any government-owned entity with a separate legal personality (e.g., public universities and hospitals). ",
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "B.  Basic Fiscal Balance (Program Definition) ",
+        "text_level": 1,
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "Definition ",
+        "text_level": 1,
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "4. The basic fiscal balance (program definition) is the difference between the government’s budgetary revenue and total expenditure and net lending, excluding externallyfinanced capital expenditure (financed by donors), drawings on on-lent loans (except on-lent loans to the energy sector financed through donor budget support), and expenditure funded with HIPC- and MDRI-related resources. Budgetary revenue excludes privatization receipts and sales of mobile telephone licenses or other government assets. Government expenditure is defined on the basis of payment orders accepted by the Treasury (dépenses prises en charge par le Trésor). The assessment (performance) criterion is set as a floor on the cumulative basic fiscal balance since the beginning of the year. ",
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "Example ",
+        "text_level": 1,
+        "page_idx": 52
+    },
+    {
+        "type": "text",
+        "text": "5. The floor for the basic balance (program definition) as at June 30, 2009 is minus CFAF 60 billion. It is calculated as the difference between budgetary revenue (CFAF 601 billion) and total expenditure and net lending (CFAF 823 billion), excluding externally financed capital expenditure (CFAF 124 billion), drawings on on-lent loans (CFAF 5 billion), and expenditure funded with HIPC- and MDRI-related resources (CFAF 33 billion). ",
+        "page_idx": 52
+    },
+    {
+        "type": "text",
+        "text": "Reporting requirements ",
+        "text_level": 1,
+        "page_idx": 52
+    },
+    {
+        "type": "text",
+        "text": "6. During the program period, the authorities will report monthly to Fund staff provisional data on the basic fiscal balance (program definition) and its components with a lag of no more than 30 days. Data on revenues and expenditure that are included in the calculation of the basic fiscal balance, and on expenditure financed with HIPC- and MDRIrelated resources, will be drawn from preliminary treasury account balances. Final data will be provided as soon as the final balances of the treasury accounts are available, but not later than two months after the reporting of the provisional data. ",
+        "page_idx": 52
+    },
+    {
+        "type": "text",
+        "text": "C.  Budgetary Float ",
+        "text_level": 1,
+        "page_idx": 52
+    },
+    {
+        "type": "text",
+        "text": "Definition ",
+        "text_level": 1,
+        "page_idx": 52
+    },
+    {
+        "type": "text",
+        "text": "7. The budgetary float (instances de paiement) is defined as the outstanding stock of government expenditure for which bills have been received and validated but not yet paid by the Treasury (the difference between dépenses liquidées and dépenses payées). The assessment (performance) criterion is set as a ceiling on the budgetary float, monitored at the end of the quarter. ",
+        "page_idx": 52
+    },
+    {
+        "type": "text",
+        "text": "Reporting requirements ",
+        "text_level": 1,
+        "page_idx": 53
+    },
+    {
+        "type": "text",
+        "text": "8. The authorities will report to Fund staff on a weekly basis (i.e., at the end of each week), and at the end of each month, a table from the expenditure tracking system (SIGFIP) showing all committed expenditures (dépenses engagées), all certified expenditures that have not yet been cleared for payment (dépenses liquidées non encore ordonnancées), all payment orders (dépenses ordonnancées), all payment orders accepted by the Treasury (dépenses prises en charge par le Trésor), and all payments made by the Treasury (dépenses payées). The SIGFIP table will exclude delegations for regions and embassies and treasury advances (separating regularized and nonregularized), which will be provided in a separate table. The SIGFIP table will also list any payments that do not have a cash impact on the Treasury accounts. ",
+        "page_idx": 53
+    },
+    {
+        "type": "text",
+        "text": "D.  Spending Undertaken Outside of Simplified and Normal Procedures ",
+        "text_level": 1,
+        "page_idx": 53
+    },
+    {
+        "type": "text",
+        "text": "9. This criterion is applied on a continuous basis to any procedure other than simplified and normal procedures to execute spending, including in particular Treasury advances. It only excludes spending undertaken on the basis of an advance decree for absolute urgency and need in the national interest, based on Article 12 of the Organic Budget Law. Such spending requires signatures by the President and Prime Minister. The criterion is monitored effective the time of the second PSI review. ",
+        "page_idx": 53
+    },
+    {
+        "type": "text",
+        "text": "10. The authorities will report to Fund staff on a monthly basis and with a maximum delay of 30 days any such procedure, together with the SIGFIP table defined in paragraph 8. ",
+        "page_idx": 53
+    },
+    {
+        "type": "text",
+        "text": "E.  Government External Payment Arrears ",
+        "text_level": 1,
+        "page_idx": 53
+    },
+    {
+        "type": "text",
+        "text": "Definition ",
+        "text_level": 1,
+        "page_idx": 53
+    },
+    {
+        "type": "text",
+        "text": "11. External payment arrears are defined as the sum of payments owed and not paid on the external debt contracted or guaranteed by the government. The definition of external debt given in paragraph 13 is applicable here. The assessment (performance) criterion on external payment arrears will be monitored on a continuous basis. ",
+        "page_idx": 53
+    },
+    {
+        "type": "text",
+        "text": "Reporting requirements ",
+        "text_level": 1,
+        "page_idx": 53
+    },
+    {
+        "type": "text",
+        "text": "12. The authorities will report to Fund staff any accumulation in external payment arrears as soon as the due date is passed. ",
+        "page_idx": 53
+    },
+    {
+        "type": "text",
+        "text": "F.  Contracting or Guaranteeing of New Nonconcessional External Debt by the Government ",
+        "text_level": 1,
+        "page_idx": 54
+    },
+    {
+        "type": "text",
+        "text": "Definition ",
+        "text_level": 1,
+        "page_idx": 54
+    },
+    {
+        "type": "text",
+        "text": "13. This assessment (performance) criterion applies not only to debt as defined in Point No. 9 of the Guidelines on Performance Criteria with Respect to Foreign Debt (Executive Board Decision No. 6230-(79/140), last amended by Executive Board Decision No. 12274- (00/85), adopted August 24, 2000, but also to commitments contracted or guaranteed by the government for which funds have not been received. The criterion does not apply to: ",
+        "page_idx": 54
+    },
+    {
+        "type": "text",
+        "text": "(i) CFAF debt contracted or guaranteed by the government with WAEMU residents; (ii) CFAF debt initially contracted or guaranteed by the government with WAEMU residents subsequently acquired by nonresidents; ",
+        "page_idx": 54
+    },
+    {
+        "type": "text",
+        "text": "(iii) CFAF government or government-guaranteed debt where the agreement is between the government and a resident WAEMU entity and there is no ensuing contractual obligation between the government and a nonresident entity, regardless of whether the resident WAEMU entity resells the debt to a nonresident; ",
+        "page_idx": 54
+    },
+    {
+        "type": "text",
+        "text": "(iv) debt rescheduling transactions of debt existing at the time of the approval of the PSI; and ",
+        "page_idx": 54
+    },
+    {
+        "type": "text",
+        "text": "(v) external debt contracted by the airport project company (AIDB) to finance construction of the new Dakar Airport. ",
+        "page_idx": 54
+    },
+    {
+        "type": "text",
+        "text": "14. This criterion is measured on a cumulative basis since the approval of the second program review and applies continuously. The ceiling is raised to accommodate CFAF 80 billion to finance exclusively the Dakar-Diamniadio toll highway project. No adjuster will apply to this criterion. ",
+        "page_idx": 54
+    },
+    {
+        "type": "text",
+        "text": "15. For purposes of this assessment (performance) criterion, government is understood to include the government as defined in paragraph 3 above, as well as public institutions of an industrial and commercial nature (EPIC), public administrative institutions (EPA), public institutions of a scientific and technical nature, public institutions of a professional nature, public health institutions, local administrations, public enterprises, and government-owned or controlled independent companies (sociétés nationales) (i.e., public enterprises with financial autonomy where the government holds at least 50 percent of the capital), and government agencies. ",
+        "page_idx": 54
+    },
+    {
+        "type": "text",
+        "text": "16. Any external debt of which the present value, calculated with the reference interest rates mentioned hereafter, is greater than 65 percent of the nominal value (grant element of less than 35 percent) is considered nonconcessional, with the exception of IMF lending. For debt with a maturity of more than 15 years, the ten-year reference market interest rate, published by the OECD, is used to calculate the grant element. The six-month reference market rate is used for debt with shorter maturities. ",
+        "page_idx": 54
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 55
+    },
+    {
+        "type": "text",
+        "text": "Reporting requirements ",
+        "text_level": 1,
+        "page_idx": 55
+    },
+    {
+        "type": "text",
+        "text": "17. The government will report any new external borrowing and its terms to Fund staff as soon as external debt is contracted or guaranteed by the government. ",
+        "page_idx": 55
+    },
+    {
+        "type": "text",
+        "text": "G.  Public Sector Contracts Signed by Single Tender ",
+        "text_level": 1,
+        "page_idx": 55
+    },
+    {
+        "type": "text",
+        "text": "Definition ",
+        "text_level": 1,
+        "page_idx": 55
+    },
+    {
+        "type": "text",
+        "text": "18. Public sector contracts are administrative contracts, drawn up and entered into by government entities subject to the procurement code, for the procurement of supplies, delivery of services, or execution of work. Public sector contracts are considered singletender contracts when the contracting agent signs the contract with the chosen contractor without competitive tender or award. The quarterly indicative target will apply to public sector contracts examined by the Direction Centrale des Marchés Publics (DCMP). ",
+        "page_idx": 55
+    },
+    {
+        "type": "text",
+        "text": "Reporting requirements ",
+        "text_level": 1,
+        "page_idx": 55
+    },
+    {
+        "type": "text",
+        "text": "19. The government will report quarterly to Fund staff, with a lag of no more than one month from the end of the observation period, the total value of contracts signed by all ministries and agencies and the total value of all single-tender contracts signed by these ministries and agencies. ",
+        "page_idx": 55
+    },
+    {
+        "type": "text",
+        "text": "III. ADDITIONAL INFORMATION FOR PROGRAM MONITORING ",
+        "text_level": 1,
+        "page_idx": 55
+    },
+    {
+        "type": "text",
+        "text": "20. The authorities will report to Fund staff the following, with the maximum time lags indicated: ",
+        "page_idx": 55
+    },
+    {
+        "type": "text",
+        "text": "(a) Effective immediately: any decision, circular, edict, decree, ordinance, or law having economic or financial implications for the current program; ",
+        "page_idx": 55
+    },
+    {
+        "type": "text",
+        "text": "(b) With a maximum lag of 30 days, preliminary data on: Tax receipts and tax and customs assessments by categories, accompanied by the corresponding revenue collected by the Treasury on a monthly basis; The monthly amount of expenditures committed, certified, and for which payment orders have been issued; The quarterly report of the Debt and Investment Directorate (DDI) on execution of investment programs; ",
+        "page_idx": 55
+    },
+    {
+        "type": "text",
+        "text": "The monthly preliminary government financial operations table (TOFE), based on the Treasury accounts (balances de compte);   \nThe provisional balance of the Treasury accounts; and   \nA reconciliation table between the fiscal reporting table (TOFE), the Treasury accounts (identifying the relevant accounts and amounts), the net government position (NGP), and the SIGFIP on a quarterly basis. ",
+        "page_idx": 56
+    },
+    {
+        "type": "text",
+        "text": "(c) Final data will be provided as soon as the final balances of the treasury accounts are available, but not later than one month after the reporting of provisional data. ",
+        "page_idx": 56
+    },
+    {
+        "type": "text",
+        "text": "21. During the program period, the authorities will report to Fund staff provisional data on a monthly basis on current nonwage noninterest expenditures and domestically financed capital expenditures executed through advance payments and treasury advances, with a lag of no more than 30 days. The data will be drawn from preliminary consolidated treasury account balances. Final data will be provided as soon as the final balances of the treasury accounts are available, but no more than one month after the reporting of provisional data. ",
+        "page_idx": 56
+    },
+    {
+        "type": "text",
+        "text": "22. The government will report to Fund staff: ",
+        "page_idx": 56
+    },
+    {
+        "type": "text",
+        "text": "The monthly balance sheet of the Central Bank, with a maximum lag of one month;   \nThe consolidated balance sheet of banks with a maximum lag of two months; The monetary survey, on a quarterly basis, with a maximum lag of two months; The lending and deposit interest rates of commercial banks, on a monthly basis; and   \nPrudential supervision and financial soundness indicators for bank and nonbank financial institutions, as reported in the Table entitled Situation des Etablissements de Crédit vis-à-vis du Dispositif Prudentiel [Survey of Credit Institutions in Relation to the Prudential Framework], on a quarterly basis. ",
+        "page_idx": 56
+    },
+    {
+        "type": "text",
+        "text": "23. The government will update monthly on the website used for this purpose the amount of airport tax—redevance de développement des infrastructures aéroportuaires (RDIA)— collected, deposited in the escrow account, and used for the repayment of the loan financing the construction of the new airport. ",
+        "page_idx": 56
+    },
+    {
+        "type": "table",
+        "img_path": "Program/722_587_R3/images/72579326109171ef58e6170efc00b671a62e8236605cbe898b2a087434913c64.jpg",
+        "table_caption": [
+            "MEFP Table 1. Quantitative Assessment Criteria (Performance Criteria)and Indicative Targets for 2009 1/ (CFAF billions, unless otherwise specified) "
+        ],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td rowspan=\"2\"></td><td colspan=\"2\">June 30,2009</td><td>September 30,2009</td><td>December 31,2009</td></tr><tr><td>Existing</td><td></td><td>Proposed</td><td></td></tr><tr><td>Assessment (performance) criteria</td><td></td><td></td><td></td><td></td></tr><tr><td>Floor on the basic fiscal balance 2/</td><td>5</td><td>-60</td><td>-90</td><td>-119</td></tr><tr><td>Ceiling on the contracting or guaranteeing of new nonconcessional external debt by the government 3/ 4/</td><td>80 5/</td><td>80 5/</td><td>80 5/</td><td>80 5/</td></tr><tr><td>Ceiling on spending undertaken outside normal and simplified procedures 4/</td><td></td><td></td><td></td><td></td></tr><tr><td>Ceiling on government external payment arrears (stock) 4/</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>Ceiling on the amount of the float (depenses liquidees</td><td></td><td></td><td></td><td></td></tr><tr><td> non payees par le Tresor) 6/</td><td>30</td><td>45</td><td>45</td><td>45</td></tr><tr><td>Indicative target</td><td></td><td></td><td></td><td></td></tr><tr><td>Quarterly ceiling on the share of the value of public sector</td><td></td><td></td><td></td><td></td></tr><tr><td>contracts signed by single tender (percent)</td><td>20</td><td>20</td><td>20</td><td>20</td></tr></table></body></html>\n\n",
+        "page_idx": 57
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 57
+    },
+    {
+        "type": "text",
+        "text": "1/ Indicativetargets forSeptembero9exceptfortheassessment(performance)criteriamonitoredonacontinuous basis.   \n2/ Defined as totalrevenueminus totalexpenditure and netlendingexcluding externallfinancedcapitalexpenditure,   \non-lending,and HIPC and MDRl spending.Cumulative since the beginning of the year.Total revenue excludes   \nprivatization receipts and sales of mobile telephone licenses. 3/ Excluding government or government-guaranteed CFAF borrowing fromfinancialinstitutions within the WAEMU and   \nexternal loans contracted bythe airport project company(AIDB)tofinance the construction of the new Dakar Airpot. 4/ Monitored on a continuous basis. 5/Cumulativesince approvalofsecondPSIreview.TheamountofuptoCFAF80bilionistofinanceexclusivelytheDakarDiamniadio toll highway project.   \n6/Defineasallexpenditureforwhichabilhasbeenreceivedandrecognized(depenseliquidee）butntyetpaidbytheTreasury ",
+        "page_idx": 57
+    },
+    {
+        "type": "table",
+        "img_path": "Program/722_587_R3/images/e223dad2b58b6c406f09d99bce0165bce684b5604d1a807e56fe01c8d5023c69.jpg",
+        "table_caption": [
+            "TABLE 2. STRUCTURAL CONDITIONALITY, June 2009-December 2009 "
+        ],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td>Policy Measures</td><td>Implementation Date</td><td> Macroeconomic Rationale</td></tr><tr><td>Prior action</td><td></td><td></td></tr><tr><td>1. Submit a supplementary budget to Parliament, as described in paragraph 11 of the MEFP.</td><td>June 5, 2009</td><td>Ensure that fiscal policy is consistent with macroeconomic conditions.</td></tr><tr><td>Structural benchmarks</td><td></td><td>Complete the normalization</td></tr><tr><td>1. Decide whether extrabudgetary expenditure should be (i) proposed to Parliament for regularization in the 2010 budget; or (ii) rejected as invalid claims that will not be paid, as</td><td>July 31, 2009</td><td>of the government's financial relations with the private</td></tr><tr><td>described in paragraph 19 of the MEFP.</td><td></td><td>sector and restore full integrity to the fiscal system.</td></tr><tr><td>2. Complete a study on the basis for, and current level of, tax expenditures, as described in paragraph 21 of the MEFP.</td><td>September 30, 2009</td><td>Protect government revenue and increase fairness, performance, and integrity of the tax system.</td></tr><tr><td>3. Complete an external audit of SIGFIP focused on the budget execution database and production of output tables, as described in paragraph 17 of the MEFP.</td><td>September 30, 2009</td><td>Enhance efficiency of the budget monitoring system, increase reliability of real- time data production, expand coverage of budget</td></tr><tr><td>4. Improve flexibility and presentation of the budget, as described in paragraph 16 of the MEFP.</td><td>October 15,2009</td><td>operations, and facilitate TOFE production. Enhance fiscal transparency and public expenditure</td></tr><tr><td>5. Make the ASTER budget accounting module operational, as described in paragraph 18 of the MEFP.</td><td>October 31, 2009</td><td>control. Improve the accounting system for budget and accounting purposes, and</td></tr><tr><td>6. Adopt provisions to transfer FSAPP tax collection to the DGID, as described in paragraph 22 of the MEFP.</td><td>October 31, 2009 revenue.</td><td>make budget data and TOFE production more reliable. Increase transparency and yield of government</td></tr></table></body></html>\n\n",
+        "page_idx": 58
+    }
+]
